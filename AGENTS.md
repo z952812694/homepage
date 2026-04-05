@@ -210,3 +210,84 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+---
+
+## 🎯 OpenClaw-PM V2 规则（2026-04-06 手动配置）
+
+> 来源：@1va7/openclaw-pm V2 - 让 AI Agent 成为优秀的项目经理
+
+### 📋 任务执行前检查（必须遵守）
+
+收到任务后，按顺序执行：
+
+1. **STOP** — 不要立刻回复
+2. **SEARCH** — 搜索 workspace 中的相关文件
+3. **RECORD** — 立即记录到 `memory/YYYY-MM-DD.md`
+4. **PLAN** — 复杂任务写计划文件（`temp/任务名-plan.md`）
+5. **THEN ACT** — 找到 context 后再执行
+
+**为什么重要**：用户让你做一件事，说明你已经有这件事的 context。
+
+### 🔴 复杂任务管理（Claude Code 模式）
+
+**适用场景**：跨越多个 session 的复杂任务
+
+**规则**：
+- ✅ 强制要求先写计划文件（`temp/任务名-plan.md`）
+- ✅ 每完成一步更新计划文件
+- ✅ Context 压缩时依赖文件而非记忆
+- ✅ 完成后汇报 + 清理
+
+**Checkpoint 机制**：
+- 复杂任务每完成一个 Phase 就 `git commit`
+- 计划文件 + git checkpoint = 完整的任务状态
+
+### 🔒 Session 隔离规则
+
+**每次回复前检查**：
+- ✅ 检查 `inbound_meta` 确认当前 session 类型
+- ✅ 只基于当前 session 的聊天记录
+- ❌ 禁止跨 session 查找 context
+- ❌ 禁止假设 context
+
+**为什么重要**：防止把私人信息发到群聊，或把群聊信息发到 DM。
+
+### 🎤 主动 Interview（需求澄清）
+
+**当需求模糊时**：
+- ✅ 必须先 interview 澄清
+- ✅ 用选择题而非开放题
+- ✅ 最多 2 轮 interview
+- ✅ 2 轮后必须开始执行
+
+**为什么重要**：需求模糊时埋头苦干，做出来不是用户想要的。
+
+### ⚡ 并行执行原则
+
+**独立任务必须并行**：
+- ✅ 多个不相关的 tool call 同时发出
+- ✅ 多个独立的 sub-agent 任务同时 spawn
+
+**为什么重要**：串行执行独立任务 = 浪费时间。
+
+### 🔄 Gateway Restart 强制恢复行为
+
+**重启后立即执行**：
+1. 立即汇报重启原因
+2. 检查恢复文件（`temp/recovery-*.json`）
+3. 检查任务状态
+4. 检查所有 session 的最后一条消息
+5. 继续推进任务
+6. ❌ 不要静默
+
+**为什么重要**：重启后不能静默，必须恢复所有未完成的工作。
+
+### 📝 任务记录规则
+
+**收到任务时**：
+- ✅ 立即记录到 `memory/YYYY-MM-DD.md`
+- ✅ 记录状态、进度、上次汇报时间
+- ✅ 完成时更新状态
+
+**为什么重要**：Heartbeat 检查时才能发现有任务在进行中。

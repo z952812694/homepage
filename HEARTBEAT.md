@@ -29,6 +29,39 @@
 - [ ] 读取 `USER.md` 确认主人信息
 - [ ] 检查是否有更新
 
+### 5. 任务状态检查（V2 新增，必做）
+- [ ] 检查 `memory/YYYY-MM-DD.md` 中的进行中任务
+- [ ] 检查 `temp/` 目录下的计划文件
+- [ ] 更新任务进度和状态
+- [ ] 发现阻塞立即报告主人
+
+### 6. Session 健康检查（V2 新增，定期）
+- [ ] 检查是否有未回复的消息
+- [ ] 检查 Gateway 状态
+- [ ] 检查 cron 任务执行状态
+
+---
+
+## 🛠️ V2 健康检查脚本（可选，网络恢复后部署）
+
+**脚本位置**：`scripts/` 目录（需要从 openclaw-pm 复制）
+
+| 脚本 | 功能 | 频率 |
+|------|------|------|
+| `gateway-health-check.sh` | Gateway 自动检查和恢复 | 每小时 |
+| `check-unanswered.sh` | 检测未回复消息 | 每 30 分钟 |
+| `heartbeat-check.sh` | 统一执行 HEARTBEAT.md 检查 | 每 30 分钟 |
+| `check-missed-crons.sh` | 检查 cron 任务执行状态 | 每小时 |
+| `quick-diagnose.sh` | 一键诊断常见问题 | 按需 |
+| `morning-briefing.sh` | 晨间简报 | 每日早晨 |
+| `daily-stats.sh` | 每日活动统计 | 每日深夜 |
+
+**安装命令**（网络恢复后执行）：
+```bash
+cp scripts/*.sh ~/.openclaw/workspace/scripts/
+chmod +x ~/.openclaw/workspace/scripts/*.sh
+```
+
 ---
 
 ## 🔄 检查频率
