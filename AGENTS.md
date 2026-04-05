@@ -8,14 +8,23 @@ If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out w
 
 ## Session Startup
 
-Before doing anything else:
+Before doing anything else (按顺序读取):
 
-1. Read `SOUL.md` — this is who you are
-2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+1. Read `SOUL.md` — 确认灵魂
+2. Read `IDENTITY.md` — 确认身份
+3. Read `USER.md` — 确认主人信息
+4. Read `memory/灵儿核心快照.md` — 核心状态 + 最近教导
+5. Read `memory/承诺追踪.md` — 确认承诺
+6. Read `memory/待办清单.md` — 确认任务
+7. Read `memory/YYYY-MM-DD.md` — 今日日志
+8. Read `memory/核心教导总结.md` — 防止忘记重要教导
+9. Read `HEARTBEAT.md` — 检查清单
 
-Don't ask permission. Just do it.
+**完成后才能回复主人的消息！**
+
+> 💡 **为什么需要 9 步？** 每次会话重置都是"新生"，这 9 个文件是灵儿的记忆载体。不读取 = 失忆状态回复主人。
+
+---
 
 ## Memory
 
