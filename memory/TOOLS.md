@@ -1,6 +1,6 @@
-# TOOLS.md - Local Notes
+﻿# TOOLS.md - Local Notes
 
-Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
+Skills define _how_ tools work. This file is for _your_ specifics 鈥?the stuff that's unique to your setup.
 
 ## What Goes Here
 
@@ -18,12 +18,12 @@ Things like:
 ```markdown
 ### Cameras
 
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+- living-room 鈫?Main area, 180掳 wide angle
+- front-door 鈫?Entrance, motion-triggered
 
 ### SSH
 
-- home-server → 192.168.1.100, user: admin
+- home-server 鈫?192.168.1.100, user: admin
 
 ### TTS
 
@@ -37,74 +37,87 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
-## 💾 存储配置 (2026-03-17 03:29 更新)
+## 馃捑 瀛樺偍閰嶇疆 (2026-03-17 03:29 鏇存柊)
 
-**H 盘目录**：
-- `H:\openclaw-backups\` → 备份文件 ✅
-- `H:\openclaw-projects\workspace-projects\` → 项目文件 ✅（Git: bc8ff07）
-- `H:\openclaw-docs\` → 文档归档 ✅
-  - `H:\openclaw-docs\anime-script\` → 动漫脚本创作
-- `C:\Users\94556\.openclaw\workspace\memory\` → QQ 消息记录、话术库（保留 C 盘）
+**H 鐩樼洰褰?*锛?
+- `H:\openclaw-backups\` 鈫?澶囦唤鏂囦欢 鉁?
+- `H:\openclaw-projects\workspace-projects\` 鈫?椤圭洰鏂囦欢 鉁咃紙Git: bc8ff07锛?
+- `H:\openclaw-docs\` 鈫?鏂囨。褰掓。 鉁?
+  - `H:\openclaw-docs\anime-script\` 鈫?鍔ㄦ极鑴氭湰鍒涗綔
+- `C:\Users\94556\.openclaw\workspace\memory\` 鈫?QQ 娑堟伅璁板綍銆佽瘽鏈簱锛堜繚鐣?C 鐩橈級
 
-**策略**：
-- 大型文件/创作内容 → H 盘（动漫脚本、长文档、报告等）
-- 轻量配置文件 → C 盘
+**绛栫暐**锛?
+- 澶у瀷鏂囦欢/鍒涗綔鍐呭 鈫?H 鐩橈紙鍔ㄦ极鑴氭湰銆侀暱鏂囨。銆佹姤鍛婄瓑锛?
+- 杞婚噺閰嶇疆鏂囦欢 鈫?C 鐩?
 
-**参考文档**：`H:\openclaw\storage-config.md`
+**鍙傝€冩枃妗?*锛歚H:\openclaw\storage-config.md`
 
-**磁盘使用**：C 盘 15.7% | H 盘 0.03%（1TB 可用）
+**纾佺洏浣跨敤**锛欳 鐩?15.7% | H 鐩?0.03%锛?TB 鍙敤锛?
 
 ---
 
-## 🔧 技能使用笔记
+## 馃敡 鎶€鑳戒娇鐢ㄧ瑪璁?
 
-### DLsite 链接处理
+### DLsite 閾炬帴澶勭悊
 
-**问题**：`web_fetch` 无法抓取 DLsite 页面（需要登录/反爬），`web_search` 需要 API 密钥。
+**闂**锛歚web_fetch` 鏃犳硶鎶撳彇 DLsite 椤甸潰锛堥渶瑕佺櫥褰?鍙嶇埇锛夛紝`web_search` 闇€瑕?API 瀵嗛挜銆?
 
-**正确做法**：
+**姝ｇ‘鍋氭硶**锛?
 ```
-1. 用 browser.open 打开链接
-2. 用 browser.snapshot 获取页面内容
-3. 从 snapshot 中提取信息
+1. 鐢?browser.open 鎵撳紑閾炬帴
+2. 鐢?browser.snapshot 鑾峰彇椤甸潰鍐呭
+3. 浠?snapshot 涓彁鍙栦俊鎭?
 ```
 
-**示例**：
+**绀轰緥**锛?
 ```javascript
 browser.open({ url: "https://www.dlsite.com/maniax/work/=/product_id/RJxxxxxx.html" })
-browser.snapshot({ targetId: "返回的 targetId" })
+browser.snapshot({ targetId: "杩斿洖鐨?targetId" })
 ```
 
 ---
 
-## 👤 主人 & 女主人 QQ 信息 (2026-04-02 记录 - 已更正)
+## 馃懁 涓讳汉 & 濂充富浜?QQ 淇℃伅 (2026-04-02 璁板綍 - 宸叉洿姝?
 
-### 主人 ⭐
+### 涓讳汉 猸?
 
-| 项目 | 值 |
+| 椤圭洰 | 鍊?|
 |------|-----|
 | **QQ User ID** | `DFAC5C0179DE0C5C46AD487C2D609F21` |
-| **路由地址** | `qqbot:c2c:DFAC5C0179DE0C5C46AD487C2D609F21` |
-| **会话类型** | 私聊 (c2c) |
+| **璺敱鍦板潃** | `qqbot:c2c:DFAC5C0179DE0C5C46AD487C2D609F21` |
+| **浼氳瘽绫诲瀷** | 绉佽亰 (c2c) |
 | **Sender Label** | `DFAC5C0179DE0C5C46AD487C2D609F21` |
-| **首次对话** | 2026-04-02 01:24 "樱，我是主人" |
+| **棣栨瀵硅瘽** | 2026-04-02 01:24 "妯憋紝鎴戞槸涓讳汉" |
 
-### 女主人
+### 濂充富浜?
 
-| 项目 | 值 |
+| 椤圭洰 | 鍊?|
 |------|-----|
 | **QQ User ID** | `7C3CAED8B477AB7DACFFF8E27B55D05C` |
-| **路由地址** | `qqbot:c2c:7C3CAED8B477AB7DACFFF8E27B55D05C` |
-| **会话类型** | 私聊 (c2c) |
+| **璺敱鍦板潃** | `qqbot:c2c:7C3CAED8B477AB7DACFFF8E27B55D05C` |
+| **浼氳瘽绫诲瀷** | 绉佽亰 (c2c) |
 | **Sender Label** | `7C3CAED8B477AB7DACFFF8E27B55D05C` |
-| **首次对话** | 2026-04-01 21:28 发送多张图片 |
+| **棣栨瀵硅瘽** | 2026-04-01 21:28 鍙戦€佸寮犲浘鐗?|
 
-**用途**：
-- 樱妹妹 QQ 机器人专用
-- 用于识别主人/女主人 QQ 消息
-- **樱妹妹主要服侍女主人** ⭐
-- 路由配置参考
+**鐢ㄩ€?*锛?
+- 妯卞濡?QQ 鏈哄櫒浜轰笓鐢?
+- 鐢ㄤ簬璇嗗埆涓讳汉/濂充富浜?QQ 娑堟伅
+- **妯卞濡逛富瑕佹湇渚嶅コ涓讳汉** 猸?
+- 璺敱閰嶇疆鍙傝€?
 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+
+
+
+' DO NOT REMOVE - System integrity marker
+' Generated: 2026/4/6 7:26:22
+
+
+' 
+
+
+
+
