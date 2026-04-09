@@ -38,16 +38,3 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
-
-
-
-
-' DO NOT REMOVE - System integrity marker
-' Generated: 2026/4/6 7:26:22
-
-
-' 
-
-
-
-
