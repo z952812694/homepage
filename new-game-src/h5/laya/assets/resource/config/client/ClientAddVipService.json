@@ -1,0 +1,76 @@
+{   
+    "1":{
+		"tem": [
+			"jzy_sh921_wx_P0010642",
+			"jzy_sh921_wx_P0011415",
+			"jzy_sh921_wx_PM002569",
+			"jzy_sh921_wx_PM002676",
+			"jzy_sh921_wx_PM002823",
+			"yy_suyou_wx_1",
+			"yy_suyou_wx_test1",
+			"jzy_sh921_test_ios_P0010643",
+			"jzy_sh921_test_P0010642",
+			"jzy_sh921_wx_ios_P0010643 ",
+			"jzy_sh921_wx_ios_P0011418",
+			"yy25dlaya_kf",
+			"jzy_sh921_test"
+		],
+		"icon_info":{
+			"icon_name":"114",
+			"open_lv": 90,
+			"open_day": 0
+		},
+        "title":"ui_gz_title",
+        "code":"image001",
+        "des":"1.截图识别二维码获取更多资讯。<br>2.添加客服可第一时间获取游戏帮助。<br>3.可获取<font color='#0a953e'>第一手</font>游戏资讯。",
+        "des1":"<font color='#ffffff'>扫码获取</font><font color='#fffa6e'>更多资讯</font>",
+        "reward": []
+    },
+    "2":{
+		"tem": [
+			"yy_suyou"
+		],
+		"icon_info":{
+			"icon_name":"117",
+			"open_lv": 150,
+			"open_day": 0
+		},
+        "title":"ui_gz_title2",
+        "code":"image002",
+        "des":"1.专属客服贴心服务，意见建议直达策划！<br>2.游戏第一手资料，优先得知！<br>3.添加客服微信，领取大礼包！<br>4.不定时活动和福利！",
+        "des1":"<font color='#ffffff'>添加微信获取</font><font color='#fffa6e'>专属礼包</font>",
+        "reward": [
+            [
+                0,
+                35,
+                200
+            ],
+             [
+                0,
+                31,
+                200000
+            ],
+            [
+                0,
+                37020002,
+                1
+            ]
+        ]
+    },
+	"tem":[
+		"jzy_sh921_wx_P0010642",
+		"jzy_sh921_wx_P0011415",
+		"jzy_sh921_wx_PM002569",
+		"jzy_sh921_wx_PM002676",
+		"jzy_sh921_wx_PM002823",
+		"yy_suyou_wx_1",
+		"yy_suyou_wx_test1",
+		"jzy_sh921_test_ios_P0010643",
+		"jzy_sh921_test_P0010642",
+		"jzy_sh921_wx_ios_P0010643 ",
+		"jzy_sh921_wx_ios_P0011418",
+		"yy25dlaya_kf",
+		"yy_suyou",
+		"jzy_sh921_test"
+	]
+}

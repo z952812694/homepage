@@ -1,0 +1,131 @@
+{
+    "1100005": {
+        "action_list": [
+            "show",
+            "idle"
+        ]
+    },
+    "1100002": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "1@0": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "1100003": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "3@0": {
+        "action_list": [
+            "idle"
+        ]
+    },
+    "5@0": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "12@0": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "12@1": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "4@0": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "1100012": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "1100009": {
+        "action_list": [
+            "casual1",
+            "casual2",
+            "idle"
+        ]
+    },
+    "1100010": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "3@1": {
+        "action_list": [
+            "idle"
+        ]
+    },
+    "1100011": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "1100008": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "2@1": {
+        "action_list": []
+    },
+    "1100001": {
+        "action_list": [
+            "show2",
+            "show"
+        ]
+    },
+    "4@1": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "1@1": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "1100006": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "2@0": {
+        "action_list": []
+    },
+    "1100007": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    },
+    "5@1": {
+        "action_list": [
+            "show"
+        ]
+    },
+    "1100004": {
+        "action_list": [
+            "casual",
+            "idle"
+        ]
+    }
+}

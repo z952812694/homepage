@@ -1,0 +1,38 @@
+{
+    "Main_Btn_Cfg":{
+        "1":{"strokeColor":"0x613EC6","title":"uibs_008a","up_bg":"convoy_json.uisjhs_btn_3_png","down_bg":"convoy_json.uisjhs_btn_s3_png"},
+        "2":{"strokeColor":"0xFF6600","title":"uibs_008b","up_bg":"convoy_json.uisjhs_btn_4_png","down_bg":"convoy_json.uisjhs_btn_s4_png"},
+        "3":{"strokeColor":"0xFF2E2C","title":"uibs_008c","up_bg":"convoy_json.uisjhs_btn_5_png","down_bg":"convoy_json.uisjhs_btn_s5_png"}
+    },
+    "Select_Item_Cfg":{
+        "1":{"strokeColor":"0x813FA7","title":"uisjhssjxz_003","bg":"uihssjcjxz_002c"},
+        "2":{"strokeColor":"0xA26121","title":"uisjhssjxz_002","bg":"uihssjcjxz_002b"},
+        "3":{"strokeColor":"0xC16F17","title":"uisjhssjxz_005","bg":"uihssjcjxz_002a"}
+    },
+    "Scene_Item_Cfg":{
+        "1":{"image":"uihssjcjxz_004","select":"uihssjcjxz_001a"},
+        "2":{"image":"uihssjcjxz_004","select":"uihssjcjxz_001a"},
+        "3":{"image":"uihssjcjxz_003","select":"uihssjcjxz_001b"}
+    },
+    "Scene_Name_Cfg":{
+        "48001":{"title":"uihsl_016"},
+        "48002":{"title":"uihsl_016b"}
+    },
+    "Scene_Alert_Cfg":{
+       "0":{
+           "diff":true,
+           "0":{"desc":"未护送-会员","tips":"本结社尚未开始护送，只能会长和副会长可以开始护送哦，赶紧催促会长大人迅速开车吧~","alert_type":1,"ok":"协助护送","cancel":"催促开车"},
+           "1":{"desc":"未护送-会长","tips":"要带领结社成员们一起开始护送水晶吗，护送成功有高额的报酬哦！","alert_type":1,"ok":"开始护送","cancel":"召集成员"}
+           },
+       "1":{
+           "diff":true,
+           "0":{"desc":"护送中-会员","tips":"本结社已经在场景名称内开始护送水晶类型，是否开始协助护送？","alert_type":1,"ok":"协助护送","cancel":"暂不护送"},
+           "1":{"desc":"护送中-会长","tips":"要带领结社成员们一起开始护送水晶吗，护送成功有高额的报酬哦！","alert_type":1,"ok":"协助护送","cancel":"召集成员"}
+            },
+       "2":{
+           "diff":false,
+           "0":{"desc":"护送结束","tips":" 本结社此次护送已经结束，下次记得及时参加哦~现在去掠夺其他结社护送的水晶吧~","alert_type":0,"ok":"我知道了"}
+           }
+    },
+    "Rank_Content":"1. 成功<font color=\"#639c12\">护送水晶</font>能够获得相应的积分值，水晶受损积分值会减少。\n2.当护送的水晶被伤害至严重受则被掠夺，在该水晶附近且未死亡并且对该水晶造成伤害的其他结社玩家均可获得一定积分，对该水晶造成最后一击的玩家可以获得大量积分（掠夺奖励次数用完也可获得积分）。\n3.护送积分和掠夺积分最终汇总参加排行榜，排行榜结算后的奖励参与护送和贡献掠夺积分的成员均可获得一份。"
+}

@@ -1,0 +1,30 @@
+{
+	"version":"LAYAMATERIAL:02",
+	"props":{
+		"type":"Laya.ShurikenParticle",
+		"name":"eff_cys_082",
+		"textures":[],
+		"vectors":[
+			{
+				"name":"_TintColor",
+				"value":[
+					0.4190103,
+					0.7499586,
+					0.8301887,
+					0.3490196
+				]
+			}
+		],
+		"defines":[
+			"ADDTIVEFOG",
+			"_ALPHABLEND_ON"
+		],
+		"cull":0,
+		"blendSrc":770,
+		"blendDst":1,
+		"blend":1,
+		"depthWrite":false,
+		"depthTest":515,
+		"renderQueue":3001
+	}
+}

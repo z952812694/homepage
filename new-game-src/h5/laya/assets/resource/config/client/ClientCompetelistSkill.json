@@ -1,0 +1,140 @@
+{
+	"1401053" : {
+		"name": "特殊属性加成",
+		"desc1": "攻击加成<font color = '#d15e00'>+0.4%</font>",
+		"desc2": "技能伤害<font color = '#d15e00'>+1%</font>"
+	},
+	"1401132": {
+		"name": "特殊属性加成",
+		"desc1": "抗暴几率<font color = '#d15e00'>+1%</font>",
+		"desc2": "生命加成<font color = '#d15e00'>+1%</font>"
+	},
+	"1401153": {
+		"name": "特殊属性加成",
+		"desc1": "伤害加深<font color = '#d15e00'>+0.5%</font>",
+		"desc2": "生命加成<font color = '#d15e00'>+1%</font>"
+	},
+	"1401082": {
+		"name": "特殊属性加成",
+		"desc1": "抗暴几率<font color = '#d15e00'>+1%</font>",
+		"desc2": "破甲加成<font color = '#d15e00'>+2%</font>"
+	},
+	"1401111": {
+		"name": "特殊属性加成",
+		"desc1": "伤害减免<font color = '#d15e00'>+0.2%</font>",
+		"desc2": "命中加成<font color = '#d15e00'>+1%</font>"
+	},
+	"1401061": {
+		"name": "特殊属性加成",
+		"desc1": "攻击加成<font color = '#d15e00'>+1%</font>",
+		"desc2": "技能减免<font color = '#d15e00'>+3%</font>"
+	},
+	"1705001": {
+		"name": "特殊属性加成",
+		"desc1": "破甲加成<font color = '#d15e00'>+1%</font>"
+	},
+	"1604003": {
+		"name": "特殊属性加成",
+		"desc1": "会心加深<font color = '#d15e00'>+3%</font>"
+	},
+	"1503003": {
+		"name": "特殊属性加成",
+		"desc1": "生命加成<font color = '#d15e00'>+1.2%</font>"
+	},
+	"8203104": {
+		"name": "变身加成",
+		"desc1": "免疫<font color = '#d15e00'>特殊伤害</font>",
+		"desc2": "攻击概率回复<font color = '#d15e00'>5%</font>气血"
+	},
+	"8204104": {
+		"name": "变身加成",
+		"desc1": "免疫<font color = '#d15e00'>控制效果</font>",
+		"desc2": "伤害减免<font color = '#d15e00'>+15%</font>"
+	},
+	"8301104": {
+		"name": "变身加成",
+		"desc1": "变身无敌延长<font color = '#d15e00'>2秒</font>",
+		"desc2": "伤害减免<font color = '#d15e00'>+15%</font>"
+	},
+	"8302104": {
+		"name": "变身加成",
+		"desc1": "概率吸血<font color = '#d15e00'>50%</font>会心伤害",
+		"desc2": "会心几率<font color = '#d15e00'>+10%</font>"
+	},
+	"8303104": {
+		"name": "变身加成",
+		"desc1": "概率眩晕目标<font color = '#d15e00'>1秒</font>",
+		"desc2": "PVP概率<font color = '#d15e00'>灼烧敌人</font>"
+	},
+	"1604002": {
+		"name": "特殊属性加成",
+		"desc1": "命中几率<font color = '#d15e00'>+1.2%</font>"
+	},
+	"1705003": {
+		"name": "特殊属性加成",
+		"desc1": "抗会心率<font color = '#d15e00'>+1.2%</font>"
+	},
+	"1604001": {
+		"name": "特殊属性加成",
+		"desc1": "攻击加成<font color = '#d15e00'>+1.5%</font>"
+	},
+	"5006082": {
+		"name": "特殊属性加成",
+		"desc1": "满级破甲加成<font color = '#d15e00'>+9%</font>"
+	},
+	"5006061": {
+		"name": "特殊属性加成",
+		"desc1": "满级防御加成<font color = '#d15e00'>+9%</font>"
+	},
+	"5005033": {
+		"name": "特殊属性加成",
+		"desc1": "满级伤害减免<font color = '#d15e00'>+4.5%</font>"
+	},
+	"5210002": {
+		"name": "特殊属性加成",
+		"desc1": "满级防御加成<font color = '#d15e00'>+10.8%</font>"
+	},
+	"8203203": {
+		"name": "特殊属性加成",
+		"desc1": "满级伤害加深<font color = '#d15e00'>+4.5%</font>"
+	},
+	"1401182": {
+		"name": "特殊属性加成",
+		"desc1": "破甲加成<font color = '#d15e00'>+0.4%</font>",
+		"desc2": "技能伤害减免<font color = '#d15e00'>+1%</font>"
+	},
+	"1503001": {
+		"name": "特殊属性加成",
+		"desc1": "会心几率<font color = '#d15e00'>+1.2%</font>"
+	},
+	"1504001": {
+		"name": "特殊属性加成",
+		"desc1": "攻击加成<font color = '#d15e00'>+0.4%</font>",
+		"desc2": "会心几率<font color = '#d15e00'>+1%</font>"
+	},
+	"4401009": {
+		"name": "特殊属性加成",
+		"desc1": "满级攻击加成<font color = '#d15e00'>+4.5%</font>"
+		
+	},
+	"1401051": {
+		"name": "特殊属性加成",
+		"desc1": "满级坚韧加成<font color = '#d15e00'>+8.5%</font>",
+		"desc2": "满级暴击减免<font color = '#d15e00'>+2%</font>"
+	},
+	"1401052": {
+		"name": "特殊属性加成",
+		"desc1": "满级生命加成<font color = '#d15e00'>+8.5%</font>",
+		"desc2": "满级技能减免<font color = '#d15e00'>+1.5%</font>"
+	},
+	"1401053": {
+		"name": "特殊属性加成",
+		"desc1": "满级防御加成<font color = '#d15e00'>+8.5%</font>",
+		"desc2": "满级伤害减免<font color = '#d15e00'>+0.5%</font>"
+	},
+	"1401091": {
+		"name": "特殊属性加成",
+		"desc1": "满级生命加成<font color = '#d15e00'>+8.5%</font>",
+		"desc2": "满级抗暴几率<font color = '#d15e00'>+0.5%</font>"
+	}
+}

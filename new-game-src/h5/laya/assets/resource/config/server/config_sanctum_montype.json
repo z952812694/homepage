@@ -1,0 +1,1 @@
+{"1":{"montype":1,"mon_name":"boss","refresh":"[{\"0\":\"time\",\"1\":5}]","desc1":"5分钟后开始刷新该怪物","reborn_time":"0","desc2":"不再复活"},"2":{"montype":2,"mon_name":"精英","refresh":"[]","desc1":"活动开始刷新","reborn_time":"360","desc2":"复活间隔360s"},"3":{"montype":3,"mon_name":"小怪","refresh":"[]","desc1":"活动开启刷新","reborn_time":"0","desc2":"走怪物表复活"}}

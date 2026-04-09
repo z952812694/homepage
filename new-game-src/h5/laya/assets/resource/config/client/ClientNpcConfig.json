@@ -1,0 +1,28 @@
+{   
+    "描述":{
+        "plat_name": "平台名",
+        "name": "名称",
+        "into_wefare_lv": "等级大于lv，则添加进福利图标里面",
+        "into_wefare_at_open_day": "开服天数大于等于x天，则添加进福利图标",
+        "reward_txt": "奖励文本描述",
+        "reward_list": "奖励列表",
+        "content": "内容文本描述",
+        "copy_txt": "复制的公众号内容"
+    },
+    "yy_sh921_lj_PM001073":{
+        "plat_name": "yy_sh921_lj_PM001073",
+        "name": "爱微游关注有礼",
+        "into_wefare_lv": 110,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "由爱微游平台独家提供",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+        "content": " 1、点击<font color=#f8f503>领取奖励</font> \n 2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "梦幻契约H5"
+    }
+}

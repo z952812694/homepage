@@ -1,0 +1,96 @@
+{
+    "0": {
+        "name": "说明",
+        "linkList": [
+            {
+                "jump_id": "跳转id",
+                "icon": {
+                    "format": "图片格式",
+                    "asset": "文件夹",
+                    "pos": "位置，不需要可不填",
+                    "scal": "缩放，不需要可不填",
+                    "isOutSide": "是否外部图片,ui文件夹以外的都是外部",
+                    "name": "图片名"
+                },
+                "index": "索引"
+            }
+        ]
+    },
+    "1041": {
+        "name": "全服契灵榜",
+        "linkList": [
+            {
+                "jump_id": 190,
+                "index": 1
+            },
+            {
+                "jump_id": 16,
+                "index": 2
+            }
+        ]
+    },
+    "1044": {
+        "name": "图谱达标",
+        "linkList": [
+            {
+                "jump_id": 29,
+                "index": 1
+            },
+            {
+                "jump_id": 51,
+                "index": 2
+            }
+        ]
+    },
+    "1043": {
+        "name": "全服图谱榜",
+        "linkList": [
+            {
+                "jump_id": 29,
+                "index": 1
+            },
+            {
+                "jump_id": 51,
+                "index": 2
+            }
+        ]
+    },
+    "1042": {
+        "name": "契灵达标",
+        "linkList": [
+            {
+                "jump_id": 190,
+                "index": 1
+            },
+            {
+                "jump_id": 16,
+                "index": 2
+            }
+        ]
+    },
+    "33238": {
+        "name": "天命转盘",
+        "linkList": [
+            {
+                "jump_id": 192,
+                "index": 90
+            },
+            {
+                "jump_id": 232,
+                "index": 91
+            },
+            {
+                "jump_id": 140,
+                "index": 92
+            },
+            {
+                "jump_id": 194,
+                "index": 93
+            },
+            {
+                "jump_id": 55,
+                "index": 94
+            }
+        ]
+    }
+}

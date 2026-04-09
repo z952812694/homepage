@@ -1,0 +1,192 @@
+{
+	"buff类型": {
+		"name": "buff名称",
+        "icon": "图标",
+        "desc": "描述",
+        "time": "持续时间",
+		"is_pinned": "是否置顶/0为不置顶，top为置顶，bottom为置底",
+		"pin_id": "置顶/置底序号",
+		"skill_list": "在此列表里的技能id会触发此buff，[技能id1,技能id2……]",
+		"spec":"特殊运算类型，0/无，1/乘100，2/除10000"
+	},
+    "world": {
+        "name": "世界等级",
+        "icon": "worldlv",
+        "desc": "世界等级:<font color='#00b11d'>worldlv级</font><br/>获得经验<font color='#00b11d'>+worldexp%</font>",
+        "time": 0, 
+		"is_pinned": "bottom",
+		"pin_id": "1"
+    },
+    "guildfight": {
+        "name": "士气鼓舞",
+        "icon": "4203002",
+        "desc": "结社争霸活动中，其他结社成员可获得<font color='#00b11d'><attr></font>",
+        "time": 0
+    },
+    "vip": {
+        "name": "vip加成",
+        "icon": "vip",
+        "desc": "vip可享受获得经验<font color='#00b11d'>+vipexp%</font>，获得金币<font color='#00b11d'>+vipgold%</font>",
+        "time": 0,
+		"is_pinned": "top",
+		"pin_id": "2"
+    },
+    "guard1": {
+        "name": "经验喵",
+        "icon": "guard1",
+        "desc": "激活经验喵后获得经验<font color='#00b11d'>+50%</font>",
+        "time": 0
+    },
+    "guard2": {
+        "name": "守护喵",
+        "icon": "guard2",
+        "desc": "激活守护喵后伤害减免<font color='#00b11d'>+15%</font>",
+        "time": 0
+    },
+    "guard3": {
+        "name": "高级经验喵",
+        "icon": "guard3",
+        "desc": "激活高级经验喵后获得经验<font color='#00b11d'>+50%</font>;伤害加深<font color='#00b11d'>+5%</font>",
+        "time": 0
+    },
+    "guard4": {
+        "name": "高级守护喵",
+        "icon": "guard4",
+        "desc": "激活高级守护喵后伤害减免<font color='#00b11d'>+20%</font>;格挡几率<font color='#00b11d'>+10%</font>",
+        "time": 0
+    },
+    "weeklyCard": {
+        "name": "周卡BUFF",
+        "icon": "zhouka",
+        "desc": "享受资源加成、专属礼包等特权",
+        "time": 0
+    },
+    "bossTired": {
+        "name": "复活疲劳",
+        "icon": "bosstired",
+        "desc": "累计5层后将强制延长<font color='#00b11d'>世界大妖</font>场景的复活等待时间",
+        "time": 0
+    },
+    "holyBossTired": {
+        "name": "复活疲劳",
+        "icon": "bosstired",
+        "desc": "累计5层后将强制延长<font color='#00b11d'>蜃气楼</font>场景的复活等待时间",
+        "time": 0
+    },
+    "holyTerrTired": {
+        "name": "复活疲劳",
+        "icon": "bosstired",
+        "desc": "累计5层后将强制延长<font color='#00b11d'>异域</font>场景的复活等待时间",
+        "time": 0
+    },
+    "kfHolyAreaTired": {
+        "name": "复活疲劳",
+        "icon": "bosstired",
+        "desc": "累计5层后将强制延长<font color='#00b11d'>跨服异域</font>场景的复活等待时间",
+        "time": 0
+    },
+    "guildguard1": {
+        "name": "守卫攻击光环",
+        "icon": "guildguard1",
+        "desc": "友方攻击增加<font color='#00b11d'>+20%</font>",
+        "time": 0
+    },
+    "guildguard2": {
+        "name": "守卫生命光环",
+        "icon": "guildguard2",
+        "desc": "友方生命增加<font color='#00b11d'>+20%</font>",
+        "time": 0
+    },
+    "eternityTired": {
+        "name": "复活疲劳",
+        "icon": "bosstired",
+        "desc": "累计5层后将强制延长<font color='#00b11d'>天启之源</font>场景的复活等待时间",
+        "time": 0
+    },
+    "mengmr": {
+        "name": "蒙面变身",
+        "icon": "mengmr",
+        "desc": "处于蒙面变身中",
+        "time": 0
+	},
+	"104": {
+		"name": "护盾",
+		"icon": "104",
+		"desc": "生成一个护盾",
+		"time": "0",
+		"skill_list": "[342105,342205,342305,342405,5203005,8101205,82010100,366321203,366321204,366321205]",
+		"spec": "1"
+	},
+	"106": {
+		"name": "无敌",
+		"icon": "106",
+		"desc": "无敌状态中",
+		"time": "0",
+		"skill_list": "[1000003,1860001,3602061,4900103,4900104,4900105,8000000,8301205,44010002,82080100]",
+		"spec": "1"
+	},
+	"114": {
+		"name": "吸血",
+		"icon": "114",
+		"desc": "攻击可进行吸血",
+		"time": "0",
+		"skill_list": "[341210,7010007,8302205,8402201,55010005,82090100]",
+		"spec": "1"
+	},
+	"115": {
+		"name": "反弹",
+		"icon": "115",
+		"desc": "反弹伤害",
+		"time": "0",
+		"skill_list": "[5210005]",
+		"spec": "1"
+	},
+	"116": {
+		"name": "回血",
+		"icon": "116",
+		"desc": "每秒回复{0}血量",
+		"time": "0",
+		"skill_list": "[341110,342004,510002,1503004,3201023,3602062,4301003,5207005,5211005,5213001,8203202,8203204,8303204,8304201,8305203,55010004,82060300,82060500,82100500]",
+		"spec": "1"
+	},
+	"124": {
+		"name": "血量伤害上限",
+		"icon": "124",
+		"desc": "无敌状态中",
+		"time": "0",
+		"skill_list": "[8201204,8201205,82040100,82040500]",
+		"spec": "1"
+	},
+	"126": {
+		"name": "天神下凡",
+		"icon": "126",
+		"desc": "触发天神下凡状态",
+		"time": "0",
+		"skill_list": "[341001]",
+		"spec": "1"
+	},
+	"132": {
+		"name": "减固定CD",
+		"icon": "132",
+		"desc": "技能CD减少",
+		"time": "0",
+		"skill_list": "[341003]",
+		"spec": "1"
+	},
+	"135": {
+		"name": "无敌",
+		"icon": "135",
+		"desc": "触发无敌状态",
+		"time": "0",
+		"skill_list": "[55010002]",
+		"spec": "1"
+	},
+	"202": {
+		"name": "经验加成百分比",
+		"icon": "202",
+		"desc": "经验额外加成{0}",
+		"time": "0",
+		"skill_list": "[8103202,82030300]",
+		"spec": "3"
+	}
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "装备",
+        "jumpId": 9,
+        "tab": [],
+        "index": 0
+    },
+    {
+        "name": "共鸣",
+        "jumpId": 24,
+        "tab": [],
+        "index": 1
+    },
+    {
+        "name": "宝石",
+        "jumpId": 11,
+        "tab": [],
+        "index": 2
+    },
+    {
+        "name": "通灵",
+        "jumpId": 110,
+        "tab": [
+            {
+                "name": "御魂",
+                "index": 3
+            },
+            {
+                "name": "图谱",
+                "index": 4
+            },
+            {
+                "name": "蜃妖",
+                "index": 5
+            }
+        ]
+    },
+    {
+        "name": "角色",
+        "jumpId": 22,
+        "tab": [
+            {
+                "name": "人物",
+                "index": 6
+            },
+            {
+                "name": "时装",
+                "index": 7
+            },
+            {
+                "name": "羽翼",
+                "index": 11
+            },
+            {
+                "name": "神兵",
+                "index": 13
+            },
+            {
+                "name": "御守",
+                "index": 12
+            }
+        ]
+    },
+    {
+        "name": "式神",
+        "jumpId": 2,
+        "tab": [
+            {
+                "name": "坐骑",
+                "index": 9
+            },
+            {
+                "name": "侍魂",
+                "index": 10
+            },
+            {
+                "name": "神巫",
+                "index": 14
+            }
+        ]
+    },
+    {
+        "name": "影装",
+        "jumpId": 84,
+        "tab": [],
+        "index": 15
+    },
+    {
+        "name": "姻缘",
+        "jumpId": 93,
+        "tab": [
+            {
+                "name": "戒指",
+                "index": 16
+            },
+            {
+                "name": "宝宝",
+                "index": 17
+            }
+        ]
+    }
+]

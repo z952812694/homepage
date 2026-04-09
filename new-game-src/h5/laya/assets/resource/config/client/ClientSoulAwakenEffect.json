@@ -1,0 +1,17 @@
+{
+    "品质": {
+        "觉醒等级": "特效名"
+    },
+    "4": {
+        "1": "ui_gathericon_yellow1",
+        "3": "ui_gathericon_yellow2",
+        "6": "ui_gathericon_yellow3",
+        "10": "ui_gathericon_yellow4"
+    },
+    "5": {
+        "1": "ui_gathericon_red1",
+        "3": "ui_gathericon_red2",
+        "6": "ui_gathericon_red2",
+        "10": "ui_gathericon_red4"
+    }
+}

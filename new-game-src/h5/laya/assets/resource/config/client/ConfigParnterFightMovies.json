@@ -1,0 +1,25 @@
+{
+    "5200000": {
+        "damage_time": 0.5,
+        "back_swing": 1,
+        "anim": "attack2",
+        "hit_effect": ""
+    },
+    "5201001": {
+        "damage_time": 0.5,
+        "back_swing": 1,
+        "anim": "attack3",
+        "hit_effect": "",
+        "particles": [
+            {
+                "start_time": 0,
+                "particle_speed": 0.9,
+                "scale": 1.15,
+                "dir_type": 1,
+                "play_time_len": 0,
+                "res": "clothe_1100001_at3",
+                "pos_type": 6
+            }
+        ]
+    }
+}

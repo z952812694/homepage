@@ -1,0 +1,486 @@
+{   
+    "描述":{
+        "plat_name": "平台名",
+        "name": "名称",
+        "into_wefare_lv": "等级大于lv，则添加进福利图标里面",
+        "into_wefare_at_open_day": "开服天数大于等于x天，则添加进福利图标",
+        "reward_txt": "奖励文本描述",
+        "reward_list": "奖励列表",
+        "special_reward_list": "特殊的奖励列表",
+        "content": "内容文本描述",
+        "copy_txt": "复制的公众号内容"
+    },
+    "yy_sh921_lj_PM001073":{
+        "plat_name": "yy_sh921_lj_PM001073",
+        "name": "爱微游关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "由爱微游平台独家提供",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+        "content": " 1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "梦幻契约H5"
+    },
+    "yy_sh921_lj_PM001072":{
+        "plat_name": "yy_sh921_lj_PM001072",
+        "name": "疯狂关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "梦幻契约H5"
+    },
+    "yy_sh921_wx_PM000876":{
+        "plat_name": "yy_sh921_wx_PM000876",
+        "name": "梦幻契约链接端关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "梦幻契约H5"
+    },
+    "yy_sh921_lj_PM001069":{
+        "plat_name": "yy_sh921_lj_PM001069",
+        "name": "异世幻想链接接端关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "yshx6677"
+    },
+    "yy_sh921_lj_myczj_PM001200":{
+        "plat_name": "yy_sh921_lj_myczj_PM001200",
+        "name": "命运战纪链接端关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "命运创战纪H5"
+    },
+    "yy_sh921_lj_xxml_PM001085":{
+        "plat_name": "yy_sh921_lj_xxml_PM001085",
+        "name": "精灵天使链接端关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "xxmlgame"
+    },
+    "yy_sh921_lj_bzml_PM001332":{
+        "plat_name": "yy_sh921_lj_bzml_PM001332",
+        "name": "暴走魔灵链接端关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "bzmlh5"
+    },
+    "yy_sh921_lj_mfdxc_PM001341":{
+        "plat_name": "yy_sh921_lj_mfdxc_PM001341",
+        "name": "魔法地下城链接端关注有礼",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "mfdxch5"
+    },
+    "yy_sh921_lj_xunlei_PM001432":{
+        "plat_name": "yy_sh921_lj_xunlei_PM001432",
+        "name": "迅雷链接端关注有礼, 用做测试用",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、独家专属礼包：关注微信公众号领取礼包。\n2、微端包专属称号：关注公众号并下载微端，专属称号将邮件发送到你手里。",
+        "copy_txt": "迅雷"
+    },
+    "yy_sh921_wx_P0004130":{
+        "plat_name": "yy_sh921_wx_P0004130",
+        "name": "梦幻契约H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "梦幻契约H5"
+    },
+    "yy_sh921_wx_ios_P0004143":{
+        "plat_name": "yy_sh921_wx_ios_P0004143",
+        "name": "梦幻契约H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "梦幻契约H5"
+    },
+    "yy_sh921_wx_P0005855":{
+        "plat_name": "yy_sh921_wx_P0005855",
+        "name": "异世幻想H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "yshx6677"
+    },
+    "yy_sh921_wx_ios_P0005854":{
+        "plat_name": "yy_sh921_wx_ios_P0005854",
+        "name": "异世幻想H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "yshx6677"
+    },
+    "yy_sh921_wx_myczj_P0006222":{
+        "plat_name": "yy_sh921_wx_myczj_P0006222",
+        "name": "命运战纪H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "命运创战纪H5"
+    },
+    "yy_sh921_wx_myczj_ios_P0006223":{
+        "plat_name": "yy_sh921_wx_myczj_ios_P0006223",
+        "name": "命运战纪H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "命运创战纪H5"
+    },
+    "yy_sh921_wx_xxml_P0005908":{
+        "plat_name": "yy_sh921_wx_xxml_P0005908",
+        "name": "精灵天使H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "xxmlgame"
+    },
+    "yy_sh921_wx_xxml_ios_P0005907":{
+        "plat_name": "yy_sh921_wx_xxml_ios_P0005907",
+        "name": "精灵天使H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "xxmlgame"
+    },
+    "yy_sh921_wx_bzml_P0006641":{
+        "plat_name": "yy_sh921_wx_bzml_P0006641",
+        "name": "暴走魔灵H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "bzmlh5"
+    },
+    "yy_sh921_wx_bzml_ios_P0006642":{
+        "plat_name": "yy_sh921_wx_bzml_ios_P0006642",
+        "name": "暴走魔灵H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "bzmlh5"
+    },
+    "yy_sh921_wx_mfdxc_P0006664":{
+        "plat_name": "yy_sh921_wx_mfdxc_P0006664",
+        "name": "魔法地下城H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "mfdxch5"
+    },
+    "yy_sh921_wx_mfdxc_ios_P0006665":{
+        "plat_name": "yy_sh921_wx_mfdxc_ios_P0006665",
+        "name": "魔法地下城H5小程序",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "special_reward_list": [
+            [100,38065084,1]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "mfdxch5"
+    },
+    "yy_sh921_lj_PM001074":{
+        "plat_name": "yy_sh921_lj_PM001074",
+        "name": "H5大混服",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": ""
+    },
+    "yy_sh921_wx_syhx_P0006844":{
+        "plat_name": "yy_sh921_wx_syhx_P0006844",
+        "name": "神域幻想",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "gamesww"
+    },
+    "yy_sh921_wx_syhx_ios_P0006845":{
+        "plat_name": "yy_sh921_wx_syhx_ios_P0006845",
+        "name": "神域幻想",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "gamesww"
+    },
+    "yy_sh921_wx_cssz_P0007326":{
+        "plat_name": "yy_sh921_wx_cssz_P0007326",
+        "name": "创世神战",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "gamesww"
+    },
+    "yy_sh921_wx_cssz_ios_P0007324":{
+        "plat_name": "yy_sh921_wx_cssz_ios_P0007324",
+        "name": "创世神战",
+        "into_wefare_lv": 30,
+        "into_wefare_at_open_day": 8,
+        "reward_txt": "",
+        "reward_list": [
+            [100,16020001,5],
+            [100,32010002,2],
+            [100,38040005,30],
+            [100,37020001,2],
+            [2,0,200]
+       ],
+       "content": "1、点击<font color=#f8f503>领取奖励</font> \n2、奖励通过邮件发送，关注后重新登录游戏即可收到奖励邮件",
+        "copy_txt": "gamesww"
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "Flag": {
+        "IsNoonPartyScene": {
+            "find_monster_distance": 1000,
+            "distance": 100000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "GuildWarScene": {
+            "find_monster_distance": 1000,
+            "distance": 1100,
+            "auto_change_god": true,
+            "contain_collect_type": false
+        },
+        "IsPolarDungeon": {
+            "find_monster_distance": 600,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "NineSkyScene": {
+            "find_monster_distance": 10000,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "GuildGuardDungeon": {
+            "find_monster_distance": 1000,
+            "distance": 900,
+            "auto_change_god": true,
+            "contain_collect_type": false
+        },
+        "DungeonHeadScene": {
+            "find_monster_distance": 1000,
+            "distance": 3000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "kfHolyAreaScene": {
+            "find_monster_distance": 800,
+            "distance": 1000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "ButterflyScene": {
+            "find_monster_distance": 1000,
+            "distance": 100000,
+            "auto_change_god": false,
+            "contain_collect_type": true
+        },
+        "FieldBoss": {
+            "find_monster_distance": 1000,
+            "distance": 1000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "IsHolyTerritory": {
+            "find_monster_distance": 1000,
+            "distance": 1000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "BroadCastScene": {
+            "distance": 100000,
+            "find_monster_distance": 1000,
+            "contain_collect_type": true
+        },
+        "DiamonFightScene": {
+            "find_monster_distance": 1000,
+            "distance": 100000,
+            "auto_change_god": true,
+            "contain_collect_type": false
+        },
+        "DungeonRune": {
+            "find_monster_distance": 10000,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "SuitBoss": {
+            "find_monster_distance": 1000,
+            "distance": 1000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "IsMountDungeon": {
+            "find_monster_distance": 10000,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "DungeonLoveScene": {
+            "find_monster_distance": 1000,
+            "distance": 100000,
+            "auto_change_god": true,
+            "contain_collect_type": false
+        },
+        "SnatchTreasureScene": {
+            "find_monster_distance": 10000,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "StarDungeonScene": {
+            "find_monster_distance": 10000,
+            "distance": 100000,
+            "auto_change_god": false,
+            "contain_collect_type": true
+        },
+        "CSOnevNScene": {
+            "find_monster_distance": 1000,
+            "distance": 1000000,
+            "auto_change_god": true,
+            "contain_collect_type": false
+        },
+        "PetDungeon": {
+            "find_monster_distance": 1000,
+            "distance": 900,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "DungeonRebuildScene": {
+            "find_monster_distance": 1000,
+            "distance": 5000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "MainCityAndFieldScene": {
+            "find_monster_distance": 1000,
+            "distance": 500,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "DragonDungeonScene": {
+            "find_monster_distance": 10000,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "WeddingScene": {
+            "find_monster_distance": 10000,
+            "distance": 10000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "DungeonRefineScene": {
+            "find_monster_distance": 1000,
+            "distance": 1500,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "HolyBossScene": {
+            "find_monster_distance": 600,
+            "distance": 600,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "KFGuildWarFightScene": {
+            "find_monster_distance": 1000,
+            "distance": 1200,
+            "auto_change_god": false,
+            "contain_collect_type": true
+        },
+        "Cross3v3": {
+            "find_monster_distance": 1000,
+            "distance": 2000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "IsSoulDungeon": {
+            "find_monster_distance": 1000,
+            "distance": 100000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "DungeonEquipScene": {
+            "find_monster_distance": 1000,
+            "distance": 3000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "PkBattleScene": {
+            "find_monster_distance": 2000,
+            "distance": 2000,
+            "auto_change_god": true,
+            "contain_collect_type": false
+        },
+        "HolyBattleScene": {
+            "find_monster_distance": 800,
+            "distance": 800,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "Default": {
+            "find_monster_distance": 1000,
+            "distance": 2000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        },
+        "IsSeaAsserScene": {
+            "find_monster_distance": 2000,
+            "distance": 5000,
+            "auto_change_god": true,
+            "contain_collect_type": true
+        }
+    }
+}

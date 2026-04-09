@@ -1,0 +1,103 @@
+        {
+                "任务引导（箭头版）": {
+                        "id": {
+                                "name": "功能名称",
+                                "step": "功能开放引导步骤"
+                        }
+                },
+                "19": {
+                        "name": "图谱",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 4,
+                                        "text": "异兽<font color='0xFFFF00'>图谱</font>能看到boss的故事，\n<font color='0xFFFF00'>激活图谱</font>还可增强战力属性~"
+                                },
+                                {
+                                        "step": 2,
+                                        "direction": 2,
+                                        "text": "击败<font color='0xFFFF00'>世界boss、专属boss</font>\n有几率掉落异兽图谱"
+                                }
+                        ]
+                },
+                "22": {
+                        "name": "套装",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 8,
+                                        "text": "打败<font color='0xFFFF00'>蛮荒boss</font>是获得套装石主要来源\n消耗套装石可打造屠魔、弑神套装"
+                                }
+                        ]
+                },
+                "23": {
+                        "name": "伙伴飞骑",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 6,
+                                        "text": "<font color='0xFFFF00'>神秘铭文</font>和<font color='0xFFFF00'>幻化飞骑</font>\n都可通过打败<font color='0xFFFF00'>世界boss</font>获得"
+                                }
+                        ]
+                },
+                "24": {
+                        "name": "装备洗炼",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 8,
+                                        "text": "<font color='0xFFFF00'>点击免费开启洗炼属性</font>"
+                                },
+                                {
+                                        "step": 2,
+                                        "direction": 6,
+                                        "text": "<font color='0xFFFF00'>每天可免费洗炼三次</font>，不要错过~\n洗练石可通关<font color='0xFFFF00'>藏宝洞窟</font>获得"
+                                }
+                        ]
+                },
+                "26": {
+                        "name": "源力",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 6,
+                                        "text": "可通关<font color='0xFFFF00'>源力副本</font>\n获得<font color='0xFFFF00'>源力</font>哦"
+                                }
+                        ]
+                },
+                "30": {
+                        "name": "蜃妖",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 2,
+                                        "text": "开服第<font color='0xFFFF00'>6</font>天时，\n可通过<font color='0xFFFF00'>蜃气楼</font>获得<font color='0xFFFF00'>蜃妖装备</font>，\n<font color='0xFFFF00'>集齐5件</font>可激活蜃妖哦"
+                                }
+                        ]
+                },
+                "33": {
+                        "name": "星座",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 2,
+                                        "text": "挑战<font color='0xFFFF00'>各类boss</font>都可获得材料<font color='0xFFFF00'>星力</font>哦"
+                                }
+                        ]
+                },
+                "31": {
+                        "name": "宝石雕刻",
+                        "step": [
+                                {
+                                        "step": 1,
+                                        "direction": 2,
+                                        "text": "宝石不仅可以<font color='0xFFFF00'>合成升级</font>\n还可进行<font color='0xFFFF00'>雕刻</font>"
+                                },
+                                {
+                                        "step": 2,
+                                        "direction": 2,
+                                        "text": "雕刻的材料可通过\n击败<font color='0xFFFF00'>世界boss</font>获得~"
+                                }
+                        ]
+                }
+        }

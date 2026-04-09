@@ -1,0 +1,17 @@
+
+{  
+    "main_ui_down_icon":[
+        {"index":1, "icon_type":1, "open_lv":0,"res":"1_png","local_pos":[93.5,38]},
+        {"index":2, "icon_type":2, "open_lv":10,"res":"2_png","local_pos":[207.5,38]},
+        {"index":3, "icon_type":3, "open_lv":0,"res":"3_png","local_pos":[320.5,38]},
+        {"index":4, "icon_type":4, "open_lv":0,"res":"6_png","local_pos":[432.5,38]},
+        {"index":5, "icon_type":5, "open_lv":0,"res":"4_png","local_pos":[547.5,38]},
+        {"index":6, "icon_type":6, "open_lv":0,"res":"5_png","local_pos":[659.5,38]}
+    ],
+    "main_ui_chat_icon":[
+        {"index":1, "icon_type":7, "open_lv":0,"res":"8_png","local_pos":[0,10]},
+        {"index":2, "icon_type":8, "open_lv":45,"res":"9_png","local_pos":[75,10],"desc":"Guild system"}
+    ],
+    "main_ui_activity_icon":[
+    ]
+}

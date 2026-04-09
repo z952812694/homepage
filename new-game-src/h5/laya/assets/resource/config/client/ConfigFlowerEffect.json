@@ -1,0 +1,42 @@
+{
+    "com_prop": {
+        "scene_fullscreen_0": {"scale": {"x": 1,"y": 1}},
+        "scene_fullscreen_2": {"scale": {"x": 1,"y": 1}},
+        "scene_fullscreen_1": {"scale": {"x": 1,"y": 1}},
+        "scene_fireworks_3": {"scale": {"x": 1,"y": 1}},
+        "scene_fireworks_1": {"scale": {"x": 1,"y": 1}},
+        "scene_fireworks_3_1": {"scale": {"x": 1.7,"y": 1.7}},
+        "scene_fullscreen_love1": {"scale": {"x": 1,"y": 1}}
+    },
+    "desc":{
+        "备注1":"特效组的配置都是根据720*1280分辨率设置",
+        "备注2":"pos的x和y是以屏幕中心点为原点，即屏幕左方x轴为负数",
+        "show_data - key":"总特效名字",
+        "name":"特效名字",
+        "time":"子特效开始播放时间(毫秒)",
+        "scale":"大小",
+        "pos":"位置-特效中心点",
+        "loop":"false.不循环 true.循环",
+        "keep_time":"总特效持续时间(毫秒)",
+        "show_type":"1.全屏(直到最小宽/高填满) 2.横屏(以宽填充) 3.竖屏(以高填充) 4.不变(720,1280)",
+        "待":""
+    },
+    "show_data":{
+        "1001":{
+            "show_type":1,
+            "keep_time":3000,
+            "effects":[
+                {"name":"scene_fullscreen_2", "time":0, "loop":false, "pos":{"x": 0,"y": 0}, "scale":{"x": 1,"y": 1}}
+            ]
+        },
+        "2002":{
+            "show_type":2,
+            "keep_time":3000,
+            "effects":[
+                {"name":"scene_fullscreen_2", "time":0, "loop":false, "pos":{"x": -200,"y": -200}, "scale":{"x": 0.5,"y": 0.5}},
+                {"name":"scene_fullscreen_2", "time":1000, "loop":false, "pos":{"x": 100,"y": 200}, "scale":{"x": 1,"y": 1}},
+                {"name":"scene_fullscreen_2", "time":2000, "loop":false, "pos":{"x": -200,"y": -200}, "scale":{"x": 1,"y": 1}}
+            ]
+        }
+    }
+}

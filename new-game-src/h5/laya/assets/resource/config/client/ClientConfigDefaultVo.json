@@ -1,0 +1,12 @@
+{
+    "ClientItemUse": {
+        "force_show": true,
+        "show_effect": false,
+        "auto_use_sec": 10,
+        "min_lv": 1,
+        "max_lv": 999,
+        "compose": false,
+        "first_show": false,
+        "first_show_lv": 200
+    }
+}

@@ -1,0 +1,280 @@
+{
+    "注释提示": [
+        {
+            "desc":"描述,标注用",
+            "x": "",
+            "y": 5255,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        }
+    ],
+    "10004": [
+        {
+            "desc":"描述,标注用",
+            "x": 4709,
+            "y": 5232,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+		{
+            "desc":"描述,标注用",
+            "x": 4376,
+            "y": 4508,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+				{
+            "desc":"描述,标注用",
+            "x": 1922,
+            "y": 3974,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+				{
+            "desc":"描述,标注用",
+            "x": 2590,
+            "y": 3994,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+	
+				{
+            "desc":"描述,标注用",
+            "x": 4918,
+            "y": 1922,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+		  
+				{
+            "desc":"描述,标注用",
+            "x": 4626,
+            "y": 842,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        }
+    ],    "57001": [
+        {
+            "desc":"描述,标注用",
+            "x": 4709,
+            "y": 5232,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+		{
+            "desc":"描述,标注用",
+            "x": 4376,
+            "y": 4508,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+				{
+            "desc":"描述,标注用",
+            "x": 1922,
+            "y": 3974,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+				{
+            "desc":"描述,标注用",
+            "x": 2590,
+            "y": 3994,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+	
+				{
+            "desc":"描述,标注用",
+            "x": 4918,
+            "y": 1922,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+		  
+				{
+            "desc":"描述,标注用",
+            "x": 4626,
+            "y": 842,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        }
+    ],    "57011": [
+        {
+            "desc":"描述,标注用",
+            "x": 4709,
+            "y": 5232,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+		{
+            "desc":"描述,标注用",
+            "x": 4376,
+            "y": 4508,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+				{
+            "desc":"描述,标注用",
+            "x": 1922,
+            "y": 3974,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+				{
+            "desc":"描述,标注用",
+            "x": 2590,
+            "y": 3994,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+	
+				{
+            "desc":"描述,标注用",
+            "x": 4918,
+            "y": 1922,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        },
+		  
+				{
+            "desc":"描述,标注用",
+            "x": 4626,
+            "y": 842,
+            "name": "scene_tiaoyue",
+            "effectScale_x": 0.5,
+            "effectScale_y": 0.5,
+            "effectScale_z": 0.5,
+            "euler_y": 0,
+            "level": 1,
+            "speed": 1,
+            "size_x": 30,
+            "size_y": 30
+        }
+    ]
+}

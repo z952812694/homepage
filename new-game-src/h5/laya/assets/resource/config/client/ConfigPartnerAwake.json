@@ -1,0 +1,120 @@
+{
+    "Partner": {
+        "partner_id": 1,
+        "model_id": 1018,
+        "fight": 50000,
+        "skill_id": 5201001,
+        "skill_name": "星辰幻阵",
+        "scale": 1.3,
+        "skill_desc": "召唤繁星坠落,对目标和附近单位造成<font color='#b3ff48'>高额范围伤害</font>,\n刷怪效率飙升!",
+        "action": [
+            "idle"
+        ]
+    },
+    "TaskView": {
+        "partner_id": 1,
+        "partner_name": "星神未来",
+        "model_id": 1018,
+        "fight": 50000,
+        "scale": 1.3,
+        "action": [
+            "idle"
+        ],
+        "skill_list": [
+            5201001,
+            5201002,
+            5201003,
+            5201004
+        ],
+        "root_task_id": 2000000,
+        "task_list": {
+            "main_task_id": 2001000,
+            "stone_task_list": [
+                {
+                    "task_id": 2001100,
+                    "award_id": 36220001,
+                    "show_num": 200000
+                },
+                {
+                    "task_id": 2001200,
+                    "award_id": 38190010,
+                    "show_num": 20
+                },
+                {
+                    "task_id": 2001300,
+                    "award_id": 36220001,
+                    "show_num": 300000
+                },
+                {
+                    "task_id": 2001400,
+                    "award_id": 38190011,
+                    "show_num": 1
+                }
+            ]
+        },
+        "task_list2": {
+            "main_task_id": 2002000,
+            "stone_task_list": [
+                {
+                    "task_id": 2002100,
+                    "award_id": 36220001,
+                    "show_num": 600000
+                },
+                {
+                    "task_id": 2002200,
+                    "award_id": 38190012,
+                    "show_num": 1
+                },
+                {
+                    "task_id": 2002300,
+                    "award_id": 36220001,
+                    "show_num": 800000
+                },
+                {
+                    "task_id": 2002400,
+                    "award_id": 36230001,
+                    "show_num": 2
+                }
+            ]
+        },
+        "partner_property": [
+            {
+                "attr_id": 1,
+                "attr_val": 1000
+            },
+            {
+                "attr_id": 2,
+                "attr_val": 20000
+            },
+            {
+                "attr_id": 3,
+                "attr_val": 500
+            },
+            {
+                "attr_id": 4,
+                "attr_val": 500
+            }
+        ],
+        "task_property": [
+            {
+                "attr_id": 1,
+                "attr_val": 1000
+            },
+            {
+                "attr_id": 2,
+                "attr_val": 20000
+            }
+        ]
+    },
+    "NpcId": 10030002,
+    "NpcId2": 10030003,
+    "ParnterTalkLastTaskId": 101150,
+    "ExpDungeonTaskId": 101160,
+    "ParnterFunctionOpenId": 98,
+    "ParnterIconId": 142,
+    "TaskIdToBossId": {
+        "2001400": 3400102,
+        "2002200": 3400105
+    },
+    "FirstBossTaskId": 101200
+}

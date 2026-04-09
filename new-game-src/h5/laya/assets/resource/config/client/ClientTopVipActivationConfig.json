@@ -1,0 +1,15 @@
+{
+    "1":"<font color='#bd8a71'>拥有</font><font color='#ff7e00'>专属至尊vip标识</font>",
+    "2":"<font color='#bd8a71'>蛮荒大妖</font><font color='#ff7e00'>怒气上限提升10点</font>",
+    "3":"<font color='#bd8a71'>合成红装的成功率</font><font color='#ff7e00'>额外提升5%</font>",
+    "4":"<font color='#bd8a71'>橙2及以上装备掉率</font><font color='#ff7e00'>额外提升20%</font>",
+    "5":"<font color='#bd8a71'>开启专属</font><font color='#ff7e00'>超低折扣特权商店</font>",
+    "6":"<font color='#bd8a71'>专属大妖玩法</font><font color='#ff7e00'>次数上限+1</font><font color='#bd8a71'>（永久至尊vip专属特权）</font>",
+    "7":"<font color='#ff7e00'>每日可领取1次</font><font color='#bd8a71'>超值礼包</font><font color='#bd8a71'>（永久至尊vip专属特权）</font>",
+	"stage_0":{"desc":"技能说明：每日登录获得3小时离线时间（次日4点重置）" , "name":"离线分身"},
+	"stage_1":{"desc":"技能说明：血量低于30%获得3秒技能增伤10%","name":"绝境反击"},
+	"stage_2":{"desc":"技能说明：被眩晕时每秒恢复2%血量，持续5秒","name":"永生不灭"},
+	"stage_3":{"desc":"技能说明：人物反弹伤害提升至10%","name":"能苟能且"},
+	"stage_4":{"desc":"技能说明：对所有大妖伤害造成的伤害额外增加5%","name":"致命痛击"},
+	"stage_5":{"desc":"技能说明：增加人物50%经验获得","name":"资深猎头"}
+}

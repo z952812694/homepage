@@ -1,0 +1,24 @@
+{
+    "ModelActionSpeed":{
+
+    },
+    "MountRunActionSpeed":{
+
+    },
+    "MainRoleActionSpeed":{
+        "Idle":1,
+        "Run":1
+    },
+    "RoleSwimActionSpeed":{
+
+    },
+    "ModelRoleSkillActionSpeed":{
+
+    },
+    "ModelRoleTransferActionSpeed":{
+
+    },
+    "ModelSkillActionSpeed":{
+
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1" :
+    [{
+        "min_level" : 50, "max_level" : 999, "open_server_day": 1, "end_server_day" : 999, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 0, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1554048000, "custom_end_time" :1680451200
+    }],
+	"3" :
+    [{
+        "min_level" : 1, "max_level" : 999, "open_server_day": 1, "end_server_day" : 2, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"4" :
+    [{
+        "min_level" : 100, "max_level" : 190, "open_server_day": 1, "end_server_day" : 999, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"5" :
+    [{
+        "min_level" : 90, "max_level" : 999, "open_server_day": 1, "end_server_day" : 2, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"6" :
+    [{
+        "min_level" : 190, "max_level" : 999, "open_server_day": 2, "end_server_day" : 7, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"7" :
+    [{
+        "min_level" : 220, "max_level" : 999, "open_server_day": 2, "end_server_day" : 9, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"8" :
+    [{
+        "min_level" : 220, "max_level" : 999, "open_server_day": 2, "end_server_day" : 999, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"9" :
+    [{
+        "min_level" : 230, "max_level" : 999, "open_server_day": 5, "end_server_day" : 999, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"10" :
+    [{
+        "min_level" : 300, "max_level" : 999, "open_server_day": 7, "end_server_day" : 999, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }],
+	"11" :
+    [{
+        "min_level" : 180, "max_level" : 999, "open_server_day": 1, "end_server_day" : 999, 
+        "merge_server_start_day" : 0, "merger_server_end_day": 999, "open_week": "0,1,2,3,4,5,6",
+        "custom_open_time":1490976000, "custom_end_time" :1680451200
+    }]
+}

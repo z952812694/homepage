@@ -1,0 +1,122 @@
+{
+	"open_auto_level": 10,
+	"open_sweeping_level": 25,
+	"open_seal_level": 1,
+	"max_level": 250,
+	"pre_reward" : [
+		[3,0,0],	
+		[2,0,0]
+	],
+	"boss_cfg": {
+		"0": {
+			"name": "巨化树精",
+			"res": 401115,
+			"pos": {
+				"x": 0,
+				"y": 65
+			},
+			"show_scale": 0.85,
+			"scene_scale": 1.5,
+			"head_res": 401115
+		},
+		"1": {
+			"name": "冰晶元素",
+			"res": 401107 ,
+			"pos": {
+				"x": 0,
+				"y": 70
+			},
+			"show_scale": 0.8,
+			"scene_scale": 1.4,
+			"head_res": 401107 
+		},
+		"2": {
+			"name": "石像源瞳",
+			"res": 401108,
+			"pos": {
+				"x": 0,
+				"y": 0
+			},
+			"show_scale": 1,
+			"scene_scale": 1.7,
+			"head_res": 401108
+		},
+		"3": {
+			"name": "酋牛战士",
+			"res": 401102,
+			"pos": {
+				"x": 0,
+				"y": 65
+			},
+			"show_scale": 0.9,
+			"scene_scale": 1.5,
+			"head_res": 401102
+		},
+		"4": {
+			"name": "毒麟巨蟒",
+			"res": 401103,
+			"pos": {
+				"x": 0,
+				"y": 65
+			},
+			"show_scale": 0.9,
+			"scene_scale": 1.8,
+			"head_res": 401103
+		},
+		"5": {
+			"name": "人马战士",
+			"res": 401119,
+			"pos": {
+				"x": 0,
+				"y": 65
+			},
+			"show_scale": 0.85,
+			"scene_scale": 1.8,
+			"head_res": 401119
+		},
+		"6": {
+			"name": "烈焰堡主",
+			"res": 401105,
+			"pos": {
+				"x": 0,
+				"y": 75
+			},
+			"show_scale": 0.9,
+			"scene_scale": 1.5,
+			"head_res": 401105
+		},
+		"7": {
+			"name": "钢铁巨人",
+			"res": 401109,
+			"pos": {
+				"x": -20,
+				"y": 55
+			},
+			"show_scale": 0.9,
+			"scene_scale": 1.7,
+			"head_res": 401109
+		},
+		"8": {
+			"name": "厌战机甲",
+			"res": 401110,
+			"pos": {
+				"x": 0,
+				"y": 60
+			},
+			"show_scale": 1,
+			"scene_scale": 1.6,
+			"head_res": 401110
+		},
+		"9": {
+			"name": "冰川巨猿",
+			"res": 401113,
+			"pos": {
+				"x": 0,
+				"y": 60
+			},
+			"show_scale": 1.1,
+			"scene_scale": 1.4,
+			"head_res": 401113
+		}
+	}
+}

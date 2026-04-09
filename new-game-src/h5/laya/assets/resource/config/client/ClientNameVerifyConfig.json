@@ -1,0 +1,80 @@
+{   
+    "实名验证功能描述":{
+        "plat_name": "平台名",
+        "name": "名称",
+        "lv": "等级",
+        "open_day": "开服天数",
+        "max_open_day": "最大开服天数"
+    },
+    "yy_suyou":{
+        "plat_name": "yy_suyou",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+    "yy_sh921_lj_PM001073":{
+        "plat_name": "yy_sh921_lj_PM001073",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+    "yy_sh921_lj_PM001072":{
+        "plat_name": "yy_sh921_lj_PM001072",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+    "yy_sh921_lj_PM001074":{
+        "plat_name": "yy_sh921_lj_PM001074",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+    "yy_sh921_lj_juzi_PM001393":{
+        "plat_name": "yy_sh921_lj_juzi_PM001393",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+	"yy_sh921_wx_P0010642":{
+        "plat_name": "yy_sh921_wx_P0010642",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+	"yy_sh921_wx_ios_P0010643":{
+        "plat_name": "yy_sh921_wx_ios_P0010643",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+	"jzy_sh921_test_P0010642":{
+        "plat_name": "jzy_sh921_test_P0010642",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+	"jzy_sh921_test_ios_P0010643":{
+        "plat_name": "jzy_sh921_test_ios_P0010643",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    },
+	"default":{
+        "plat_name": "default",
+        "name": "实名验证",
+        "lv": 0,
+        "open_day": 0,
+        "max_open_day": 0
+    }
+	
+}

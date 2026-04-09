@@ -1,0 +1,12 @@
+Config = Config or {}
+            Config.Appstroeproduct  = {
+            ["yy_sh921_ios@1"] = {platfrom = [[ yy_sh921_ios ]],product_id = 1,product = [[ com.yy_sh921_ios.60 ]],appid = 0,type = [[  ]],price = 60,des = [[ 60钻石 ]]},
+["yy_sh921_ios@2"] = {platfrom = [[ yy_sh921_ios ]],product_id = 2,product = [[ com.yy_sh921_ios.300 ]],appid = 0,type = [[  ]],price = 300,des = [[ 300钻石 ]]},
+["yy_sh921_ios@3"] = {platfrom = [[ yy_sh921_ios ]],product_id = 3,product = [[ com.yy_sh921_ios.680 ]],appid = 0,type = [[  ]],price = 680,des = [[ 680钻石 ]]},
+["yy_sh921_ios@4"] = {platfrom = [[ yy_sh921_ios ]],product_id = 4,product = [[ com.yy_sh921_ios.1280 ]],appid = 0,type = [[  ]],price = 1280,des = [[ 1280钻石 ]]},
+["yy_sh921_ios@5"] = {platfrom = [[ yy_sh921_ios ]],product_id = 5,product = [[ com.yy_sh921_ios.1980 ]],appid = 0,type = [[  ]],price = 1980,des = [[ 1980钻石 ]]},
+["yy_sh921_ios@6"] = {platfrom = [[ yy_sh921_ios ]],product_id = 6,product = [[ com.yy_sh921_ios.3280 ]],appid = 0,type = [[  ]],price = 3280,des = [[ 3280钻石 ]]},
+["yy_sh921_ios@7"] = {platfrom = [[ yy_sh921_ios ]],product_id = 7,product = [[ com.yy_sh921_ios.6480 ]],appid = 0,type = [[  ]],price = 6480,des = [[ 6480钻石 ]]},
+["yy_sh921_ios@8"] = {platfrom = [[ yy_sh921_ios ]],product_id = 8,product = [[ com.yy_sh921_ios.1800 ]],appid = 0,type = [[  ]],price = 18,des = [[ 180周礼包 ]]},
+["yy_sh921_ios@50"] = {platfrom = [[ yy_sh921_ios ]],product_id = 50,product = [[ com.yy_sh921_ios.10 ]],appid = 0,type = [[  ]],price = 10,des = [[ 1元礼包 ]]},
+}

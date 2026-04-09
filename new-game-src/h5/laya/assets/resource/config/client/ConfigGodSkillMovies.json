@@ -1,0 +1,3058 @@
+{
+	"8102101": {
+		"back_swing": 1,
+		"anim": "attack",
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_attack",
+				"pos_type": 2
+			}
+		],
+		"sound_res": "god_401",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"8102103": {
+		"back_swing": 1.6,
+		"anim": "attack2",
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"particle_speed": 0.9,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_01",
+				"pos_type": 6
+			}
+		],
+		"sound_speed": 1.8,
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		],
+		"sound_res": "god_602",
+		"camera_infos": [
+			{
+				"shake_max_range": 80,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.45,
+				"start_angle": 0,
+				"shake_start_time": 0.5
+			},
+			{
+				"shake_max_range": 80,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.45,
+				"start_angle": 0,
+				"shake_start_time": 0.6
+			}
+		]
+	},
+	"8102109": {
+		"back_swing": 1.6,
+		"anim": "attack2",
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"particle_speed": 1.3,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_02",
+				"pos_type": 6
+			}
+		],
+		"sound_speed": 1.8,
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		],
+		"sound_res": "god_602",
+		"camera_infos": [
+			{
+				"shake_max_range": 80,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.45,
+				"start_angle": 0,
+				"shake_start_time": 0.7
+			},
+			{
+				"shake_max_range": 80,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.45,
+				"start_angle": 0,
+				"shake_start_time": 0.8
+			}
+		]
+	},
+	"8102104": {
+		"black_ground_last_time": 1.15,
+		"back_swing": 1.6,
+		"anim": "attack2",
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"particle_speed": 1.2,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_03",
+				"pos_type": 2
+			}
+		],
+		"sound_speed": 1.9,
+		"comboSkills": [
+			[
+				0,
+				8101106
+			],
+			[
+				500,
+				8101106
+			]
+		],
+		"black_ground_start_time": 0,
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		],
+		"black_ground_alpha": 0.5,
+		"sound_res": "god_503",
+		"camera_infos": [
+			{
+				"shake_max_range": 90,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.1,
+				"start_angle": 0,
+				"shake_start_time": 0.7
+			},
+			{
+				"shake_max_range": 110,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.2,
+				"start_angle": 0,
+				"shake_start_time": 1.2
+			}
+		]
+	},
+	"8102105": {
+		"black_ground_last_time": 1.15,
+		"back_swing": 1.6,
+		"anim": "attack2",
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"particle_speed": 1.2,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_03",
+				"pos_type": 2
+			}
+		],
+		"sound_speed": 1.9,
+		"comboSkills": [
+			[
+				0,
+				8101106
+			],
+			[
+				500,
+				8101106
+			]
+		],
+		"black_ground_start_time": 0,
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		],
+		"black_ground_alpha": 0.5,
+		"sound_res": "god_503",
+		"camera_infos": [
+			{
+				"shake_max_range": 90,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.1,
+				"start_angle": 0,
+				"shake_start_time": 0.7
+			},
+			{
+				"shake_max_range": 110,
+				"shake_angle": 160,
+				"shake_type": 1,
+				"shake_lase_time": 0.2,
+				"start_angle": 0,
+				"shake_start_time": 1.2
+			}
+		]
+	},
+	"81010100": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				800,
+				81010101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1000_atk01",
+				"pos_type": 3
+			}
+		],
+		"sound_res": "god_101",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81010110": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				800,
+				81010111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1000_atk01",
+				"pos_type": 3
+			}
+		],
+		"sound_res": "god_101",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81010200": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81010201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 180,
+				"shake_type": "leftandright",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1000_skill01",
+				"pos_type": 2
+			}
+		],
+		"sound_res": "god_103",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81010300": {
+		"back_swing": 1.333,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81010301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1000_skill02",
+				"pos_type": 2
+			}
+		],
+		"sound_res": "god_102",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81010400": {
+		"back_swing": 1.333,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81010401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1000_skill03",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_104",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81010410": {
+		"back_swing": 1.333,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81010411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1000_skill03",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_104",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81020100": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81020101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_attack",
+				"pos_type": 3
+			}
+		],
+		"sound_res": "god_801",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81020110": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81020111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_attack",
+				"pos_type": 3
+			}
+		],
+		"sound_res": "god_801",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81020200": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				800,
+				81020201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 180,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_802",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81020300": {
+		"back_swing": 1.333,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				500,
+				81020301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_803",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81020400": {
+		"back_swing": 1.333,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81020401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_804",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81020410": {
+		"back_swing": 1.333,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81020411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1001_skill_03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_804",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81030100": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81030101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1003_attack",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_401",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81030110": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81030111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1003_attack",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_401",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81030200": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				800,
+				81030201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 180,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1003_skill_01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_402",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81030300": {
+		"back_swing": 1.167,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				500,
+				81030301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1.5,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1003_skill_02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_403",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81030400": {
+		"back_swing": 1.167,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81030401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1.2,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1003_skill_03",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_404",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81030410": {
+		"back_swing": 1.167,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81030411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1003_skill_03",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_404",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81040100": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81040101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1004_atk01",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_501",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81040110": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81040111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1004_atk01",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_501",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81040200": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				800,
+				81040201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 20,
+				"shake_cycle": 2,
+				"shake_speed": 180,
+				"shake_type": "leftandright",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1004_skill01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_502",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81040300": {
+		"back_swing": 1,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				500,
+				81040301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.5
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1004_skill02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_503",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81040400": {
+		"back_swing": 1.467,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81040401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1.1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1004_skill03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_504",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81040410": {
+		"back_swing": 1.467,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81040411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1.1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1004_skill03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_504",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81050100": {
+		"back_swing": 1.433,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81050101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_attack",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_201",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81050110": {
+		"back_swing": 1.433,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81050111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_attack",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_201",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81050200": {
+		"back_swing": 2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				800,
+				81050201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 20,
+				"shake_cycle": 2,
+				"shake_speed": 180,
+				"shake_type": "leftandright",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_skill_01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_202",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81050300": {
+		"back_swing": 1,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				500,
+				81050301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.5
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_skill_02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_203",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81050400": {
+		"back_swing": 2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81050401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_skill_03_01",
+				"pos_type": 0
+			},
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_skill_03_02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_204",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81050410": {
+		"back_swing": 2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81050411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_skill_03_01",
+				"pos_type": 0
+			},
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1005_skill_03_02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_204",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81060100": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81060101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1008_attack",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_701",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81060110": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81060111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1008_attack",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_701",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81060200": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				800,
+				81060201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 90,
+				"shake_type": "leftandright",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 2,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1008_skill_01",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_702",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81060300": {
+		"back_swing": 1.3,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				500,
+				81060301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.7
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1.2,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1008_skill_02",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_703",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81060400": {
+		"back_swing": 1.3,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81060401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1008_skill_03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_704",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81060410": {
+		"back_swing": 1.3,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81060411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1008_skill_03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_704",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81070100": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81070101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1009_atk01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_901",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81070110": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81070111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1009_atk01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_901",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81070200": {
+		"back_swing": 1.333,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				900,
+				81070201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 90,
+				"shake_type": "leftandright",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 2,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1009_skill01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_902",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81070300": {
+		"back_swing": 1.667,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				900,
+				81070301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 1.1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 2,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1009_skill02",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_903",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81070400": {
+		"back_swing": 1.667,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81070401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1009_skill03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_904",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81070410": {
+		"back_swing": 1.667,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81070411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1009_skill03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_904",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81080100": {
+		"back_swing": 1.067,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81080101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1010_attack",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_301",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81080110": {
+		"back_swing": 1.067,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				600,
+				81080111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1010_attack",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_301",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81080200": {
+		"back_swing": 1.067,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				900,
+				81080201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 180,
+				"shake_type": "leftandright",
+				"start_time": 0.8
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1010_skill_01",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_302",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81080300": {
+		"back_swing": 1.2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				900,
+				81080301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1010_skill_02",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_303",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81080400": {
+		"back_swing": 1.2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81080401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1010_skill_03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_304",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81080410": {
+		"back_swing": 1.2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81080411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			},
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 1.3
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1010_skill_03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_304",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81090100": {
+		"back_swing": 1.133,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81090101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.4
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1013_atk01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "10001",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81090110": {
+		"back_swing": 1.133,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81090111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.4
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1013_atk01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "10001",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81090200": {
+		"back_swing": 1.133,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81090201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 180,
+				"shake_type": "leftandright",
+				"start_time": 0.4
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1013_skill01",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "role_skill_02",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81090300": {
+		"back_swing": 1.133,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				400,
+				81090301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.2
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1013_skill02",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "role_skill_01",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81090400": {
+		"back_swing": 1.133,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81090401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1013_skill03",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "role_skill_03",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81090410": {
+		"back_swing": 1.133,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81090411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_model_god_1013_skill03",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "role_skill_03",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81100100": {
+		"back_swing": 1.2,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81100101
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.4
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1014_atk01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_601",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81100110": {
+		"back_swing": 1.2,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81100111
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.4
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1014_atk01",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_601",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81100200": {
+		"back_swing": 1.2,
+		"anim": "attack",
+		"comboSkills": [
+			[
+				400,
+				81100201
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 1,
+				"shake_speed": 180,
+				"shake_type": "leftandright",
+				"start_time": 0.4
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1014_skill01",
+				"pos_type": 4
+			}
+		],
+		"sound_res": "god_602",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81100300": {
+		"back_swing": 1.2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				400,
+				81100301
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 3,
+				"shake_speed": 160,
+				"shake_type": "upanddown",
+				"start_time": 0.2
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1014_skill02",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_603",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81100400": {
+		"back_swing": 1.2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81100401
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1014_skill03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_604",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	},
+	"81100410": {
+		"back_swing": 1.2,
+		"anim": "attack2",
+		"comboSkills": [
+			[
+				600,
+				81100411
+			]
+		],
+		"camera_infos": [
+			{
+				"max_range": 10,
+				"shake_cycle": 2,
+				"shake_speed": 200,
+				"shake_type": "upanddown",
+				"start_time": 0.6
+			}
+		],
+		"hit_effect": "",
+		"particles": [
+			{
+				"start_time": 0,
+				"scale": 1,
+				"dir_type": 1,
+				"play_time_len": 0,
+				"res": "effect_god_1014_skill03",
+				"pos_type": 0
+			}
+		],
+		"sound_res": "god_604",
+		"roar_sound_list": [
+			{
+				"res": "2_2",
+				"probability": 33
+			},
+			{
+				"res": "2_1",
+				"probability": 33
+			},
+			{
+				"res": "2_3",
+				"probability": 33
+			}
+		]
+	}
+}

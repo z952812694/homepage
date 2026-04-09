@@ -1,0 +1,276 @@
+{
+    "group_id组id": [
+        {
+            "id": "对应图片名字的最后的编号",
+            "weight": "banner随机权重",
+            "func_id": "跳转功能id，参见OpenFun.ts的OpenName方法",
+            "condition": [
+                "显示的判断条件，满足后加入权重随机显示:",
+                "格式：[条件名|条件值,条件名|条件值or[取值范围]]",
+                "(min,max)为取值范围，闭区间",
+                "创角天数: role_create_day|number",
+                "角色等级: role_lv|number",
+                "vip等级: vip_lv|number",
+                "是否首充: first_charge|boolean",
+                "是否激活vip特权卡: ac_vip_card|number",
+                "是否激活至尊vip: ac_top_vip|boolean",
+                "是否购买月卡: month_card|boolean",
+                "是否购买全部等级投资: lv_invest|boolean",
+                "是否开启该活动:act_base_type|number"
+            ],
+            "compName": "组件名",
+            "offsetX": "x轴偏移",
+            "offsetY": "y轴偏移",
+            "scale": "缩放[x,y],不填就是不缩放",
+            "specialCondition": "判断是否显示banner的特殊条件，客户端用",
+            "hideInAlpha": "是否在审核服下屏蔽, 不填就是不屏蔽",
+            "组id注释": [
+                "DungeonFailureView是战斗失败弹窗",
+                "TaskUpAlertView是升级贴士",
+                "AlertTypeOne、AlertTypeTwo、AlertTypeCheckBox、AlertTypeCheckBox2、AlertTypeThree、AlertTypeTreasure是绑玉不足的弹窗",
+                "CongratulationObtainView是恭喜获得弹窗"
+            ]
+        }
+    ],
+    "Banner": {
+        "DungeonFailureView": [
+            {
+                "id": 3,
+                "func_id": 70,
+                "weight": 1000,
+                "condition": [
+                    "first_charge|false",
+                    "role_create_day|[1,3]"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 1,
+                "func_id": 66,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 8,
+                "func_id": 65,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 1,
+                "func_id": 66,
+                "weight": 500,
+                "condition": [
+                    "first_charge|false",
+                    "role_create_day|[4,9999]"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 8,
+                "func_id": 65,
+                "weight": 500,
+                "condition": [
+                    "first_charge|false",
+                    "role_create_day|[4,9999]"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 9,
+                "func_id": 248,
+                "weight": 500,
+                "condition": [
+                    "act_base_type|128@0",
+                    "role_lv|100"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 10,
+                "func_id": 251,
+                "weight": 500,
+                "condition": [
+                    "act_base_type|128@2",
+                    "role_lv|100"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 12,
+                "func_id": 252,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_statue|false"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 13,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|1"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 14,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|2"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 15,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|3"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 16,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|4"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 17,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|5"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 18,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|6"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 19,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|7"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            },
+            {
+                "id": 20,
+                "func_id": 253,
+                "weight": 500,
+                "condition": [
+                    "first_charge|true",
+                    "role_lv|150",
+                    "dragon_ball_gift|8"
+                ],
+                "compName": "_box2",
+                "offsetY": -18
+            }
+        ],
+        "TaskUpAlertView": [
+            {
+                "id": 2,
+                "func_id": 70,
+                "weight": 5,
+                "condition": [
+                    "first_charge|false"
+                ],
+                "hideInAlpha": true,
+                "compName": "_img_bg",
+                "offsetX": -51,
+                "offsetY": 560
+            },
+            {
+                "id": 4,
+                "func_id": 8,
+                "weight": 5,
+                "condition": [
+                    "first_charge|true",
+                    "ac_vip_card|[0,3]"
+                ],
+                "compName": "_img_bg",
+                "offsetX": -51,
+                "offsetY": 560
+            },
+            {
+                "id": 5,
+                "func_id": 451,
+                "weight": 5,
+                "condition": [
+                    "first_charge|true",
+                    "ac_vip_card|4",
+                    "ac_top_vip|false"
+                ],
+                "compName": "_img_bg",
+                "offsetX": -51,
+                "offsetY": 560
+            }
+        ],
+        "CongratulationObtainView": [
+            {
+                "id": 2,
+                "func_id": 70,
+                "weight": 5,
+                "condition": [
+                    "first_charge|false",
+                    "role_create_day|[1,3]"
+                ],
+                "hideInAlpha": true,
+                "compName": "mainGp",
+                "offsetY": 403,
+                "specialCondition": "LevelReward"
+            }
+        ]
+    }
+}

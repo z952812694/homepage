@@ -1,0 +1,72 @@
+{
+    "loop_action" : {"idle": true, "run": true,"walk":true},
+    "ignore_scene_tile" : 
+    {
+        
+    }, 
+    "multi_scene" :
+    {
+        "2005" : {"scene_count" : 3, "move_speed" : 80, "move_type" : 1},
+	    "2006" : {"scene_count" : 3, "move_speed" : 80, "move_type" : 1}
+    },
+
+
+    "show_otherRole_follower_scene_type" :
+    {
+        "1" : true
+    },
+
+    "fighting_state_invalidate" :
+    {
+
+    },
+     "ktx_scene":
+     {
+        "2002" : true,
+        "2003": true,
+        "2004": true,
+        "2005": true,
+        "2007": true,
+        "2025": true,
+        "2028": true,
+        "2029": true,
+        "2030": true,
+        "2034": true,
+        "2036": true,
+        "2038": true,
+        "2039": true,
+        "2040": true,
+        "2041": true,
+        "5001": true,
+        "7001": true,
+        "8001": true,
+        "8003": true,
+        "10000": true,
+        "10001": true,
+        "10002": true,
+        "10003": true,
+        "10004": true,
+        "10005": true,
+        "10006": true,
+        "10007": true,
+        "20004": true,
+        "20010": true,
+        "22100": true,
+        "23101": true,
+        "24001": true,
+        "27001": true,
+        "34100": true,
+        "36001": true,
+        "37001": true,
+        "37010": true,
+        "43001": true,
+        "44001": true,
+        "44002": true,
+        "45001": true,
+        "46001": true,
+        "47001": true,
+        "49001": true,
+        "50001": true
+
+     }
+}

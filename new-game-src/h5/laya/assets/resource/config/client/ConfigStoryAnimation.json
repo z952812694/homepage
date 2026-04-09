@@ -1,0 +1,280 @@
+{	
+	"配置说明":{
+		"all_play_time":"总的播放时长，该时长结束，界面关闭（秒为单位）",
+		"tween_arr":"运动表",
+		"step":"第几步",
+		"desc":"本步骤解释（方便查看）",
+		"component":"组件名称, 不能重复（自己起即可）", 
+		"component_type": "(组件类型，定好后，由代码创建， 1代表是图片控件，2代表是文本控件，目前只有这两种)", 
+		"source":"图片控件的资源,在此目录resource/game/storyAnimation/texture", 
+		"text":"文本控件的显示文本内容", 
+		"init_attr": "初始化属性值，x, y, alpha, width, height, scaleX, scaleY",
+		"end_attr": "结束运动的属性值，x, y, alpha, width, height, scaleX, scaleY",
+		"tween_list_all_pass_time": "该段运动结束后所经历的总时间（秒）",
+		"tween_list":"运动列表，数组形式，每一个{}括起来的是代表1段运动",
+		"other":"如{wait:0, tween:y, value:280, value_len: 15, time:0.7}，wait表示该段运动开始时的等待时间， tween:y代表岩y轴运动, value:280代表运动280像素， value_len: 15 代表运动的长度（距初始值）， 有正负的。time表示时间"
+	},
+	"1":{	
+			"all_play_time":21,
+			"tween_arr":[
+				{	
+					"step":1,
+					"desc":"在条漫原版位置上下轻微晃动",
+					"component":"image1", "component_type": 1, "source":"boy1", 
+					"init_attr": {"x":241, "y":265, "alpha": 1, "width":482, "height":530, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":241, "y":265, "alpha": 1, "width":482, "height":530, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 1.3,
+					"tween_list":[{"wait":0, "tween":"y", "value":280, "value_len": 15, "time":0.7}, 
+								  {"wait":0.7, "tween":"y", "value":265, "value_len": -15, "time":0.6}]
+				},
+				{	
+					"step":1,
+					"desc":"第1步的文本",
+					"component":"label1", "component_type": 2, "text":"异界之门打开，\n人类村庄受到屠戮。", 
+					"init_attr": {"x":47, "y":120, "alpha": 0, "width":400, "height":60, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":47, "y":120, "alpha": 1, "width":400, "height":60, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 1.8,
+					"tween_list":[{"wait":1.3, "tween": "alpha", "value": 1, "value_len": 1, "time":0.5}]
+				},
+				{	
+					"step":2,
+					"desc":"从右边移入画面",
+					"component":"image2", "component_type": 1, "source":"boy2", 
+					"init_attr": {"x":1000, "y":118, "alpha": 1, "width":449, "height":233, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":498.6, "y":118, "alpha": 1, "width":449, "height":233, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 3,
+					"tween_list":[{"wait":2, "tween":"x", "value": 498.6, "value_len": -501.4, "time":1}]
+				},
+				{	
+					"step":2,
+					"desc":"第2步的文本",
+					"component":"label2", "component_type": 2, "text":"异兽屠戮村庄之后， \n    心满意足地离开——", 
+					"init_attr": {"x":400, "y":160, "alpha": 0, "width":330, "height":60, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":400, "y":160, "alpha": 1, "width":330, "height":60, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 4,
+					"tween_list":[{"wait":3, "tween": "alpha", "value": 1, "value_len": 1, "time":1}]
+				},
+				{	
+					"step":3,
+					"desc":"在条漫原版位置上下轻微晃动",
+					"component":"image3", "component_type": 1, "source":"boy3", 
+					"init_attr": {"x":543.5, "y":383.5, "alpha": 0, "width":354, "height":294, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":543.5, "y":383.5, "alpha": 1, "width":354, "height":294, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 6,
+					"tween_list":[{"wait":4.5, "tween":"alpha", "value": 1, "value_len": 1, "time":0.2}, 
+								  {"wait":4.7, "tween":"y","value": 400, "value_len": 16.5, "time":0.2},
+								  {"wait":4.9,"tween":"y","value": 383.5, "value_len": -16.5, "time":0.4},
+								  {"wait":5.3, "tween":"y","value": 400, "value_len": 16.5, "time":0.2},
+								  {"wait":5.5, "tween":"y","value": 383.5, "value_len": -16.5, "time":0.3}]
+				},
+				{	
+					"step":4,
+					"desc":"从右边移入画面",
+					"component":"image4", "component_type": 1, "source":"boy4", 
+					"init_attr": {"x":890, "y":728.5, "alpha": 1, "width":328, "height":388, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":556, "y":728.5, "alpha": 1, "width":328, "height":388, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 7.2,
+					"tween_list":[{"wait":6.2, "tween":"x", "value": 556, "value_len": -334, "time":1}]
+				},
+				{	
+					"step":5,
+					"desc":"在条漫原本位置由透明→出现",
+					"component":"image5", "component_type": 1, "source":"boy5", 
+					"init_attr": {"x":271.5, "y":728.5, "alpha": 0, "width":235, "height":388, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":271.5, "y":728.5, "alpha": 1, "width":235, "height":388, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 8.5,
+					"tween_list":[{"wait":7.5, "tween":"alpha", "value": 1, "value_len": 1, "time":1}]
+				},
+				{	
+					"step":6,
+					"desc":"在条漫原本位置透明→出现→透明度降低→出现",
+					"component":"image6", "component_type": 1, "source":"boy6", 
+					"init_attr": {"x":106.5, "y":650, "alpha": 0, "width":213, "height":231, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":106.5, "y":650, "alpha": 1, "width":213, "height":231, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 12,
+					"tween_list":[{"wait":9, "tween":"alpha", "value": 1, "value_len": 1, "time":1},
+								  {"wait":10, "tween":"alpha", "value": 0.3, "value_len": -0.7, "time":0.4},
+								  {"wait":10.4, "tween":"alpha", "value": 1, "value_len": 0.7, "time":0.4},
+								  {"wait":10.8, "tween":"alpha", "value": 0.5, "value_len": -0.5, "time":0.6},
+								  {"wait":11.4, "tween":"alpha", "value": 1, "value_len": 0.5, "time":0.4}]
+				},
+				{	
+					"step":6,
+					"desc":"在条漫原本位置透明→出现→透明度降低→出现",
+					"component":"image7", "component_type": 1, "source":"boy7", 
+					"init_attr": {"x":88.5, "y":861.5, "alpha": 0, "width":177, "height":235, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":88.5, "y":861.5, "alpha": 1, "width":177, "height":235, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 12,
+					"tween_list":[{"wait":9, "tween":"alpha", "value": 1, "value_len": 1, "time":1},
+								  {"wait":10, "tween":"alpha", "value": 0.3, "value_len": -0.7, "time":0.4},
+								  {"wait":10.4, "tween":"alpha", "value": 1, "value_len": 0.7, "time":0.4},
+								  {"wait":10.8, "tween":"alpha", "value": 0.5, "value_len": -0.5, "time":0.6},
+								  {"wait":11.4, "tween":"alpha", "value": 1, "value_len": 0.5, "time":0.4}]
+				},
+				{	
+					"step":7,
+					"desc":"在条漫原本位置由透明→出现",
+					"component":"image8", "component_type": 1, "source":"boy8", 
+					"init_attr": {"x":140, "y":1105.5, "alpha": 0, "width":280, "height":350, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":140, "y":1105.5, "alpha": 1, "width":280, "height":350, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 13.5,
+					"tween_list":[{"wait":12.5, "tween":"alpha", "value": 1, "value_len": 1, "time":1}]
+				},
+				{	
+					"step":8,
+					"desc":"在条漫原版位置上下轻微晃动",
+					"component":"image9", "component_type": 1, "source":"boy9", 
+					"init_attr": {"x":469, "y":1105, "alpha": 0, "width":505, "height":350, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":469, "y":1105, "alpha": 1, "width":505, "height":350, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 18,
+					"tween_list":[{"wait":15, "tween":"alpha", "value": 1, "value_len": 1, "time":0.4},
+								  {"wait":15.4, "tween":"y","value": 1115, "value_len": 10, "time":0.7}, 
+								  {"wait":16.1, "tween":"y","value": 1105, "value_len": -10, "time":0.5},
+								  {"wait":16.6, "tween":"y","value": 1115, "value_len": 10, "time":0.7}, 
+								  {"wait":17.3, "tween":"y","value": 1105, "value_len": -10, "time":0.5}]
+				},
+				{	
+					"step":8,
+					"desc":"第8步的文本",
+					"component":"label3", "component_type": 2, "text":"仇恨点燃了尼诺的怒火\n     尼诺义无反顾踏上了复仇之路。", 
+					"init_attr": {"x":110, "y":1150, "alpha": 0, "width":600, "height":60, "scaleX":1.1, "scaleY":1.1},
+					"end_attr": {"x":110, "y":1150, "alpha": 1, "width":600, "height":60, "scaleX":1.1, "scaleY":1.1},
+					"tween_list_all_pass_time": 18,
+					"tween_list":[{"wait":17.5, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				}
+			]
+	},
+
+	"2":{
+			"all_play_time":19,
+			"tween_arr":[
+				{	
+					"step":1,
+					"desc":"在条漫原本位置由透明→出现",
+					"component":"image1", "component_type": 1, "source":"girl1", 
+					"init_attr": {"x":359.5, "y":229, "alpha": 0, "width":719, "height":458, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":359.5, "y":229, "alpha": 1, "width":719, "height":458, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 0.5,
+					"tween_list":[{"wait":0, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				},
+				{	
+					"step":1,
+					"desc":"第1步的文本",
+					"component":"label1", "component_type": 2, "text":"异界之门打开，\n       精灵一族遭受重创", 
+					"init_attr": {"x":131, "y":105, "alpha": 0, "width":500, "height":100, "scaleX":1.2, "scaleY":1.2},
+					"end_attr": {"x":131, "y":105, "alpha": 1, "width":500, "height":100, "scaleX":1.2, "scaleY":1.2},
+					"tween_list_all_pass_time": 1.2,
+					"tween_list":[{"wait":0.7, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				},
+				{	
+					"step":2,
+					"desc":"在条漫原本位置透明→出现→透明度降低→出现",
+					"component":"image2", "component_type": 1, "source":"girl2", 
+					"init_attr": {"x":428, "y":549, "alpha": 0, "width":585, "height":464, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":428, "y":549, "alpha": 1, "width":585, "height":464, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 3.1,
+					"tween_list":[{"wait":1.5, "tween":"alpha", "value": 1, "value_len": 1, "time":0.4},
+								{"wait":1.9, "tween":"y", "value": 552, "value_len": 3, "time":0.7}, 
+								{"wait":2.6, "tween":"y", "value": 549, "value_len": -3, "time":0.5}]
+				},
+				{	
+					"step":2,
+					"desc":"第2步的文本",
+					"component":"label2", "component_type": 2, "text":"生命之树受到魔气侵蚀，", 
+					"init_attr": {"x":180, "y":463, "alpha": 0, "width":500, "height":60, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":180, "y":463, "alpha": 1, "width":500, "height":60, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 3.6,
+					"tween_list":[{"wait":3.1, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				},
+				{	
+					"step":2.1,
+					"desc":"第2步的文本",
+					"component":"label3", "component_type": 2, "text":"几近垂危", 
+					"init_attr": {"x":470, "y":458, "alpha": 0, "width":500, "height":60, "scaleX":1.2, "scaleY":1.2},
+					"end_attr": {"x":470, "y":458, "alpha": 1, "width":500, "height":60, "scaleX":1.2, "scaleY":1.2},
+					"tween_list_all_pass_time": 4.3,
+					"tween_list":[{"wait":3.8, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				},
+				{	
+					"step":3,
+					"desc":"在条漫原版位置上下轻微晃动",
+					"component":"image3", "component_type": 1, "source":"girl3", 
+					"init_attr": {"x":607.5, "y":621, "alpha": 0, "width":226, "height":324, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":607.5, "y":621, "alpha": 1, "width":226, "height":324, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 7.1,
+					"tween_list":[{"wait":4.8, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5},
+								  {"wait":5.3, "tween":"alpha", "value": 0.3, "value_len": -0.7, "time":0.4},
+								  {"wait":5.7, "tween":"alpha", "value": 1, "value_len": 0.7, "time":0.4},
+								  {"wait":6.1, "tween":"alpha", "value": 0.5, "value_len": -0.5, "time":0.6},
+								  {"wait":6.7, "tween":"alpha", "value": 1, "value_len": 0.5, "time":0.4}]
+				},
+				{	
+					"step":3,
+					"desc":"第3步的补充文本图片， 透明→出现",
+					"component":"image3_1", "component_type": 1, "source":"girl8", 
+					"init_attr": {"x":682, "y":622, "alpha": 0, "width":63, "height":238, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":682, "y":622, "alpha": 1, "width":63, "height":238, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 7.1,
+					"tween_list":[{"wait":6.7, "tween":"alpha", "value": 1, "value_len": 0.5, "time":0.4}]
+				},
+				{	
+					"step":4,
+					"desc":"从左边移入画面",
+					"component":"image4", "component_type": 1, "source":"girl4", 
+					"init_attr": {"x":-300, "y":608, "alpha": 1, "width":197, "height":346, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":98.5, "y":608, "alpha": 1, "width":197, "height":346, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 8.5,
+					"tween_list":[{"wait":7.5, "tween":"x", "value": 98.5, "value_len":398.5, "time":1}]
+				},
+				{	
+					"step":5,
+					"desc":"在条漫原本位置透明→出现→透明度降低→出现",
+					"component":"image5", "component_type": 1, "source":"girl5", 
+					"init_attr": {"x":188.5, "y":987, "alpha": 0, "width":377, "height":400, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":188.5, "y":987, "alpha": 1, "width":377, "height":400, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 11,
+					"tween_list":[{"wait":9, "tween":"alpha", "value": 1, "value_len": 1, "time":0.8},
+								{"wait":9.8, "tween":"alpha", "value": 0.4, "value_len": -0.6, "time":0.6},
+								{"wait":10.4, "tween":"alpha", "value": 1, "value_len": 0.6, "time":0.6}]
+				},
+				{	
+					"step":6,
+					"desc":"在条漫原本位置由透明→出现",
+					"component":"image6", "component_type": 1, "source":"girl6", 
+					"init_attr": {"x":188.5, "y":1148.5, "alpha": 0, "width":377, "height":263, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":188.5, "y":1148.5, "alpha": 1, "width":377, "height":263, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 12.3,
+					"tween_list":[{"wait":11.3, "tween":"alpha", "value": 1, "value_len": 1, "time":1}]
+				},
+				{	
+					"step":6,
+					"desc":"第6步的文本",
+					"component":"label4", "component_type": 2, "text":"芙希肩受拯救\n   生命之树的重任", 
+					"init_attr": {"x":20, "y":1070, "alpha": 0, "width":500, "height":100, "scaleX":1.1, "scaleY":1.1},
+					"end_attr": {"x":20, "y":1070, "alpha": 1, "width":500, "height":100, "scaleX":1.1, "scaleY":1.1},
+					"tween_list_all_pass_time": 13,
+					"tween_list":[{"wait":12.5, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				},
+				{	
+					"step":7,
+					"desc":"在条漫原版位置上下轻微晃动",
+					"component":"image7", "component_type": 1, "source":"girl7", 
+					"init_attr": {"x":551, "y":1034, "alpha": 0, "width":337, "height":492, "scaleX":1, "scaleY":1},
+					"end_attr": {"x":551, "y":1034, "alpha": 1, "width":337, "height":492, "scaleX":1, "scaleY":1},
+					"tween_list_all_pass_time": 14.8,
+					"tween_list":[{"wait":13.3, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}, 
+								  {"wait":13.8, "tween":"y", "value": 1037, "value_len": 3, "time":0.6},
+								  {"wait":14.4, "tween":"y", "value": 1034, "value_len": -3, "time":0.4}]
+				},
+				{	
+					"step":7,
+					"desc":"第7步的文本",
+					"component":"label5", "component_type": 2, "text":"踏上遍布荆棘之路...", 
+					"init_attr": {"x":430, "y":1200, "alpha": 0, "width":400, "height":60, "scaleX":1.1, "scaleY":1.1},
+					"end_attr": {"x":430, "y":1200, "alpha": 1, "width":400, "height":60, "scaleX":1.1, "scaleY":1.1},
+					"tween_list_all_pass_time": 15.5,
+					"tween_list":[{"wait":15, "tween":"alpha", "value": 1, "value_len": 1, "time":0.5}]
+				}
+			]
+	}
+}

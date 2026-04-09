@@ -1,0 +1,104 @@
+{
+    "世界地图配置说明": {
+        "label_con_pos": "场景名字和等级字符串的父容器位置（默认0，0）",
+        "root_pos": "位置",
+        "img_source": "场景图片资源",
+        "scene_id": "场景id",
+        "locate_pos": "大头针，指示玩家当前位于该场景",
+        "open_state": "开放状态",
+        "scene_name": "场景名字",
+        "scene_lv": "场景等级段"
+    },
+    "world_map": {
+        "1": {
+            "label_con_pos": [0, 0],
+            "root_pos": [590,590],
+            "img_source": "city7",
+            "scene_id": 10000,
+            "locate_pos": [77, -25],
+            "open_state": true,
+            "scene_name": "初樱庄",
+            "scene_lv": [1, 60]
+        },
+        "2": {
+            "label_con_pos": [0, 0],
+            "root_pos": [100,150],
+            "img_source": "city2",
+            "scene_id": 10001,
+            "locate_pos": [77, -25],
+            "open_state": true,
+            "scene_name": "雪见村",
+            "scene_lv": [60, 110]
+        },
+        "3": {
+            "label_con_pos": [0, -50],
+            "root_pos": [700,310],
+            "img_source": "city4",
+            "scene_id": 10002,
+            "locate_pos": [77, 10],
+            "open_state": true,
+            "scene_name": "秋叶城",
+            "scene_lv": [300, 380]
+        },
+        "4": {
+            "label_con_pos": [-20, -50],
+            "root_pos": [190,720 ],
+            "img_source": "city9",
+            "scene_id": 10003,
+            "locate_pos": [50, 0],
+            "open_state": true,
+            "scene_name": "妖鸣涧",
+            "scene_lv": [490, 570]
+        },
+        "5": {
+            "label_con_pos": [0, -40],
+            "root_pos": [100,470],
+            "img_source": "city5",
+            "scene_id": 10004,
+            "locate_pos": [80, 10],
+            "open_state": true,
+            "scene_name": "青道坊",
+            "scene_lv": [110, 160]
+        },
+        "6": {
+            "label_con_pos": [0, -20],
+            "root_pos": [1150, 355],
+            "img_source": "city15",
+            "scene_id": 10005,
+            "locate_pos": [85, -2000],
+            "open_state": true,
+            "scene_name": "山神坂",
+            "scene_lv": [160,240]
+        },
+        "7": {
+            "label_con_pos": [0, -30],
+            "root_pos": [930,120],
+            "img_source": "city1",
+            "scene_id": 10006,
+            "locate_pos": [80, 10],
+            "open_state": true,
+            "scene_name": "幻华境",
+            "scene_lv": [240, 300]
+        },
+        "8": {
+            "label_con_pos": [0, -55],
+            "root_pos": [1550, 675],
+            "img_source": "city8",
+            "scene_id": 10007,
+            "locate_pos": [80, -20],
+            "open_state": true,
+            "scene_name": "古战场",
+            "scene_lv": [380, 490]
+        },
+        "9": {
+            "label_con_pos": [0, 0],
+            "root_pos": [1450,150],
+            "img_source": "city14",
+            "scene_id": 10008,
+            "locate_pos": [77, -25],
+            "open_state": true,
+            "scene_name": "天隐池",
+            "scene_lv": [570, 999]
+        }
+    }
+}

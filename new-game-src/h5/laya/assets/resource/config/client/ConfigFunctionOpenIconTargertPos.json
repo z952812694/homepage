@@ -1,0 +1,172 @@
+{
+	"功能开放按钮": {
+		"id": {
+			"id": "对应后台功能开放的配置",
+			"desc": "描述",
+			"part": "1-主界面左部, 2主界面底部, 3主界面右部",
+			"mapping_icon_type": "跟主界面上哪个图标是对应的, part为1,3的，本字段对应ConfigFunctionIcon配置的icon_type， part为2，本字段值对应主主界面的主功能图标顺序,左到右，分别是1~4，5~8（第二排）"
+		}
+	},
+	"1": {
+		"id": 1,
+		"desc": "传世名铠",
+		"part": "3",
+		"mapping_icon_type": "1525"
+	},
+	"2": {
+		"id": 2,
+		"desc": "锻造",
+		"part": "2",
+		"mapping_icon_type": "4"
+	},
+	"3": {
+		"id": 3,
+		"desc": "御魂",
+		"part": 2,
+		"mapping_icon_type": "5"
+	},
+	"4": {
+		"id": 4,
+		"desc": "宝石",
+		"part": 2,
+		"mapping_icon_type": "4"
+	},
+	"5": {
+		"id": 5,
+		"desc": "竞技场",
+		"part": 3,
+		"mapping_icon_type": "280"
+	},
+	"6": {
+		"id": 6,
+		"desc": "一转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"7": {
+		"id": 7,
+		"desc": "神装",
+		"part": 2,
+		"mapping_icon_type": "6"
+	},
+	"8": {
+		"id": 8,
+		"desc": "姻缘",
+		"part": 2,
+		"mapping_icon_type": "7"
+	},
+	"11": {
+		"id": 11,
+		"desc": "图谱",
+		"part": 2,
+		"mapping_icon_type": "5"
+	},
+	"13": {
+		"id": 13,
+		"desc": "二转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"15": {
+		"id": 15,
+		"desc": "洗炼",
+		"part": 2,
+		"mapping_icon_type": "4"
+	},
+	"16": {
+		"id": 16,
+		"desc": "神纹",
+		"part": 2,
+		"mapping_icon_type": "5"
+	},
+	"17": {
+		"id": 17,
+		"desc": "三转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"19": {
+		"id": 19,
+		"desc": "宝宝",
+		"part": 2,
+		"mapping_icon_type": "7"
+	},
+	"21": {
+		"id": 21,
+		"desc": "四转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"23": {
+		"id": 23,
+		"desc": "灵饰",
+		"part": 2,
+		"mapping_icon_type": "5"
+	},
+	"24": {
+		"id": 24,
+		"desc": "神装打造",
+		"part": 2,
+		"mapping_icon_type": "6"
+	},
+	"26": {
+		"id": 26,
+		"desc": "降神",
+		"part": 2,
+		"mapping_icon_type": "10"
+	},
+	"27": {
+		"id": 27,
+		"desc": "天境",
+		"part": 2,
+		"mapping_icon_type": "1"
+	},
+	"28": {
+		"id": 28,
+		"desc": "战甲",
+		"part": 2,
+		"mapping_icon_type": "4"
+	},
+	"29": {
+		"id": 29,
+		"desc": "妖灵",
+		"part": 2,
+		"mapping_icon_type": "3"
+	},
+	"30": {
+		"id": 30,
+		"desc": "天启",
+		"part": 2,
+		"mapping_icon_type": "2"
+	},
+	"31": {
+		"id": 31,
+		"desc": "五转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"34": {
+		"id": 34,
+		"desc": "星座圣衣",
+		"part": 2,
+		"mapping_icon_type": "10"
+	},
+	"35": {
+		"id": 35,
+		"desc": "六转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"37": {
+		"id": 37,
+		"desc": "七转",
+		"part": 3,
+		"mapping_icon_type": "130"
+	},
+	"99": {
+		"id": 99,
+		"desc": "敬请期待",
+		"part": 2,
+		"mapping_icon_type": "999"
+	}
+}

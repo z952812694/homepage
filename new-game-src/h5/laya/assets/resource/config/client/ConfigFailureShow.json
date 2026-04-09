@@ -1,0 +1,28 @@
+{
+    "活动id@活动子id": {
+		"name":"公会战",
+		"conditon":"1、day:达到展示的开服天数，结束展示的开服天数，没有该字段则不限制范围。lv，等级，同day。2、用法：数组下标对应icon,banner,streng中的下标，如果该字段为空数组，怎默认取第一组数据，3、其他：如果同时满足多个范围，将会取多个下标，并合并重复的内容",
+		"conditon_icon":"id是图标资源，jump_id是图标跳转id",
+		"conditon_banner":"！！！暂时废弃，运营那边接了自己的逻辑！！！msc没首充，scmv4首充没VIP4,scv4首充并且VIP4,默认使用msc。id是banner资源名称，jump_id是图标跳转id",
+		"conditon_streng":"我要变强的文字",
+		"count_time":"倒计时,0不需要倒计时"
+    },
+	 "default":{
+		"name":"默认",
+		"conditon":[
+			{"day":[1,1],"lv":[1,999]},
+			{"day":[2,3],"lv":[1,999]},
+			{"day":[4,7],"lv":[1,999]},
+			{"day":[8,999],"lv":[1,999]}
+		],
+		"conditon_icon":[
+			[{"id":"3313610","jump_id":228},{"id":"22","jump_id":60},{"id":"46000","jump_id":26}],
+			[{"id":"3313610","jump_id":228},{"id":"33197_1","jump_id":237},{"id":"46000","jump_id":26}],
+			[{"id":"33240","jump_id":229},{"id":"18901","jump_id":197},{"id":"46000","jump_id":26}],
+			[{"id":"61020","jump_id":7},{"id":"46004","jump_id":36},{"id":"46000","jump_id":26}]
+		],
+		"conditon_banner":[{"msc":{"id":"banner_1","jump_id":7},"scmv4":{"id":"banner_1","jump_id":7},"scv4":{"id":"banner_1","jump_id":7}}],
+		"conditon_streng":["击杀各种<font color='#0a953e'>大妖</font><br>获取<font color='#0a953e'>极品装备</font>"],
+		"count_time":0
+	}
+}

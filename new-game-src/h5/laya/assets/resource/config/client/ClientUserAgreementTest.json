@@ -1,0 +1,54 @@
+{
+    "1": {
+        "id": 1,
+        "type": 1,
+        "can_select": 1,
+        "select_num": 2,
+        "text": "请问您的性别是？",
+        "select1": "男",
+        "select2": "女"
+    },
+    "2": {
+        "id": 2,
+        "type": 1,
+        "can_select": 1,
+        "select_num": 5,
+        "text": "请问您每月可支配的收入为？",
+        "select1": "1000元以下",
+        "select2": "1000-2000元",
+        "select3": "2000-4000元",
+        "select4": "4000-10000元",
+        "select5": "10000元以上"
+    },
+    "3": {
+        "id": 3,
+        "type": 2,
+        "can_select": 3,
+        "select_num": 7,
+        "text": "您玩游戏最注重游戏的哪些方面？",
+        "select1": "场景、模型等精美、细腻",
+        "select2": "游戏玩法多样有趣",
+        "select3": "世界观、故事剧情有趣",
+        "select4": "社交性",
+        "select5": "战斗动作、特效炫酷",
+        "select6": "关卡设计难、策略度高",
+        "select7": "游戏操作手感好"
+    },
+    "4": {
+        "id": 4,
+        "type": 3,
+        "can_select": 1,
+        "select_num": 4,
+        "text": "您最喜欢的游戏画风为？",
+        "select1": "仙侠",
+        "select2": "二次元",
+        "select3": "可爱Q版",
+        "select4": "次时代"
+    },
+    "5": {
+        "id": 5,
+        "type": 4,
+        "can_select": 1,
+        "text": "您对我们游戏的意见建议有哪些？"
+    }
+}

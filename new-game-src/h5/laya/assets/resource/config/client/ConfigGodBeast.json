@@ -1,0 +1,32 @@
+{  
+    "drop_stren_cfg":{
+        "0":{"id":0, "content":"全部", "cond":99},
+        "1":{"id":1, "content":"材料", "cond":-1},
+        "2":{"id":2, "content":"<font color='#60aeff'>蓝色</font>及以下", "cond":2},
+        "3":{"id":3, "content":"<font color='#a376ff'>紫色</font>", "cond":3},
+        "4":{"id":4, "content":"<font color='#ff9015'>橙色</font>", "cond":4},
+        "5":{"id":5, "content":"<font color='#ff4f50'>红色</font>", "cond":5},
+        "6":{"id":6, "content":"<font color='#f5519b'>粉色</font>", "cond":7}
+    },
+    "bag_color_cfg":{
+        "0":{"id":0, "content":"全部品质", "cond":99},
+        "1":{"id":1, "content":"<font color='#60aeff'>蓝色</font>及以下", "cond":2},
+        "2":{"id":2, "content":"<font color='#a376ff'>紫色</font>", "cond":3},
+        "3":{"id":3, "content":"<font color='#ff9015'>橙色</font>", "cond":4},
+        "4":{"id":4, "content":"<font color='#ff4f50'>红色</font>", "cond":5},
+        "5":{"id":5, "content":"<font color='#f5519b'>粉色</font>", "cond":7}
+    },
+    "bag_star_cfg":{
+        "0":{"id":0, "content":"全部", "cond":99},
+        "1":{"id":1, "content":"0星", "cond":0},
+        "2":{"id":2, "content":"1星", "cond":1},
+        "3":{"id":3, "content":"2星", "cond":2},
+        "4":{"id":4, "content":"3星", "cond":3}
+    },
+    "com_color_cfg":{
+        "1":{"id":1, "content":"<font color='#60aeff'>蓝色</font>", "cond":2},
+        "2":{"id":2, "content":"<font color='#a376ff'>紫色</font>", "cond":3},
+        "3":{"id":3, "content":"<font color='#ff9015'>橙1</font>", "cond":4, "star":1},
+        "4":{"id":4, "content":"<font color='#ff9015'>橙2</font>", "cond":4, "star":2}
+    }
+}

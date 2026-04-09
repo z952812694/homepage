@@ -1,0 +1,19 @@
+{
+    "speed":65,
+    "min_x":100,
+    "length_x":500,
+    "min_y":200,
+    "length_y":350,
+    "role_stop_time":8,
+    "talk_interval":10,
+    "talk_probability":0.6,
+    "talk_stay_time":5,
+    "talk_content":{
+        "0":"我无敌，你随意",
+        "1":"打我呀，小老弟",
+        "2":"盘我盘我盘我",
+        "3":"我是个好人",
+        "4":"你看起来有点菜",
+        "5":"让我们一起摇摆"
+    }
+}

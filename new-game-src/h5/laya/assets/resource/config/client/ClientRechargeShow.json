@@ -1,0 +1,551 @@
+{
+	"base_type": {
+		"show_Id": {
+			"grade": {
+				"name": "活动主题名称",
+				"desc": "活动的描述",
+				"product_ids": "配置展示,配合充值界面的product_ids,空字段或字段为空置默认为不显示"
+			}
+		}
+	},
+	"first_recharge": {
+		"name": "首充大礼包",
+		"desc": "首充即可获取豪华大礼！",
+		"open_id": 70
+	},
+	"recharge_icon": {
+		"product_ids": [
+			5
+		],
+		"desc": "充值界面的图标配置",
+		"open_lv": 120
+	},
+	"14": {
+		"13": {
+			"1": {
+				"name": "周中累充",
+				"desc": "累计充值<font color='#0a953e'>6元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "周中累充",
+				"desc": "累计充值<font color='#0a953e'>98元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "周中累充",
+				"desc": "累计充值<font color='#0a953e'>198元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"4": {
+				"name": "周中累充",
+				"desc": "累计充值<font color='#0a953e'>328元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"5": {
+				"name": "周中累充",
+				"desc": "累计充值<font color='#0a953e'>648元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			}
+		},
+		"1": {
+			"1": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>30元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>98元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>198元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"4": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>328元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"5": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>648元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"6": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>980元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"7": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>1980元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"8": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>3000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"9": {
+				"name": "周末累充",
+				"desc": "累计充值<font color='#0a953e'>5000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			}
+		}
+	},
+	"6": {
+		"0": {
+			"1": {
+				"name": "每日首充",
+				"desc": "今天充值<font color='#0a953e'>6元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "每日首充",
+				"desc": "今天充值<font color='#0a953e'>30元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "每日首充",
+				"desc": "今天充值<font color='#0a953e'>128元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		}
+	},
+	"64": {
+		"0": {
+			"1": {
+				"name": "周末首充",
+				"desc": "周末<font color='#0a953e'>首充</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		},
+		"2": {
+			"1": {
+				"name": "周中首充",
+				"desc": "周中<font color='#0a953e'>首充</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		}
+	},
+	"7": {
+		"0": {
+			"1": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>12元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>36元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>68元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"4": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>128元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"5": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>228元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"6": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>328元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"7": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>648元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"8": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>1280元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"9": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>3000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"10": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>5000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"11": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>8000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"12": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>10000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"13": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>15000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"14": {
+				"name": "开服累充",
+				"desc": "累计充值<font color='#0a953e'>20000元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			}
+		},
+		"2": {
+			"1": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>30元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>90元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>158元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"4": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>328元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"5": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>648元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"6": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>1280元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"7": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>2568元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"8": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>3208元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			},
+			"9": {
+				"name": "合服累充",
+				"desc": "累计充值<font color='#0a953e'>38880元</font>即可获取以下奖励!",
+				"product_ids": [
+					9999
+				]
+			}
+		}
+	},
+	"109": {
+		"1": {
+			"1": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>7天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>1天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>2天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"4": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>3天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"5": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>4天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"6": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>5天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"7": {
+				"name": "连充豪礼",
+				"desc": "累计充值6元满<font color='#0a953e'>6天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"8": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>7天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"9": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>1天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"10": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>2天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"11": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>3天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"12": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>4天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"13": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>5天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"14": {
+				"name": "连充豪礼",
+				"desc": "累计充值36元满<font color='#0a953e'>6天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"15": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>7天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"16": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>1天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"17": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>2天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"18": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>3天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"19": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>4天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"20": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>5天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"21": {
+				"name": "连充豪礼",
+				"desc": "累计充值98元满<font color='#0a953e'>6天</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		}
+	},
+	"121": {
+		"1": {
+			"1": {
+				"name": "全服累充",
+				"desc": "<font color='#0a953e'>充值后</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		}
+	},
+	"124": {
+		"0": {
+			"1": {
+				"name": "累充赠礼",
+				"desc": "累计充值<font color='#0a953e'>6元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"2": {
+				"name": "累充赠礼",
+				"desc": "累计充值<font color='#0a953e'>12元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"3": {
+				"name": "累充赠礼",
+				"desc": "累计充值<font color='#0a953e'>36元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"4": {
+				"name": "累充赠礼",
+				"desc": "累计充值<font color='#0a953e'>60元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			},
+			"5": {
+				"name": "累充赠礼",
+				"desc": "累计充值<font color='#0a953e'>98元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		}
+	},
+	"125": {
+		"0": {
+			"4": {
+				"name": "单笔充值",
+				"desc": "单笔充值<font color='#0a953e'>128元</font>即可获取以下奖励!",
+				"product_ids": [
+					5
+				]
+			}
+		}
+	}
+}

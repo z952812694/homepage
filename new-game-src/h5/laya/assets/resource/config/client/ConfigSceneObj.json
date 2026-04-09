@@ -1,0 +1,689 @@
+{
+    "说明  --填写场景对象的资源id" :
+    {
+        "scale --填写场景对象的缩放比例" : 0.8,
+        "y_off_for_body  --场景的身体需要在y方向上添加的偏移量 通常用来调整伙伴站在飞行器上的高度" :-50,
+        "y_off_in_horse_for_whole --场景的整个模型对象在坐骑上的时候 需要在y方向上添加的偏移量 通常用来调整坐骑的脚底没有对准阴影时的高度" : -50
+    },
+    "102000" :
+    {
+        "scale" : 1
+    },
+        "102001" :
+    {
+        "scale" : 1
+    },
+        "102002" :
+    {
+        "scale" : 1
+    },
+        "102003" :
+    {
+        "scale" : 1
+    },
+        "102004" :
+    {
+        "scale" : 1
+    },
+        "102005" :
+    {
+        "scale" : 1
+    },   
+        "102006" :
+    {
+        "scale" : 1.4
+    },
+        "102007" :
+    {
+        "scale" : 1
+    },
+        "102008" :
+    {
+        "scale" : 1.4
+    },
+        "104005" :
+    {
+        "scale" : 1.2
+    },
+        "104006" :
+    {
+        "scale" : 1.4
+    },
+        "104007" :
+    {
+        "scale" : 1.4
+    },
+        "104008" :
+    {
+        "scale" : 1.4
+    },
+        "104009" :
+    {
+        "scale" : 1.4
+    },
+        "104010" :
+    {
+        "scale" : 1.4
+    },
+        "104011" :
+    {
+        "scale" : 1.4
+    },
+        "104012" :
+    {
+        "scale" : 1.4
+    },
+        "104013" :
+    {
+        "scale" : 1.4
+    },
+        "104014" :
+    {
+        "scale" : 1.4
+    },
+        "104015" :
+    {
+        "scale" : 1.4
+    },
+        "104016" :
+    {
+        "scale" : 1.4
+    },
+        "104017" :
+    {
+        "scale" : 1.4
+    },
+        "104018" :
+    {
+        "scale" : 1.4
+    },
+    "201001" :
+    {
+        "scale" : 1.2,
+        "y_off_for_body" :-50
+    },
+        "201002" :
+    {
+        "scale" : 0.65,
+        "y_off_for_body" : -50
+    },
+        "201003" :
+    {
+        "scale" : 1.45,
+        "y_off_for_body" : -50
+    },
+        "201004" :
+    {
+        "scale" : 1.1,
+        "y_off_for_body" : -50
+    },
+        "201005" :
+    {
+        "scale" : 1.3,
+        "y_off_for_body" : -50
+    },
+        "201006" :
+    {
+        "scale" : 1.3,
+        "y_off_for_body" : -50
+    },
+        "201007" :
+    {
+        "scale" : 1.3,
+        "y_off_for_body" : -50
+    },
+        "201008" :
+    {
+        "scale" : 1.3,
+        "y_off_for_body" : -100
+    },
+        "201009" :
+    {
+        "scale" : 1.2,
+        "y_off_for_body" : -50
+    },
+        "201010" :
+    {
+        "scale" : 1.2,
+        "y_off_for_body" : -50
+    },
+        "201011" :
+    {
+        "scale" : 0.9,
+        "y_off_for_body" : -50
+    },
+        "201012" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -50
+    },
+        "201013" :
+    {
+        "scale" : 1.2,
+        "y_off_for_body" : -50
+    },
+        "201014" :
+    {
+        "scale" : 1.3, 
+        "y_off_for_body" : -50
+    },
+        "201015" :
+    {
+        "scale" : 1.4,
+        "y_off_for_body" : -50
+    },
+        "201016" :
+    {
+        "scale" : 1.3,
+        "y_off_for_body" : -50
+    },
+        "201017" :
+    {
+        "scale" : 1.2,
+        "y_off_for_body" : -50
+    },
+        "201018" :
+    {
+        "scale" : 1.4,
+        "y_off_for_body" : -50
+    },
+        "201019" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -50
+    },
+            "201020" :
+    {
+        "scale" : 0.85,
+        "y_off_for_body" : -50
+    },
+        "201021" :
+    {
+        "scale" : 0.85,
+        "y_off_for_body" : -50
+    },
+            "201022" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -50
+    },
+        "201023" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -50
+    },
+            "201024" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -30
+    },
+        "301001" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+         "301002" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+        "301003" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+        "301004" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+        "301005" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+         "301006" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+         "301007" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+        "301008" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+        "301009" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -80
+    },
+        "302001" :
+    {
+        "scale" : 0.4,
+        "y_off_for_body" : -80
+    },
+        "302002" :
+    {
+        "scale" : 0.4,
+        "y_off_for_body" : -80
+    },
+        "302003" :
+    {
+        "scale" : 0.4,
+        "y_off_for_body" : -80
+    },
+        "302004" :
+    {
+        "scale" : 0.4,
+        "y_off_for_body" : -80
+    },
+
+
+        "501001" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+            "501002" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+            "501003" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+            "501004" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+            "501005" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+            "501006" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+            "501007" :
+    {
+        "scale" : 1.5,
+        "y_off_for_body" : -100
+    },
+            "501008" :
+    {
+        "scale" : 1,
+        "y_off_for_body" : -100
+    },
+             "501009" :
+    {
+        "scale" : 1 ,
+        "y_off_for_body" : -100
+    },
+    
+
+    "703001" : 
+    {
+        "y_off_in_horse_for_whole" : -0,
+        "scale" : 1
+    },
+
+    "703002" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1
+    },
+
+    "703003" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+               "scale" : 1.25
+    },
+
+    "703004" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+         "scale" : 1.25
+    },
+
+    "703005" : 
+    {
+        "y_off_in_horse_for_whole" : -20,
+                 "scale" : 1.3
+    },
+
+    "703006" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1.3
+    },
+
+    "703007" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+         "scale" : 1.3
+    },
+
+    "703008" : 
+    {
+        "y_off_in_horse_for_whole" : -95,
+        "scale" : 1.3
+    },
+
+    "703009" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1.3,
+         "move_speed_ratio":40
+    },
+
+    "703010" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1.6,
+         "move_speed_ratio":40
+    },
+
+    "703011" : 
+    {
+        "y_off_in_horse_for_whole" : -80,
+        "scale" : 2
+    },
+
+    "703012" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1.7
+    },
+
+    "703013" : 
+    {
+        "y_off_in_horse_for_whole" : 0,
+         "scale" : 1.25
+    },
+
+    "703014" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+         "scale" : 1.43
+    },
+
+    "703015" : 
+    {
+        "y_off_in_horse_for_whole" : 0,
+        "scale" : 1.9
+    },
+
+    "703016" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1.7
+    },
+
+    "703017" : 
+    {
+        "y_off_in_horse_for_whole" : -50,
+        "scale" : 1.25
+    },
+
+    "703018" : 
+    {
+        "y_off_in_horse_for_whole" : -40,
+        "scale" : 1.8,
+         "move_speed_ratio":40
+    },
+
+    "703019" : 
+    {
+        "y_off_in_horse_for_whole" : 30,
+        "scale" : 1.2
+    },
+
+    "703020" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+    "703024" : 
+    {
+        "y_off_in_horse_for_whole" : -20,
+         "scale" : 1.3          
+    },
+        "703026" : 
+    {
+        "y_off_in_horse_for_whole" : -20,
+         "scale" : 1.1          
+    },
+    "703028" : 
+    {
+        "y_off_in_horse_for_whole" : -30,
+        "scale" : 1.4
+    },
+        "703029" : 
+    {
+        "y_off_in_horse_for_whole" : -30,
+        "scale" : 2
+    },
+        "703030" : 
+    {
+        "y_off_in_horse_for_whole" : -30,
+        "scale" : 1.67
+    },
+         "703031" : 
+    {
+        "y_off_in_horse_for_whole" : -30,
+        "scale" : 1.3
+    },
+
+    "601011" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601012" : 
+    {
+        "y_off_in_horse_for_whole" : -20,
+      "scale" : 1.3  
+    },
+
+    "601013" : 
+    {
+        "y_off_in_horse_for_whole" : -20,
+        "scale" : 1.3  
+    },
+
+    "601014" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601015" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601016" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601017" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601018" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601019" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+
+    "601020" : 
+    {
+        "y_off_in_horse_for_whole" : -20
+    },
+	
+
+	
+	"502000" : 
+    {
+        "scale" : 1.4
+    },
+	
+	"502001" : 
+    {
+        "scale" : 1.4
+    },
+	"502002" : 
+    {
+        "scale" : 1.05
+    },
+	
+	"502101" : 
+    {
+        "scale" : 1.5
+    },
+	
+	"502102" : 
+    {
+        "scale" : 1.15
+    },
+	"502103" : 
+    {
+        "scale" : 1.3
+    },
+	"502051" : 
+    {
+        "scale" : 1.6
+    },
+	
+	"502052" : 
+    {
+        "scale" : 1.3
+    },
+	
+	"502053" : 
+    {
+        "scale" : 1.6
+    },
+	
+	"502054" : 
+    {
+        "scale" : 1.15
+    },
+	
+	"502151" : 
+    {
+        "scale" : 1.6
+    },
+	
+	"502152" : 
+    {
+        "scale" : 1.5
+    },
+	
+	"502153" : 
+    {
+        "scale" : 1.6
+    },
+	
+	"502154" : 
+    {
+        "scale" : 1.2
+    },
+	
+	"502155" : 
+    {
+        "scale" : 1.5
+    },
+	
+	"601001" : 
+    {
+        "scale" : 1.3
+    },
+	"601002" : 
+    {
+        "scale" : 1.2
+    },
+	"601003" : 
+    {
+        "scale" : 1
+    },
+	"601004" : 
+    {
+        "scale" : 1.2
+    },
+	"601005" : 
+    {
+        "scale" : 1.2
+    },
+	"601006" : 
+    {
+        "scale" : 1.2
+    },
+	"601007" : 
+    {
+        "scale" : 1.3
+    },
+	"601008" : 
+    {
+        "scale" : 1.2
+    },
+	"601009" : 
+    {
+        "scale" : 1.2
+    },
+	"601010" : 
+    {
+        "scale" : 1.2
+    },
+        "410457" : 
+    {
+        "scale" : 1.3
+    },
+        "410458" : 
+    {
+        "scale" : 1.3
+    },
+        "410459" : 
+    {
+        "scale" : 1.3
+    },
+        "410460" : 
+    {
+        "scale" : 1.3
+    },
+        "410461" : 
+    {
+        "scale" : 1.3
+    },
+        "410462" : 
+    {
+        "scale" : 1.3
+    },
+        "410463" : 
+    {
+        "scale" : 1.3
+    },
+        "410464" : 
+    {
+        "scale" : 1.3
+    },
+    "301004a" :
+    {
+        "scale" : 1.6,
+        "y_off_for_body" : -40
+    }
+}

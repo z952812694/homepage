@@ -1,0 +1,558 @@
+{
+	"90000": {
+		"spell_time": 0.4,
+		"damage_time": 0.2,
+		"anim": "attack",
+		"anim_time": 0.4,
+		"sound_time": null,
+		"play_hitted_sound": true
+	},
+	"900101": {
+		"spell_time": 0.8,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"play_hitted_sound": true,
+		"comboSkills": [
+			[
+				50,
+				900100
+			]
+		]
+	},
+	"900102": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"play_hitted_sound": true
+	},
+	"900103": {
+		"spell_time": 1.2,
+		"damage_time": 0.2,
+		"anim": "attack",
+		"sound_time": null,
+		"play_hitted_sound": true
+	},
+	"900104": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"play_hitted_sound": true
+	},
+	"900105": {
+		"spell_time": 1.2,
+		"damage_time": 0.6,
+		"anim": "attack",
+		"sound_time": null,
+		"play_hitted_sound": true
+	},
+	"900106": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"play_hitted_sound": true
+	},
+	"900107": {
+		"damage_time": 0,
+		"anim": "attack",
+		"pre_warn": true,
+		"comboSkills": [
+			[
+				3000,
+				900107
+			],
+			[
+				0,
+				900110
+			]
+		]
+	},
+	"900108": {
+		"damage_time": 0,
+		"anim": "attack",
+		"pre_warn": true,
+		"comboSkills": [
+			[
+				3000,
+				900107
+			],
+			[
+				0,
+				900111
+			]
+		]
+	},
+	"900109": {
+		"damage_time": 0,
+		"anim": "attack",
+		"pre_warn": true,
+		"comboSkills": [
+			[
+				3000,
+				900107
+			],
+			[
+				0,
+				900112
+			]
+		]
+	},
+		"900110": {
+			"pre_warn": true,
+			"delete_pre_warn": true,
+			"after_delete_pre_warn": 0
+	},
+		"900111": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn": 0
+	},
+		"900112": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn": 0
+	},
+        "900201": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900202": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900203": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900204": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900205": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900206": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900207": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900208": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900209": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "900210": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "3601030": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+        "3601040": {"spell_time": 1.2,"damage_time": 0,"anim":"attack","sound_time":null,"play_hitted_sound": true},
+	"301": {
+		"pre_warn": true
+	},
+	"302": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3600010": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "effect_mon_skill_blast_small",
+				"start_time": 3.5,
+				"play_time_len": 5,
+				"pos_type": 2,
+				"dir_type": 0,
+				"scale": 2.5
+
+			}
+		]
+	},
+	"3600011": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+
+	"3600020": {
+		"pre_warn": true,
+		"particles": [
+			{
+				"res": "effect_monster_atk_004",
+				"play_time_len": 3,
+				"start_time": 1.5,
+				"pos_type": 2,
+				"dir_type": 0
+
+			}
+		]
+	},
+	"3600021": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3601012": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "effect_mon_skill_spark",
+				"start_time": 1,
+				"play_time_len": 3,
+				"pos_type": 6,
+				"dir_type": 1,
+				"dir_3d_start_angle": 45,
+				"scale": 1.2
+			}
+		]
+	},
+	"3601013": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3601022": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "effect_mon_skill_spark",
+				"start_time": 1,
+				"play_time_len": 3,
+				"pos_type": 6,
+				"dir_type": 1,
+				"dir_3d_start_angle": 45,
+				"scale": 1.2
+			}
+		]
+	},
+	"3601023": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3601050": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "effect_mon_skill_blast_big",
+				"start_time": 1.8,
+				"play_time_len": 3,
+				"pos_type": 2,
+				"dir_type": 0,
+				"scale": 1.8
+
+			}
+		]
+	},
+	"3601051": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3601061": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "effect_mon_skill_spark",
+				"start_time": 1.5,
+				"play_time_len": 3,
+				"pos_type": 0,
+				"dir_type": 2,
+				"dir_3d_start_angle": 45,
+				"pos_off": {
+					"x": 0,
+					"y": 0
+				}
+			}
+		]
+	},
+	"3601062": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3601111": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "ef_hengtiao_attack1",
+				"start_time": 1.5,
+				"play_time_len": 3,
+				"pos_type": 0,
+				"dir_type": 2,
+				"dir_3d_start_angle": 45,
+				"pos_off": {
+					"x": 0,
+					"y": 0
+				},
+				"frameRate": 6
+			}
+		]
+	},
+	"3601112": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"3602011": {
+		"pre_warn": true,
+		"anim": "idle",
+		"particles": [
+			{
+				"res": "effect_mon_skill_blast_small",
+				"start_time": 2.2,
+				"play_time_len": 3,
+				"pos_type": 2,
+				"dir_type": 0,
+				"scale": 0.5
+
+			}
+		]
+	},
+	"3602012": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+
+	},
+	"3602021": {
+		"damage_time": 0,
+		"anim": "attack",
+		"pre_warn": true,
+		"play_hitted_sound": true,
+		"particles": [
+			{
+				"res": "effect_mon_skill_blast_big",
+				"start_time": 6.7,
+				"play_time_len": 3,
+				"pos_type": 2,
+				"dir_type": 0,
+				"scale": 5
+
+			}
+		]
+	},
+	"3602022": {
+		"pre_warn": true,
+		"delete_pre_warn": true,
+		"after_delete_pre_warn_time": 0
+	},
+	"901010": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 1,
+				"res": "effect_monster_atk_001",
+				"start_time": 0.6
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901011
+			]
+		]
+	},
+	"901020": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 3,
+				"res": "effect_monster_atk_002",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901021
+			]
+		]
+	},
+	"901030": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 3,
+				"res": "effect_monster_atk_003",
+				"start_time": 0.4
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901031
+			]
+		]
+	},
+	"901040": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 1,
+				"res": "effect_monster_atk_004",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901041
+			]
+		]
+	},
+	"901050": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 4,
+				"res": "effect_monster_atk_005",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901051
+			]
+		]
+	},
+	"901060": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 4,
+				"res": "effect_monster_atk_006",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901061
+			]
+		]
+	},
+	"901070": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 4,
+				"res": "effect_monster_atk_007",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901071
+			]
+		]
+	},
+	"901080": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 4,
+				"res": "effect_monster_atk_008",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901081
+			]
+		]
+	},
+	"901090": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 4,
+				"res": "effect_monster_atk_009",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901091
+			]
+		]
+	},
+	"901100": {
+		"spell_time": 1.2,
+		"damage_time": 0,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 1,
+				"res": "effect_monster_atk_010",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901101
+			]
+		]
+	},
+	"901110": {
+		"spell_time": 1.2,
+		"damage_time": 1,
+		"anim": "attack",
+		"sound_time": null,
+		"particles": [
+			{
+				"dir_type": 1,
+				"play_time_len": 3,
+				"pos_type": 4,
+				"res": "effect_monster_atk_011",
+				"start_time": 0.5
+			}
+		],
+		"comboSkills": [
+			[
+				50,
+				901111
+			]
+		]
+	}
+}

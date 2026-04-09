@@ -1,0 +1,1 @@
+{"1":{"mod":1,"name":"本服模式","min_world_lv":1,"max_world_lv":200,"open_day":0,"room_num":30},"2":{"mod":2,"name":"2服模式","min_world_lv":201,"max_world_lv":280,"open_day":5,"room_num":30},"4":{"mod":4,"name":"4服模式","min_world_lv":281,"max_world_lv":330,"open_day":9,"room_num":30},"8":{"mod":8,"name":"8服模式","min_world_lv":331,"max_world_lv":9999,"open_day":18,"room_num":30}}

@@ -1,0 +1,32 @@
+{
+    "16_0": {
+        "name": "双倍经验",
+        "desc": "活动期间，<font color = '#a0ff67'>恶灵退治</font>杀怪奖励直接<font color = '#a0ff67'>翻倍！</font>等级<font color = '#a0ff67'>直线飙升!</font>",
+        "desc2": "全天"
+    },
+    "16_1": {
+        "name": "双倍经验",
+        "desc": "活动期间，<font color = '#a0ff67'>恶灵退治</font>杀怪奖励直接<font color = '#a0ff67'>翻倍！</font>等级<font color = '#a0ff67'>直线飙升!</font>",
+        "desc2": "全天"
+    },
+    "16_2": {
+        "name": "双倍经验",
+        "desc": "活动期间，<font color = '#a0ff67'>恶灵退治</font>杀怪奖励直接<font color = '#a0ff67'>翻倍！</font>等级<font color = '#a0ff67'>直线飙升!</font>",
+        "desc2": "全天"
+    },
+    "12_0": {
+        "name": "多倍副本",
+        "desc": "活动期间，指定类型资源副本<font color = '#a0ff67'>通关、扫荡奖励翻倍！</font>畅享<font color = '#a0ff67'>海量培养资源!</font>",
+        "desc2": "全天"
+    },
+    "12_1": {
+        "name": "多倍副本",
+        "desc": "活动期间，指定类型资源副本<font color = '#a0ff67'>通关、扫荡奖励翻倍！</font>畅享<font color = '#a0ff67'>海量培养资源!</font>",
+        "desc2": "全天"
+    },
+    "12_2": {
+        "name": "多倍副本",
+        "desc": "活动期间，指定类型资源副本<font color = '#a0ff67'>通关、扫荡奖励翻倍！</font>畅享<font color = '#a0ff67'>海量培养资源!</font>",
+        "desc2": "全天"
+    }
+}

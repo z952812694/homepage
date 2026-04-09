@@ -1,0 +1,33 @@
+{
+	"version":"LAYAMATERIAL:02",
+	"props":{
+		"type":"Laya.BlinnPhongMaterial",
+		"name":"eff_cys_079",
+		"renderStates":[
+			{
+				"cull":2,
+				"blend":0,
+				"srcBlend":1,
+				"dstBlend":0,
+				"depthWrite":true,
+				"depthTest":515
+			}
+		],
+		"alphaTest":false,
+		"alphaTestValue":0.5,
+		"renderQueue":3000,
+		"textures":[],
+		"vectors":[
+			{
+				"name":"albedoColor",
+				"value":[
+					0.5820639,
+					0.2102617,
+					0.7075472,
+					0.9019608
+				]
+			}
+		],
+		"defines":[]
+	}
+}

@@ -1,0 +1,352 @@
+{
+    "id": {
+        "id": "唯一id，按顺序填就行",
+        "func": "对应功能的跳转id，对应ConfigFuncOpenCondition.json",
+        "name": "按钮显示的名字",
+        "is_redot_show": "填false就是常驻，不跟随红点状态显示",
+        "red_model_type": "RedDotDefine里的RedKey，根据这个获取功能的红点状态",
+        "order": "置顶功能的排序，越大越靠前，不填就根据id从小到大排序",
+        "is_top": "是否置顶, 置顶的功能有红点时会显示对应的气泡文本",
+        "top_tips": "置顶功能显示气泡富文本",
+        "备注": "客户端红点并非全部走的RedDotManager管理，所以需要根据配置，做到哪个功能不是RedDotManager管理的，就要把那个功能的红点写回RedDotManager"
+    },
+    "FeatureBinding": {
+        "1": {
+            "id": 1,
+            "func": 18,
+            "name": "转职",
+            "is_redot_show": true,
+            "red_model_type": "REINCARNATION"
+        },
+        "2": {
+            "id": 2,
+            "func": 9,
+            "name": "装备强化",
+            "is_redot_show": true,
+            "red_model_type": "EQUIP_STREN"
+        },
+        "3": {
+            "id": 3,
+            "func": 10,
+            "name": "装备精炼",
+            "is_redot_show": true,
+            "red_model_type": "EQUIP_SMELT"
+        },
+        "4": {
+            "id": 4,
+            "func": 45,
+            "name": "装备洗炼",
+            "is_redot_show": true,
+            "red_model_type": "EQUIP_WASH"
+        },
+        "5": {
+            "id": 5,
+            "func": 11,
+            "name": "装备宝石",
+            "is_redot_show": true,
+            "red_model_type": "EQUIP_JEWEL"
+        },
+        "6": {
+            "id": 6,
+            "func": 196,
+            "name": "传世名铠",
+            "is_redot_show": true,
+            "red_model_type": "SUIT"
+        },
+        "7": {
+            "id": 7,
+            "func": 46,
+            "name": "装备合成",
+            "is_redot_show": true,
+            "red_model_type": "EQUIP_COMPOSITE"
+        },
+        "8": {
+            "id": 8,
+            "func": 98,
+            "name": "宝石雕琢",
+            "is_redot_show": true,
+            "red_model_type": "JEWEL_CRAVE_RED"
+        },
+        "9": {
+            "id": 9,
+            "func": 3,
+            "name": "羽翼养成",
+            "is_redot_show": true,
+            "red_model_type": "ROLE_DEV_WING"
+        },
+        "10": {
+            "id": 10,
+            "func": 12,
+            "name": "境界提升",
+            "is_redot_show": true,
+            "red_model_type": "MEDAL"
+        },
+        "11": {
+            "id": 11,
+            "func": 13,
+            "name": "御守提升",
+            "is_redot_show": true,
+            "red_model_type": "ROLE_DEV_HOLYDEVICE"
+        },
+        "12": {
+            "id": 12,
+            "func": 14,
+            "name": "神兵提升",
+            "is_redot_show": true,
+            "red_model_type": "ROLE_DEV_ARTIFACT"
+        },
+        "13": {
+            "id": 13,
+            "func": 15,
+            "name": "侍魂提升",
+            "is_redot_show": true,
+            "red_model_type": "PEP"
+        },
+        "14": {
+            "id": 14,
+            "func": 16,
+            "name": "神巫提升",
+            "is_redot_show": true,
+            "red_model_type": "PARTNER"
+        },
+        "15": {
+            "id": 15,
+            "func": 2,
+            "name": "坐骑养成",
+            "is_redot_show": true,
+            "red_model_type": "HORSE"
+        },
+        "16": {
+            "id": 16,
+            "func": 41,
+            "name": "翅膀幻化",
+            "is_redot_show": true,
+            "red_model_type": "ILLU_WING"
+        },
+        "17": {
+            "id": 17,
+            "func": 42,
+            "name": "御守幻化",
+            "is_redot_show": true,
+            "red_model_type": "ILLU_HOLYDEVICE"
+        },
+        "18": {
+            "id": 18,
+            "func": 43,
+            "name": "神器幻化",
+            "is_redot_show": true,
+            "red_model_type": "ILLU_ARTIFACT"
+        },
+        "19": {
+            "id": 19,
+            "func": 44,
+            "name": "图谱",
+            "is_redot_show": true,
+            "red_model_type": "MONBOOK"
+        },
+        "20": {
+            "id": 20,
+            "func": 96,
+            "name": "神装",
+            "is_redot_show": true,
+            "red_model_type": "GOD_EQUIPMENT"
+        },
+        "21": {
+            "id": 21,
+            "func": 51,
+            "name": "战甲",
+            "is_redot_show": true,
+            "red_model_type": "EQUIP_ARMOR"
+        },
+        "22": {
+            "id": 22,
+            "func": 55,
+            "name": "祈愿",
+            "is_redot_show": true,
+            "red_model_type": "PRAY"
+        },
+        "23": {
+            "id": 23,
+            "func": 84,
+            "name": "影装",
+            "is_redot_show": true,
+            "red_model_type": "HOLY_SEAL"
+        },
+        "25": {
+            "id": 25,
+            "func": 100,
+            "name": "天赋",
+            "is_redot_show": true,
+            "red_model_type": "ROLE_SKILL_STREN"
+        },
+        "26": {
+            "id": 26,
+            "func": 117,
+            "name": "神纹",
+            "is_redot_show": true,
+            "red_model_type": "LUNG_DOT"
+        },
+        "27": {
+            "id": 27,
+            "func": 122,
+            "name": "宝宝",
+            "is_redot_show": true,
+            "red_model_type": "BABY"
+        },
+        "28": {
+            "id": 28,
+            "func": 137,
+            "name": "天启",
+            "is_redot_show": true,
+            "red_model_type": "REVE"
+        },
+        "29": {
+            "id": 29,
+            "func": 147,
+            "name": "妖灵",
+            "is_redot_show": true,
+            "red_model_type": "DEMON"
+        },
+        "30": {
+            "id": 30,
+            "func": 164,
+            "name": "神祭",
+            "is_redot_show": true,
+            "red_model_type": "LONG_LANG"
+        },
+        "31": {
+            "id": 31,
+            "func": 170,
+            "name": "圣衣",
+            "is_redot_show": true,
+            "red_model_type": "STAR_EQUIP"
+        },
+        "32": {
+            "id": 32,
+            "func": 177,
+            "name": "神社",
+            "is_redot_show": true,
+            "red_model_type": "GOD_COURT"
+        },
+        "33": {
+            "id": 33,
+            "func": 110,
+            "name": "御魂",
+            "is_redot_show": true,
+            "red_model_type": "RUNE"
+        },
+        "34": {
+            "id": 34,
+            "func": 126,
+            "name": "降神提升",
+            "is_redot_show": true,
+            "red_model_type": "GOD"
+        },
+        "35": {
+            "id": 35,
+            "func": 37,
+            "name": "坐骑幻化",
+            "is_redot_show": true,
+            "red_model_type": "ILLU_HORSE"
+        },
+        "36": {
+            "id": 36,
+            "func": 39,
+            "name": "侍魂幻化",
+            "is_redot_show": true,
+            "red_model_type": "ILLU_PEP"
+        },
+        "37": {
+            "id": 37,
+            "func": 190,
+            "name": "神巫副本",
+            "is_redot_show": true,
+            "red_model_type": "PARTNER_DUNGEON",
+            "is_top": true,
+            "order": 1,
+            "top_tips": "挑战神巫副本，<br>获得大量奖励！"
+        },
+        "38": {
+            "id": 38,
+            "func": 242,
+            "name": "斩妖奖励",
+            "is_redot_show": true,
+            "red_model_type": "AUTO_BRUSH_STAGE"
+        },
+        "39": {
+            "id": 39,
+            "func": 240,
+            "name": "法器",
+            "is_redot_show": true,
+            "red_model_type": "MONSTER_SOAP"
+        },
+        "40": {
+            "id": 40,
+            "func": 16,
+            "name": "神巫觉醒",
+            "is_redot_show": true,
+            "red_model_type": "PARTNER_AWAKE",
+            "is_top": true,
+            "order": 3,
+            "top_tips": "完成契约，<br>觉醒强力神巫!"
+        },
+        "41": {
+            "id": 41,
+            "func": 243,
+            "name": "背饰提升",
+            "is_redot_show": true,
+            "red_model_type": "ROLE_DEV_BACK_ORNAMENT"
+        },
+        "42": {
+            "id": 42,
+            "func": 252,
+            "name": "龙玉提升",
+            "is_redot_show": true,
+            "red_model_type": "DRAGON_BALL"
+        },
+        "10001": {
+            "id": 10001,
+            "func": 0,
+            "name": "技能觉醒",
+            "is_redot_show": true,
+            "red_model_type": "",
+            "is_top": true,
+            "order": 2,
+            "top_tips": "技能觉醒可挑战!"
+        }
+    },
+    "taskid": {
+        "taskid": "技能觉醒任务id",
+        "combat": "战力需求"
+    },
+    "SkillAwakeTask": { 
+        "205000": {
+            "taskid": 205000,
+            "combat": 150000
+        },
+        "205001": {
+            "taskid": 205001,
+            "combat": 400000
+        },
+        "205002": {
+            "taskid": 205002,
+            "combat": 750000
+        },
+        "205003": {
+            "taskid": 205003,
+            "combat": 1250000
+        },
+        "205004": {
+            "taskid": 205004,
+            "combat": 1800000
+        },
+        "205005": {
+            "taskid": 205005,
+            "combat": 2600000
+        },
+        "205006": {
+            "taskid": 205006,
+            "combat": 4000000
+        }
+    }
+}

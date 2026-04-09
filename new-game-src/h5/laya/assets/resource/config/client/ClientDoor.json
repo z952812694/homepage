@@ -1,0 +1,210 @@
+{
+    "场景id": {
+        "door_id": "传送门id",
+        "enter_scene_id": "进入场景ID int32",
+        "t_scene_x": "目标场景传送点X坐标",
+        "t_scene_y": "目标场景传送点Y坐标",
+        "pixel_x": "传送门X坐标",
+        "pixel_y": "传送门Y坐标"
+    },
+     "49001": [
+        {
+            "door_id": 1,
+            "enter_scene_id": 49001,
+            "pixel_x": 4328,
+            "pixel_y": 585,
+            "t_scene_x": 3537,
+            "t_scene_y": 1027
+        },
+        {
+            "door_id": 2,
+            "enter_scene_id": 49001,
+            "pixel_x": 3737,
+            "pixel_y": 827,
+            "t_scene_x": 4528,
+            "t_scene_y": 385
+        },
+        {
+            "door_id": 3,
+            "enter_scene_id": 49001,
+            "pixel_x": 3018,
+            "pixel_y": 1427,
+            "t_scene_x": 2198,
+            "t_scene_y": 1856
+        },
+        {
+            "door_id": 4,
+            "enter_scene_id": 49001,
+            "pixel_x": 2398,
+            "pixel_y": 1656,
+            "t_scene_x": 3218,
+            "t_scene_y": 1227
+        },
+        {
+            "door_id": 5,
+            "enter_scene_id": 49001,
+            "pixel_x": 996,
+            "pixel_y": 1816,
+            "t_scene_x": 477,
+            "t_scene_y": 2502
+        },
+        {
+            "door_id": 6,
+            "enter_scene_id": 49001,
+            "pixel_x": 677,
+            "pixel_y": 2302,
+            "t_scene_x": 1196,
+            "t_scene_y": 1616
+        }
+    ],
+    "49002": [
+        {
+            "door_id": 7,
+            "enter_scene_id": 49002,
+            "pixel_x": 4328,
+            "pixel_y": 585,
+            "t_scene_x": 3537,
+            "t_scene_y": 1027
+        },
+        {
+            "door_id": 8,
+            "enter_scene_id": 49002,
+            "pixel_x": 3737,
+            "pixel_y": 827,
+            "t_scene_x": 4528,
+            "t_scene_y": 385
+        },
+        {
+            "door_id": 9,
+            "enter_scene_id": 49002,
+            "pixel_x": 3018,
+            "pixel_y": 1427,
+            "t_scene_x": 2198,
+            "t_scene_y": 1856
+        },
+        {
+            "door_id": 10,
+            "enter_scene_id": 49002,
+            "pixel_x": 2398,
+            "pixel_y": 1656,
+            "t_scene_x": 3218,
+            "t_scene_y": 1227
+        },
+        {
+            "door_id": 11,
+            "enter_scene_id": 49002,
+            "pixel_x": 996,
+            "pixel_y": 1816,
+            "t_scene_x": 477,
+            "t_scene_y": 2502
+        },
+        {
+            "door_id": 12,
+            "enter_scene_id": 49002,
+            "pixel_x": 677,
+            "pixel_y": 2302,
+            "t_scene_x": 1196,
+            "t_scene_y": 1616
+        }
+    ],
+    "49003": [
+        {
+            "door_id": 13,
+            "enter_scene_id": 49003,
+            "pixel_x": 4328,
+            "pixel_y": 585,
+            "t_scene_x": 3537,
+            "t_scene_y": 1027
+        },
+        {
+            "door_id": 14,
+            "enter_scene_id": 49003,
+            "pixel_x": 3737,
+            "pixel_y": 827,
+            "t_scene_x": 4528,
+            "t_scene_y": 385
+        },
+        {
+            "door_id": 15,
+            "enter_scene_id": 49003,
+            "pixel_x": 3018,
+            "pixel_y": 1427,
+            "t_scene_x": 2198,
+            "t_scene_y": 1856
+        },
+        {
+            "door_id": 16,
+            "enter_scene_id": 49003,
+            "pixel_x": 2398,
+            "pixel_y": 1656,
+            "t_scene_x": 3218,
+            "t_scene_y": 1227
+        },
+        {
+            "door_id": 17,
+            "enter_scene_id": 49003,
+            "pixel_x": 996,
+            "pixel_y": 1816,
+            "t_scene_x": 477,
+            "t_scene_y": 2502
+        },
+        {
+            "door_id": 18,
+            "enter_scene_id": 49003,
+            "pixel_x": 677,
+            "pixel_y": 2302,
+            "t_scene_x": 1196,
+            "t_scene_y": 1616
+        }
+    ],
+    "49004": [
+        {
+            "door_id": 19,
+            "enter_scene_id": 49004,
+            "pixel_x": 4328,
+            "pixel_y": 585,
+            "t_scene_x": 3537,
+            "t_scene_y": 1027
+        },
+        {
+            "door_id": 20,
+            "enter_scene_id": 49004,
+            "pixel_x": 3737,
+            "pixel_y": 827,
+            "t_scene_x": 4528,
+            "t_scene_y": 385
+        },
+        {
+            "door_id": 21,
+            "enter_scene_id": 49004,
+            "pixel_x": 3018,
+            "pixel_y": 1427,
+            "t_scene_x": 2198,
+            "t_scene_y": 1856
+        },
+        {
+            "door_id": 22,
+            "enter_scene_id": 49004,
+            "pixel_x": 2398,
+            "pixel_y": 1656,
+            "t_scene_x": 3218,
+            "t_scene_y": 1227
+        },
+        {
+            "door_id": 23,
+            "enter_scene_id": 49004,
+            "pixel_x": 996,
+            "pixel_y": 1816,
+            "t_scene_x": 477,
+            "t_scene_y": 2502
+        },
+        {
+            "door_id": 24,
+            "enter_scene_id": 49004,
+            "pixel_x": 677,
+            "pixel_y": 2302,
+            "t_scene_x": 1196,
+            "t_scene_y": 1616
+        }
+    ]
+}

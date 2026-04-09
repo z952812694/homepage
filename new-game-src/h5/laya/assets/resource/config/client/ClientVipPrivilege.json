@@ -1,0 +1,1147 @@
+{
+    "1": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加20%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "3": {
+            "hide": 1,
+            "new": 1,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 1,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>200格</font>"
+        },
+        "6": {
+            "hide": 1,
+            "new": 1,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "7": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "8": {
+            "new": 1,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加2次</font>"
+        },
+        "9": {
+            "new": 1,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加2次</font>"
+        },
+        "10": {
+            "new": 1,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加5次</font>"
+        },
+        "show_vip_lv": 0
+    },
+    "2": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加20%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "3": {
+            "hide": 1,
+            "new": 2,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉奖励翻倍</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 1,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 1,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "6": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>200格</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 1,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "8": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "9": {
+            "new": 2,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加4次</font>"
+        },
+        "10": {
+            "new": 2,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加4次</font>"
+        },
+        "11": {
+            "new": 2,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加6次</font>"
+        },
+        "12": {
+            "new": 2,
+            "tips": "市场交易次数 <font  color='#0a953e'>增加5次</font>"
+        },
+        "show_vip_lv": 0
+    },
+    "3": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加20%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "3": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 1,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 1,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "6": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>200格</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 1,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "8": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "9": {
+            "new": 3,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加6次</font>"
+        },
+        "10": {
+            "new": 3,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加6次</font>"
+        },
+        "11": {
+            "new": 3,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加7次</font>"
+        },
+        "12": {
+            "new": 3,
+            "tips": "市场交易次数 <font  color='#0a953e'>增加10次</font>"
+        },
+        "show_vip_lv": 0
+    },
+    "4": {
+        "1": {
+            "new": 4,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 4,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 4,
+            "tips": "额外宝石孔 <font  color='#0a953e'>解锁</font>"
+        },
+        "6": {
+            "hide": 1,
+            "new": 4,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 4,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 4,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "10": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "11": {
+            "new": 4,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加8次</font>"
+        },
+        "12": {
+            "new": 4,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加8次</font>"
+        },
+        "13": {
+            "new": 4,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加10次</font>"
+        },
+        "14": {
+            "new": 4,
+            "tips": "开启 <font  color='#0a953e'>大妖之境一层</font>"
+        },
+        "15": {
+            "new": 4,
+            "tips": "市场交易次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "show_vip_lv": 0
+    },
+    "5": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 5,
+            "tips": "开启 <font  color='#0a953e'>大妖之境二层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 5,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 1,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 5,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加4次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 5,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加8次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 5,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加10次</font>"
+        },
+        "13": {
+            "new": 5,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加10次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 5,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加1点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "17": {
+            "new": 5,
+            "tips": "市场交易次数 <font  color='#0a953e'>增加25次</font>"
+        },
+        "show_vip_lv": 0
+    },
+    "6": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 6,
+            "tips": "开启 <font  color='#0a953e'>大妖之境三层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 5,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 6,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 6,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加6次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加14次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 6,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加14次</font>"
+        },
+        "13": {
+            "new": 6,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加14次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 5,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加1点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "17": {
+            "new": 6,
+            "tips": "市场交易次数 <font  color='#0a953e'>增加30次</font>"
+        },
+        "show_vip_lv": 0
+    },
+    "7": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 7,
+            "tips": "开启 <font  color='#0a953e'>大妖之境四层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 7,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加4次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 7,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加8次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 7,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 7,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加18次</font>"
+        },
+        "13": {
+            "new": 7,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加18次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 4
+    },
+    "8": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 8,
+            "tips": "开启 <font  color='#0a953e'>大妖之境五层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 7,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加4次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 8,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加10次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 7,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 8,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加22次</font>"
+        },
+        "13": {
+            "new": 8,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加22次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 4
+    },
+    "9": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 7,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加4次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 9,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加12次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 9,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加26次</font>"
+        },
+        "13": {
+            "new": 9,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加26次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "10": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 7,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加5次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 10,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加14次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 10,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加30次</font>"
+        },
+        "13": {
+            "new": 10,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加30次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "11": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 7,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加5次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 11,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加16次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 11,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加34次</font>"
+        },
+        "13": {
+            "new": 11,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加34次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "12": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 7,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加5次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 12,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 12,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "13": {
+            "new": 12,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "13": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 13,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加6次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 12,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 12,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "13": {
+            "new": 12,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "14": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 13,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加6次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 12,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 12,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "13": {
+            "new": 12,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "15": {
+        "1": {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加30%</font>"
+        },
+        "2": {
+            "new": 1,
+            "tips": "专属大妖进入次数 <font  color='#0a953e'>增加2次</font>"
+        },
+        "3": {
+            "new": 9,
+            "tips": "开启 <font  color='#0a953e'>大妖之境六层</font>"
+        },
+        "4": {
+            "hide": 1,
+            "new": 3,
+            "tips": "每日签到 <font  color='#0a953e'>绑玉、神源材料奖励翻倍</font>"
+        },
+        "5": {
+            "hide": 1,
+            "new": 7,
+            "tips": "恶灵退治购买次数 <font  color='#0a953e'>增加3次</font>"
+        },
+        "7": {
+            "hide": 1,
+            "new": 15,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加7次</font>"
+        },
+        "8": {
+            "hide": 1,
+            "new": 12,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "9": {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>220格</font>"
+        },
+        "10": {
+            "hide": 1,
+            "new": 6,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加18次</font>"
+        },
+        "11": {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        "12": {
+            "new": 12,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "13": {
+            "new": 12,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加38次</font>"
+        },
+        "14": {
+            "new": 5,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加20次</font>"
+        },
+        "15": {
+            "new": 7,
+            "tips": "世界大妖体力值上限<font  color='#0a953e'>增加2点</font>"
+        },
+        "16": {
+            "new": 5,
+            "tips": "璀璨之海获得<font  color='#0a953e'>2次</font>免费提升船只次数"
+        },
+        "show_vip_lv": 7
+    },
+    "card_1": {
+        "card_bg": "uivip_030a",
+        "card_img": "uivip_030e",
+        "card_name": "uivip_030b",
+        "line_img": "uivip_032e",
+        "free_img": "uivip_030j",
+        "more_btn": "uivip_031g",
+        "old_price": 388,
+        "point_img": "uivip_030f",
+        "price_bg": "vipui_get_bg_1",
+        "show_tips": [
+            "交易手续费 <font  color='#00fa64'>10%</font>",
+            "特权有效期：<font  color='#00fa64'>30天</font>",
+            "经验加成 <font  color='#00fa64'>+20%</font>"
+        ],
+        "left_show_tip": [
+            "tb_mh@<font color='#d72c2c'>蛮荒大妖进入次数</font><font  color='#0a953e'> +1</font>",
+            "tb_zy@<font color='#664c8c'>资源副本扫荡次数</font><font  color='#0a953e'> +1</font>",
+            "tb_sw@<font color='#664c8c'>神巫副本扫荡次数</font><font  color='#0a953e'> +1</font>",
+            "tb_qy@<font color='#664c8c'>经验祈愿次数</font><font  color='#0a953e'> +2次</font>",
+            "tb_qy@<font color='#664c8c'>铜币祈愿次数</font><font  color='#0a953e'> +2次</font>",
+            "tb_jj@<font color='#664c8c'>竞技场购买次数</font><font  color='#0a953e'> +5次</font>"
+
+        ],
+        "right_show_tip": [
+            "tb_jj2@<font color='#d72c2c'>经验加成</font><font  color='#0a953e'> +20%</font>",
+            "tb_bb@<font color='#d72c2c'>背包容量</font><font  color='#0a953e'> 200格</font>",
+            "tb_sc@<font color='#a3582c'>交易手续费</font><font  color='#0a953e'> 10%</font>"
+        ]
+    },
+    "card_2": {
+        "card_bg": "uivip_033a",
+        "card_img": "uivip_032c",
+        "card_name": "uivip_030c",
+        "free_img": "uivip_030h",
+        "line_img": "uivip_032e",
+        "more_btn": "uivip_033g",
+        "old_price": 888,
+        "point_img": "uivip_033f",
+        "price_bg": "vipui_get_bg_2",
+        "show_tips": [
+            "每日签到<font  color='#00fa64'>绑玉翻倍</font>",
+            "特权有效期:<font  color='#00fa64'>90天</font>",
+            "祈愿次数<font  color='#00fa64'>+4次</font>"
+        ],
+        "left_show_tip": [
+            "tb_sc@<font color='#d72c2c'>市场交易次数</font><font  color='#0a953e'> +5次</font>",
+            "tb_zs@<font color='#d72c2c'>专属大妖进入次数</font><font  color='#0a953e'> +1</font>",
+            "tb_mh@<font color='#664c8c'>蛮荒大妖进入次数</font><font  color='#0a953e'> +1</font>",
+            "tb_zy@<font color='#664c8c'>资源副本扫荡次数</font><font  color='#0a953e'> +1</font>",
+            "tb_sw@<font color='#664c8c'>神巫副本扫荡次数</font><font  color='#0a953e'> +1</font>",
+            "tb_qy@<font color='#664c8c'>经验祈愿次数</font><font  color='#d72c2c'> +4次</font>",
+            "tb_qy@<font color='#664c8c'>铜币祈愿次数</font><font  color='#d72c2c'> +4次</font>",
+            "tb_jj@<font color='#664c8c'>竞技场购买次数</font><font  color='#d72c2c'> +6次</font>"
+        ],
+        "right_show_tip": [
+            "tb_qd@<font color='#d72c2c'>每日签到绑玉</font><font  color='#0a953e'> 奖励翻倍</font>",
+            "tb_jj2@<font color='#a3582c'>经验加成</font><font  color='#0a953e'> +20%</font>",
+            "tb_bb@<font color='#a3582c'>背包容量</font><font  color='#0a953e'> 200格</font>",
+            "tb_sc@<font color='#a3582c'>交易手续费</font><font  color='#0a953e'> 10%</font>"
+        ]
+    },
+    "card_4": {
+        "card_bg": "uivip_032a",
+        "card_img": "uivip_033c",
+        "card_name": "uivip_031b",
+        "free_img": "",
+        "line_img": "uivip_032e",
+        "more_btn": "uivip_032g",
+        "old_price": 1888,
+        "point_img": "uivip_032f",
+        "price_bg": "vipui_get_bg_4",
+        "show_tips": [
+            "开启<font  color='#00fa64'>大妖之境功能</font>",
+            "恶灵退治<font  color='#00fa64'>增加1次</font>",
+            "特权有效期：<font  color='#00fa64'>180天</font>"
+        ],
+        "left_show_tip": [
+            "tb_dy@<font color='#d72c2c'>大妖之境进入资格</font><font  color='#0a953e'> 开启</font>",
+            "tb_jy@<font color='#d72c2c'>恶灵退治购买次数</font><font  color='#0a953e'> +1</font>",
+            "tb_zs@<font color='#664c8c'>专属大妖进入次数</font><font  color='#d72c2c'> +2</font>",
+            "tb_mh@<font color='#664c8c'>蛮荒大妖进入次数</font><font  color='#d72c2c'> +3</font>",
+            "tb_zy@<font color='#664c8c'>资源副本扫荡次数</font><font  color='#d72c2c'> +2</font>",
+            "tb_sw@<font color='#664c8c'>神巫副本扫荡次数</font><font  color='#d72c2c'> +2</font>",
+            "tb_qy@<font color='#664c8c'>经验祈愿次数</font><font  color='#d72c2c'> +8次</font>",
+            "tb_qy@<font color='#664c8c'>铜币祈愿次数</font><font  color='#d72c2c'> +8次</font>",
+            "tb_jj@<font color='#664c8c'>竞技场购买次数</font><font  color='#d72c2c'> +10次</font>",
+            "tb_sc@<font color='#664c8c'>市场交易次数</font><font  color='#d72c2c'> +20次</font>"
+        ],
+        "right_show_tip": [
+            "tb_qd@<font color='#d72c2c'>额外宝石孔位</font><font  color='#0a953e'> 解锁</font>",
+            "tb_qd@<font color='#a3582c'>每日签到绑玉</font><font  color='#0a953e'> 奖励翻倍</font>",
+            "tb_jj2@<font color='#a3582c'>经验加成</font><font  color='#d72c2c'> +30%</font>",
+            "tb_bb@<font color='#a3582c'>背包容量</font><font  color='#d72c2c'> 220格</font>",
+            "tb_sc@<font color='#a3582c'>交易手续费</font><font  color='#0a953e'> 10%</font>"
+        ]
+    },
+    "card_type": {
+        "old_price": "界面显示的价格",
+        "other": "其他不要修改",
+        "show_tips": "卡片显示的特权"
+    },
+    "vip_lv": "tips:vip特权列表内容.new:是否显示新图标",
+    "vip_tips": [
+        {
+            "new": 1,
+            "tips": "限时体验 <font  color='#0a953e'>超值VIP特权30分钟</font>"
+        },
+        {
+            "new": 1,
+            "tips": "经验加成 <font  color='#0a953e'>增加20%</font>"
+        },
+        {
+            "hide": 1,
+            "new": 1,
+            "tips": "背包容量 <font  color='#0a953e'>200格</font>"
+        },
+        {
+            "hide": 1,
+            "new": 1,
+            "tips": "资源副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        {
+            "hide": 1,
+            "new": 1,
+            "tips": "蛮荒大妖进入次数 <font  color='#0a953e'>增加1次</font>"
+        },
+        {
+            "new": 1,
+            "tips": "交易手续费 <font  color='#0a953e'>10%</font>"
+        },
+        {
+            "new": 1,
+            "tips": "经验祈愿 <font  color='#0a953e'>增加2次</font>"
+        },
+        {
+            "new": 1,
+            "tips": "铜币祈愿 <font  color='#0a953e'>增加2次</font>"
+        },
+        {
+            "new": 1,
+            "tips": "竞技场购买次数 <font  color='#0a953e'>增加5次</font>"
+        },
+        {
+            "hide": 1,
+            "new": 1,
+            "tips": "神巫副本扫荡次数 <font  color='#0a953e'>增加1次</font>"
+        }
+    ]
+}

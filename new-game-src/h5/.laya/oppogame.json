@@ -1,0 +1,100 @@
+{
+    "copyFilesFilter": [
+        "../bin/**/*.*"
+    ],
+    "openDataZone": false,
+    "compressJson": false,
+    "compressJsonFilter": [
+        "$basePath/**/*.{json,atlas}"
+    ],
+    "compressJsonNoteList": [
+        ""
+    ],
+    "compressImage": false,
+    "compressImageFilter": [
+        "$basePath/**/*.{png,jpg}"
+    ],
+    "compressImageNoteList": [
+        ""
+    ],
+    "compressJs": true,
+    "compressJsFilter": [
+        "$basePath/**/*.js",
+        "!$basePath/libs/min/**/*.js"
+    ],
+    "compressJsNoteList": [
+        "",
+        ""
+    ],
+    "version": false,
+    "versionFilter": [
+        "$basePath/**/*.*",
+        "!$basePath/*.html",
+        "!$basePath/{version.json,game.js,game.json,project.config.json,weapp-adapter.js,project.swan.json,swan-game-adapter.js,main.js,gameConfig.json,my-adapter.js,microgame-adapter.js,qg-adapter.js,huawei-adapter.js,adapter.js,}",
+        "!$basePath/layaforqq/**/*.*"
+    ],
+    "versionNoteList": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "exclude": true,
+    "excludeFilter": [
+        "!$basePath/res/**/*.*",
+        "!$basePath/resource/**/*.*",
+        "!$basePath/comp/**/*.*"
+    ],
+    "vexcludeNoteList": [
+        "",
+        "",
+        ""
+    ],
+    "packfile": false,
+    "keepPlatformFile": true,
+    "packfileFilter": [
+        ""
+    ],
+    "packfileFullValue": [
+        "$basePath/**/*.*"
+    ],
+    "packfileTargetValue": "",
+    "packfileNoteList": [
+        ""
+    ],
+    "clearReleaseDir": true,
+    "compile": true,
+    "forceCompile": false,
+    "onlyIndexJS": true,
+    "useMinJsLibs": false,
+    "es6toes5": false,
+    "projectType": "ts",
+    "pubTime": 1657195575185,
+    "oppoInfo": {
+        "name": "九州谕",
+        "projName": "quickgame",
+        "package": "com.jzy.kyx.nearme.gamecenter",
+        "icon": "H:\\laya\\yy25dlaya_min_pro\\logo.png",
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minPlatformVersion": 1060,
+        "orientation": "portrait",
+        "logLevel": "log",
+        "adbDebug": false,
+        "apkUpdate": false,
+        "useReleaseSign": false,
+        "subpack": false,
+        "ispagesub": false
+    },
+    "oppoSign": {
+        "generateSign": false,
+        "countryName": "CN",
+        "provinceName": "",
+        "localityName": "",
+        "orgName": "",
+        "orgUnitName": "",
+        "commonName": "",
+        "emailAddr": ""
+    },
+    "oppoSubpack": []
+}

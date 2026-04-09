@@ -1,0 +1,105 @@
+{
+    "copyFilesFilter": [
+        "../bin/**/*.*"
+    ],
+    "openDataZone": false,
+    "compressJson": false,
+    "compressJsonFilter": [
+        "$basePath/**/*.{json,atlas}"
+    ],
+    "compressJsonNoteList": [
+        ""
+    ],
+    "compressImage": false,
+    "compressImageFilter": [
+        "$basePath/**/*.{png,jpg}"
+    ],
+    "compressImageNoteList": [
+        ""
+    ],
+    "compressJs": false,
+    "compressJsFilter": [
+        "$basePath/**/*.js",
+        "!$basePath/libs/min/**/*.js"
+    ],
+    "compressJsNoteList": [
+        "",
+        ""
+    ],
+    "version": false,
+    "versionFilter": [
+        "$basePath/**/*.*",
+        "!$basePath/*.html",
+        "!$basePath/{version.json,game.js,game.json,project.config.json,weapp-adapter.js,project.swan.json,swan-game-adapter.js,main.js,gameConfig.json,my-adapter.js,microgame-adapter.js,qg-adapter.js,huawei-adapter.js,adapter.js,}",
+        "!$basePath/layaforqq/**/*.*"
+    ],
+    "versionNoteList": [
+        "",
+        "",
+        "",
+        ""
+    ],
+    "exclude": true,
+    "excludeFilter": [
+        "!$basePath/res/**/*.*",
+        "!$basePath/resource/**/*.*",
+        "!$basePath/comp/**/*.*",
+        "!$basePath/test/**/*.*",
+        "!$basePath/prefab/**/*.*"
+    ],
+    "vexcludeNoteList": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "packfile": false,
+    "keepPlatformFile": true,
+    "packfileFilter": [
+        ""
+    ],
+    "packfileFullValue": [
+        "$basePath/**/*.*"
+    ],
+    "packfileTargetValue": "",
+    "packfileNoteList": [
+        ""
+    ],
+    "clearReleaseDir": true,
+    "compile": false,
+    "forceCompile": false,
+    "onlyIndexJS": true,
+    "useMinJsLibs": true,
+    "es6toes5": false,
+    "projectType": "ts",
+    "pubTime": 1657593004302,
+    "vivoInfo": {
+        "name": "九州谕",
+        "projName": "quickgame",
+        "package": "com.qisu.jzy.vivominigame",
+        "icon": "H:\\laya\\yy25dlaya_min_pro\\logo.png",
+        "versionName": "1.0",
+        "versionCode": 1,
+        "minPlatformVersion": 1063,
+        "orientation": "portrait",
+        "logLevel": "log",
+        "adbDebug": false,
+        "apkUpdate": false,
+        "useReleaseSign": false,
+        "subpack": false,
+        "ispagesub": false
+    },
+    "vivoSign": {
+        "generateSign": false,
+        "countryName": "CN",
+        "provinceName": "",
+        "localityName": "",
+        "orgName": "",
+        "orgUnitName": "",
+        "commonName": "",
+        "emailAddr": ""
+    },
+    "vivoSubpack": [],
+    "uesEnginePlugin": true
+}

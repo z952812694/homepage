@@ -1,0 +1,871 @@
+{
+    "81@10": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "103@2": {
+        "module_js_class": "GashaponMainView",
+        "module_js_name": "gashapon"
+    },
+    "50@28": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "100@1": {
+        "module_js_class": "LuckyDuobaoView",
+        "module_js_name": "luckyDuobao"
+    },
+    "15@23": {
+        "module_js_class": "LogGiftTwoView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "50@7": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "100@2": {
+        "module_js_class": "LuckyDuobaoView",
+        "module_js_name": "luckyDuobao"
+    },
+    "50@3": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@9": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "14@2": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "14@3": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "50@8": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@1": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@5": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@0": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "14@0": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "14@1": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "10@0": {
+        "module_js_class": "TopPlayerView",
+        "module_js_name": "kaifuactivity"
+    },
+    "15@20": {
+        "module_js_class": "LogGiftTwoView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "67@12": {
+        "module_js_class": "HolyCallMainViewTwo",
+        "module_js_name": "wonderActivity"
+    },
+    "50@29": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "54@0": {
+        "module_js_class": "MountTurntableView",
+        "module_js_name": "separateActTwo"
+    },
+    "54@1": {
+        "module_js_class": "MountTurntableView",
+        "module_js_name": "separateActTwo"
+    },
+    "66@0": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "74@2": {
+        "module_js_class": "rechargeReturnView",
+        "module_js_name": "activity"
+    },
+    "66@3": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "98@1": {
+        "module_js_class": "DiscountGiftView",
+        "module_js_name": "discountGift"
+    },
+    "86@2": {
+        "module_js_class": "rechargeReturnView",
+        "module_js_name": "activity"
+    },
+    "86@3": {
+        "module_js_class": "rechargeReturnView",
+        "module_js_name": "activity"
+    },
+    "66@1": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "7@0": {
+        "module_js_class": "AccumRechargeView",
+        "module_js_name": "activity"
+    },
+    "82@1": {
+        "module_js_class": "RedPacketRainView",
+        "module_js_name": "firstAct"
+    },
+    "86@0": {
+        "module_js_class": "rechargeReturnView",
+        "module_js_name": "activity"
+    },
+    "86@1": {
+        "module_js_class": "rechargeReturnView",
+        "module_js_name": "activity"
+    },
+    "4@0": {
+        "module_js_class": "FtvCollectionExchangeMain",
+        "module_js_name": "kaifuactivity"
+    },
+    "50@25": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "7@1": {
+        "module_js_class": "AccumRechargeViewTwo",
+        "module_js_name": "activity"
+    },
+    "13@2": {
+        "module_js_class": "EggsMainView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@26": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "33@2": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "13@1": {
+        "module_js_class": "EggsMainView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "25@0": {
+        "module_js_class": "actMarriageView",
+        "module_js_name": "actMarriage"
+    },
+    "33@1": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "49@3": {
+        "module_js_class": "FtvExchangeMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "49@0": {
+        "module_js_class": "FtvExchangeMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "49@2": {
+        "module_js_class": "FtvExchangeMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "53@2": {
+        "module_js_class": "kfCostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@21": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "53@1": {
+        "module_js_class": "kfCostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@30": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "53@0": {
+        "module_js_class": "kfCostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "84@3": {
+        "module_js_class": "RealLotteryView",
+        "module_js_name": "firstAct"
+    },
+    "83@3": {
+        "module_js_class": "ActiveTurntableView",
+        "module_js_name": "firstAct"
+    },
+    "56@11": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "81@1": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "50@22": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@20": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "81@0": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "65@3": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "56@10": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "74@1": {
+        "module_js_class": "rechargeReturnView",
+        "module_js_name": "activity"
+    },
+    "39@3": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "33@3": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "93@0": {
+        "module_js_class": "StarTrekView",
+        "module_js_name": "StarTrek"
+    },
+    "87@3": {
+        "module_js_class": "FortuneCatView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "65@1": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "67@13": {
+        "module_js_class": "HolyCallMainViewTwo",
+        "module_js_name": "wonderActivity"
+    },
+    "28@3": {
+        "module_js_class": "TurnTableView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "59@7": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "53@5": {
+        "module_js_class": "kfCostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "49@1": {
+        "module_js_class": "FtvExchangeMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "14@4": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "65@0": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "14@14": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "39@1": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "50@19": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@18": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@17": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "61@0": {
+        "module_js_class": "DailySupplyView",
+        "module_js_name": "Welfare"
+    },
+    "56@0": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "101@0": {
+        "module_js_class": "LuckyDuoBaoLimitBuyView",
+        "module_js_name": "luckyDuobao"
+    },
+    "50@6": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "104@2": {
+        "module_js_class": "FightRankView",
+        "module_js_name": "fightRank"
+    },
+    "12@3": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "16@2": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "16@3": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "12@2": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "85@0": {
+        "module_js_class": "FirstBloodView",
+        "module_js_name": "firstAct"
+    },
+    "104@1": {
+        "module_js_class": "FightRankView",
+        "module_js_name": "fightRank"
+    },
+    "15@3": {
+        "module_js_class": "LogGiftView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "12@1": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "16@0": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "16@1": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "12@0": {
+        "module_js_class": "DungeonShowView",
+        "module_js_name": "dungeonShow"
+    },
+    "59@4": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "50@14": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@13": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "81@11": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "48@5": {
+        "module_js_class": "CostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@12": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "7@3": {
+        "module_js_class": "AccumRechargeView",
+        "module_js_name": "activity"
+    },
+    "98@10": {
+        "module_js_class": "DiscountGiftView",
+        "module_js_name": "discountGift"
+    },
+    "15@22": {
+        "module_js_class": "LogGiftTwoView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "15@21": {
+        "module_js_class": "LogGiftTwoView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "48@1": {
+        "module_js_class": "CostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "48@3": {
+        "module_js_class": "CostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "28@1": {
+        "module_js_class": "TurnTableView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "48@0": {
+        "module_js_class": "CostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "48@2": {
+        "module_js_class": "CostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "48@4": {
+        "module_js_class": "CostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "104@3": {
+        "module_js_class": "FightRankView",
+        "module_js_name": "fightRank"
+    },
+    "104@0": {
+        "module_js_class": "FightRankView",
+        "module_js_name": "fightRank"
+    },
+    "100@3": {
+        "module_js_class": "LuckyDuobaoView",
+        "module_js_name": "luckyDuobao"
+    },
+    "100@0": {
+        "module_js_class": "LuckyDuobaoView",
+        "module_js_name": "luckyDuobao"
+    },
+    "68@0": {
+        "module_js_class": "FtvShopViewTwo",
+        "module_js_name": "ftvShop"
+    },
+    "50@31": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "98@0": {
+        "module_js_class": "DiscountGiftView",
+        "module_js_name": "discountGift"
+    },
+    "72@2": {
+        "module_js_class": "GodPrayerView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "28@2": {
+        "module_js_class": "TurnTableView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "60@2": {
+        "module_js_class": "surpriseEggView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "56@20": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "72@1": {
+        "module_js_class": "GodPrayerView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "83@0": {
+        "module_js_class": "ActiveTurntableView",
+        "module_js_name": "firstAct"
+    },
+    "60@1": {
+        "module_js_class": "surpriseEggView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "72@0": {
+        "module_js_class": "GodPrayerView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "28@0": {
+        "module_js_class": "TurnTableView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "44@1": "WeaponRentalMainView",
+    "24@0": {
+        "module_js_class": "createGuildView",
+        "module_js_name": "kaifuactivity"
+    },
+    "96@0": {
+        "module_js_class": "FirstBloodMainView",
+        "module_js_name": "firstBlood"
+    },
+    "56@2": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "56@3": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "84@2": {
+        "module_js_class": "RealLotteryView",
+        "module_js_name": "firstAct"
+    },
+    "64@0": {
+        "module_js_class": "ftvAnyRechargeView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "64@2": {
+        "module_js_class": "ftvAnyRechargeView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "64@3": {
+        "module_js_class": "ftvAnyRechargeView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "14@11": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "88@0": {
+        "module_js_class": "KfGroupBuyView",
+        "module_js_name": "separateAct"
+    },
+    "56@1": {
+        "module_js_class": "FtvActivenessMainView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "84@0": {
+        "module_js_class": "RealLotteryView",
+        "module_js_name": "firstAct"
+    },
+    "84@1": {
+        "module_js_class": "RealLotteryView",
+        "module_js_name": "firstAct"
+    },
+    "7@2": {
+        "module_js_class": "AccumRechargeView",
+        "module_js_name": "activity"
+    },
+    "64@1": {
+        "module_js_class": "ftvAnyRechargeView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "59@2": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "50@4": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "67@4": {
+        "module_js_class": "HolyCallMainView",
+        "module_js_name": "wonderActivity"
+    },
+    "53@4": {
+        "module_js_class": "kfCostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "81@30": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "33@0": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "13@0": {
+        "module_js_class": "EggsMainView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "15@2": {
+        "module_js_class": "LogGiftView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "96@1": {
+        "module_js_class": "FirstBloodMainViewTwo",
+        "module_js_name": "firstBlood"
+    },
+    "50@24": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "67@2": {
+        "module_js_class": "HolyCallMainView",
+        "module_js_name": "wonderActivity"
+    },
+    "67@3": {
+        "module_js_class": "HolyCallMainView",
+        "module_js_name": "wonderActivity"
+    },
+    "14@12": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "60@0": {
+        "module_js_class": "surpriseEggView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "15@0": {
+        "module_js_class": "LogGiftView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "15@1": {
+        "module_js_class": "LogGiftView",
+        "module_js_name": "ftvActivityOne"
+    },
+    "50@2": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "67@11": {
+        "module_js_class": "HolyCallMainViewTwo",
+        "module_js_name": "wonderActivity"
+    },
+    "67@1": {
+        "module_js_class": "HolyCallMainView",
+        "module_js_name": "wonderActivity"
+    },
+    "65@2": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "27@0": {
+        "module_js_class": "GuildFightActView",
+        "module_js_name": "kaifuactivity"
+    },
+    "59@0": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "109@0": {
+        "module_js_class": "ConRechargeView",
+        "module_js_name": "activity"
+    },
+    "109@1": {
+        "module_js_class": "ConRechargeView",
+        "module_js_name": "activity"
+    },
+    "39@0": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "81@21": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "67@0": {
+        "module_js_class": "HolyCallMainView",
+        "module_js_name": "wonderActivity"
+    },
+    "67@10": {
+        "module_js_class": "HolyCallMainViewTwo",
+        "module_js_name": "wonderActivity"
+    },
+    "39@2": {
+        "module_js_class": "FlowerRankView",
+        "module_js_name": "flowerRank"
+    },
+    "50@16": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "59@5": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "81@31": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "53@3": {
+        "module_js_class": "kfCostRankView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@10": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "59@6": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "50@15": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "51@3": {
+        "module_js_class": "FeastBossEnterView",
+        "module_js_name": "boss"
+    },
+    "50@23": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "50@27": {
+        "module_js_class": "MoneyTreeViewTwo",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "51@2": {
+        "module_js_class": "FeastBossEnterView",
+        "module_js_name": "boss"
+    },
+    "59@1": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "59@3": {
+        "module_js_class": "FtvShopView",
+        "module_js_name": "ftvShop"
+    },
+    "87@2": {
+        "module_js_class": "FortuneCatView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "51@1": {
+        "module_js_class": "FeastBossEnterView",
+        "module_js_name": "boss"
+    },
+    "83@2": {
+        "module_js_class": "ActiveTurntableView",
+        "module_js_name": "firstAct"
+    },
+    "79@0": {
+        "module_js_class": "WishPoolMainView",
+        "module_js_name": "separateAct"
+    },
+    "51@0": {
+        "module_js_class": "FeastBossEnterView",
+        "module_js_name": "boss"
+    },
+    "81@20": {
+        "module_js_class": "OnlineDrawView",
+        "module_js_name": "firstAct"
+    },
+    "83@1": {
+        "module_js_class": "ActiveTurntableView",
+        "module_js_name": "firstAct"
+    },
+    "87@0": {
+        "module_js_class": "FortuneCatView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "87@1": {
+        "module_js_class": "FortuneCatView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "14@13": {
+        "module_js_class": "FtvRechargeMainViewTwo",
+        "module_js_name": "activity"
+    },
+    "47@0": {
+        "module_js_class": "YoYoView",
+        "module_js_name": "separateActTwo"
+    },
+    "103@1": {
+        "module_js_class": "GashaponMainView",
+        "module_js_name": "gashapon"
+    },
+    "50@11": {
+        "module_js_class": "MoneyTreeView",
+        "module_js_name": "ftvActivityTwo"
+    },
+    "66@2": {
+        "module_js_class": "UpgradeActivityView",
+        "module_js_name": "wonderActivity"
+    },
+    "113@0": {
+        "module_js_class": "DailyLogInView",
+        "module_js_name": "dailyLogIn"
+    },
+    "112@0": {
+        "module_js_class": "SpecialPackageView",
+        "module_js_name": "specialPackage"
+    },
+    "114@0": {
+        "module_js_class": "AtListPurchaseView",
+        "module_js_name": "atListPurchase"
+    },
+    "116@0": {
+        "module_js_class": "ListDuobaoView",
+        "module_js_name": "ListDuobao"
+    },
+    "118@0": {
+        "module_js_class": "CarnivalMainView",
+        "module_js_name": "carnival"
+    },
+    "121@0": {
+        "module_js_class": "TiredChargePoliteMain",
+        "module_js_name": "tiredChargePolite"
+    },
+    "121@1": {
+        "module_js_class": "TiredChargePoliteMain",
+        "module_js_name": "tiredChargePolite"
+    },
+    "121@2": {
+        "module_js_class": "TiredChargePoliteMain",
+        "module_js_name": "tiredChargePolite"
+    },
+    "121@3": {
+        "module_js_class": "TiredChargePoliteMain",
+        "module_js_name": "tiredChargePolite"
+    },
+	"122@0": {
+        "module_js_class": "CreatRoleGiftView",
+        "module_js_name": "activity"
+    },
+    "124@0": {
+        "module_js_class": "AccumRechargeView",
+        "module_js_name": "activity"
+    },
+    "125@0": {
+        "module_js_class": "AccumRechargeView",
+        "module_js_name": "activity"
+    },
+    "126@0":{
+        "module_js_class": "ActivityOverView",
+        "module_js_name": "activityOverView" 
+    },
+    "126@1":{
+        "module_js_class": "ActivityOverView",
+        "module_js_name": "activityOverView" 
+    },
+    "126@2":{
+        "module_js_class": "ActivityOverView",
+        "module_js_name": "activityOverView" 
+    },
+    "23@2":{
+        "module_js_class": "kfHotPointView",
+        "module_js_name": "kfHotPoint" 
+    },
+    "23@1":{
+        "module_js_class": "kfHotPointView",
+        "module_js_name": "kfHotPoint" 
+    },
+    "127@0":{
+        "module_js_class": "BindJageWishView",
+        "module_js_name": "bindJageWish" 
+    },
+    "127@1":{
+        "module_js_class": "BindJageWishView",
+        "module_js_name": "bindJageWish" 
+    },
+    "127@2":{
+        "module_js_class": "BindJageWishView",
+        "module_js_name": "bindJageWish" 
+    }
+}

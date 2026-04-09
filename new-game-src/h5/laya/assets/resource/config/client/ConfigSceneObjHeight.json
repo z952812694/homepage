@@ -1,0 +1,22 @@
+{
+    "2000112" : 250,
+	"15010040": 145,
+    "10040001": 180,
+    "10070001": 185,
+    "10070006": 180,
+    "10080001": 190,
+    "10070002": 200,
+    "15010017": 170,
+    "CareerHairHeightDefault":35,
+    "DefaultHeight":200,
+    "CareerHairHeight":{
+        "203006":50
+    },
+    "CareerHeadWearHeight":{
+        "10104001":60
+    },
+    "EffectBound":{
+        "effect_model_clothe_15010068":500
+    }
+
+}

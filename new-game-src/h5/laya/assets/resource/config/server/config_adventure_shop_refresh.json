@@ -1,0 +1,1 @@
+{"1":{"low_refresh":1,"high_refresh":3,"cost":"[{1,0,20}]"},"4":{"low_refresh":4,"high_refresh":9,"cost":"[{1,0,35}]"},"10":{"low_refresh":10,"high_refresh":19,"cost":"[{1,0,50}]"},"20":{"low_refresh":20,"high_refresh":999999,"cost":"[{1,0,100}]"}}

@@ -1,0 +1,83 @@
+{
+  "desc": {
+    "name": "view名字",
+    "viweName": "desc",
+    "sort": "值越大优先度越高，越先弹出"
+  },
+  "ItemUseView": {
+    "name": "物品自动使用弹窗",
+    "viweName": "ItemUseView",
+    "sort": 0
+  },
+  "kfStageOpenView": {
+    "name": "开启跨服大弹窗",
+    "viweName": "kfStageOpenView",
+    "sort": 1
+  },
+  "kfStageShowView": {
+    "name": "开启跨服小弹窗",
+    "viweName": "kfStageShowView",
+    "sort": 2
+  },
+  "OutLineView": {
+    "name": "挂机",
+    "viweName": "OutLineView",
+    "sort": 3
+  },
+  "GuardActivateView": {
+    "name": "守护过期弹窗",
+    "viweName": "GuardActivateView",
+    "sort": 4
+  },
+  "MarriageForeShowView": {
+    "name": "玩家风采",
+    "viweName": "MarriageForeShowView",
+    "sort": 5
+  },
+  "GoodsExpiredView": {
+    "name": "物品过期弹窗",
+    "viweName": "GoodsExpiredView",
+    "sort": 6
+  },
+  "FirstRechargeView": {
+    "name": "首充",
+    "viweName": "FirstRechargeView",
+    "sort": 7
+  },
+  "PartnerAwakeShowView": {
+    "name": "超强神巫",
+    "viweName": "PartnerAwakeShowView",
+    "sort": 8
+  },
+  "PushGiftTips": {
+    "name": "特惠礼包",
+    "viweName": "PushGiftTips",
+    "sort": 9
+  },
+  "DailyActTipView": {
+    "name": "功能预告",
+    "viweName": "DailyActTipView",
+    "sort": 10
+  },
+  "ForeshowStarTipsView": {
+    "name": "限时活动",
+    "viweName": "ForeshowStarTipsView",
+    "sort": 11
+  },
+  "SuperGiftView": {
+    "name": "超值礼包",
+    "viweName": "SuperGiftView",
+    "sort": 12,
+    "is_activity":1
+  },
+  "CongratulationObtainView": {
+    "name": "物品获得界面",
+    "viweName": "CongratulationObtainView",
+    "sort": 13
+  },
+  "OnHookMainView": {
+    "name": "挂机收益界面",
+    "viweName": "OnHookMainView",
+    "sort": 14
+  }
+}

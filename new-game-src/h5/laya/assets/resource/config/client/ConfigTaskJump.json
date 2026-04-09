@@ -1,0 +1,92 @@
+{
+    "任务id":{
+        "trigger_type":"1 接任务触发  2完成任务触发",
+        "scene_id":"当前场景",
+        "jump_pos_list":"跳跃点列表 {x : x坐标, y: y坐标, speed:当次跳跃速度, 不填取下行的速度, gravity_speed:当次重力加速度, 不填取下行的速度}",
+        "speed":"跳跃初始速度 , 不填默认600",
+        "gravity_speed": "重力加速度, 不填默认1000,  上升:Vo*t1 - 1/2*g*t1*t1 = 最大高度  下落:1/2*g*t2*t2 = 最大高度   整体移动时间 = t1+t2"
+    },
+    "100030":{
+        "trigger_type":2,
+        "scene_id":10000,
+        "jump_pos_list":[
+            {"x" : 4470, "y": 2841 ,"speed":750,"gravity_speed":1000}
+        ]
+    },
+	
+    "100050":{
+        "trigger_type":2,
+        "scene_id":10000,
+    "jump_pos_list":[
+            {"x" : 5427, "y": 3439, "speed":400, "gravity_speed":1000},
+			{"x" : 6082, "y": 3460, "speed":550, "gravity_speed":1000}
+        ]
+    },		
+	
+    "100080":{
+        "trigger_type":2,
+        "scene_id":10000,
+        "jump_pos_list":[
+			{"x" : 6608, "y": 2570,"speed":750,"gravity_speed":1000}
+        ]	
+    },		
+
+    "100190":{
+        "trigger_type":2,
+        "scene_id":10000,
+        "jump_pos_list":[
+            {"x" : 8861, "y": 702, "speed":875}            
+        ]
+    },		
+
+
+
+
+
+    "100220":{
+        "trigger_type":2,
+        "scene_id":10000,
+        "jump_pos_list":[
+			{"x" : 9200, "y": 1455, "speed":700}
+        ]
+    },		
+	
+
+    "100490":{
+        "trigger_type":2,
+        "scene_id":10000,
+        "jump_pos_list":[
+            {"x" : 8110, "y": 7032, "speed":500},
+			{"x" : 7730, "y": 7323,"speed":700},
+			{"x" : 7388, "y": 7374,"speed":500}
+        ]
+    },		
+	
+
+    "100530":{
+        "trigger_type":2,
+        "scene_id":10000,
+        "jump_pos_list":[
+            {"x" : 5924, "y": 7899, "speed":350},
+			{"x" : 5851, "y": 8097, "speed":350},
+            {"x" : 5491, "y": 8166, "speed":400},				
+			{"x" : 5029, "y": 8489, "speed":400}
+			
+        ]
+    }		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

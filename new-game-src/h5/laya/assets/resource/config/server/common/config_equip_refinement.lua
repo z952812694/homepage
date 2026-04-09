@@ -1,0 +1,23 @@
+Config = Config or {}
+            Config.Equiprefinement  = {
+            ["1@1"] = {refine_lv = 1,refine_pos = 1,promote = 1000,cost_list = [[ [{0,38040092,1}] ]]},
+["1@2"] = {refine_lv = 1,refine_pos = 2,promote = 1000,cost_list = [[ [{0,38040095,1}] ]]},
+["2@1"] = {refine_lv = 2,refine_pos = 1,promote = 2000,cost_list = [[ [{0,38040092,1}] ]]},
+["2@2"] = {refine_lv = 2,refine_pos = 2,promote = 2000,cost_list = [[ [{0,38040095,1}] ]]},
+["3@1"] = {refine_lv = 3,refine_pos = 1,promote = 3000,cost_list = [[ [{0,38040092,1}] ]]},
+["3@2"] = {refine_lv = 3,refine_pos = 2,promote = 3000,cost_list = [[ [{0,38040095,1}] ]]},
+["4@1"] = {refine_lv = 4,refine_pos = 1,promote = 4000,cost_list = [[ [{0,38040092,2}] ]]},
+["4@2"] = {refine_lv = 4,refine_pos = 2,promote = 4000,cost_list = [[ [{0,38040095,2}] ]]},
+["5@1"] = {refine_lv = 5,refine_pos = 1,promote = 5000,cost_list = [[ [{0,38040092,2}] ]]},
+["5@2"] = {refine_lv = 5,refine_pos = 2,promote = 5000,cost_list = [[ [{0,38040095,2}] ]]},
+["6@1"] = {refine_lv = 6,refine_pos = 1,promote = 6000,cost_list = [[ [{0,38040092,2}] ]]},
+["6@2"] = {refine_lv = 6,refine_pos = 2,promote = 6000,cost_list = [[ [{0,38040095,2}] ]]},
+["7@1"] = {refine_lv = 7,refine_pos = 1,promote = 7000,cost_list = [[ [{0,38040092,3}] ]]},
+["7@2"] = {refine_lv = 7,refine_pos = 2,promote = 7000,cost_list = [[ [{0,38040095,3}] ]]},
+["8@1"] = {refine_lv = 8,refine_pos = 1,promote = 8000,cost_list = [[ [{0,38040092,3}] ]]},
+["8@2"] = {refine_lv = 8,refine_pos = 2,promote = 8000,cost_list = [[ [{0,38040095,3}] ]]},
+["9@1"] = {refine_lv = 9,refine_pos = 1,promote = 9000,cost_list = [[ [{0,38040092,3}] ]]},
+["9@2"] = {refine_lv = 9,refine_pos = 2,promote = 9000,cost_list = [[ [{0,38040095,3}] ]]},
+["10@1"] = {refine_lv = 10,refine_pos = 1,promote = 10000,cost_list = [[ [{0,38040092,4}] ]]},
+["10@2"] = {refine_lv = 10,refine_pos = 2,promote = 10000,cost_list = [[ [{0,38040095,4}] ]]},
+}

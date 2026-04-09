@@ -1,0 +1,1 @@
+{"1":{"privilege_id":1,"privilege_name":"禁言","un_privilege_name":"解禁","privilege_desc":"禁止本海域成员在海域频道发言","un_privilege_desc":"解除本海域玩家禁言状态","need_job":"[1]","duration":3600,"day_times":2},"2":{"privilege_id":2,"privilege_name":"封锁边境","un_privilege_name":"解除封锁","privilege_desc":"封锁本海域领地，阻止其他海域成员进入","un_privilege_desc":"解除本海域领地封锁状态","need_job":"[1,2]","duration":3600,"day_times":2}}

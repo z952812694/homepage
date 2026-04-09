@@ -1,0 +1,54 @@
+{
+    "open_lv": 1,
+    "close_lv": 300,
+    "follow": [
+        {
+            "follow_name": "Facebook",
+            "icon_name": "icon_g",
+            "desc": "Like our Official <font color=0xccff00>游戏名</font> Facebook: <font color=0xccff00>@Eyou_专页名</font> for the Various Offline Event & Latest News!",
+            "reward_list": [
+                [2,0,300],
+                [100,32010120,5],
+			    [100,37020001,2],
+			    [100,32010002,2],
+			    [100,32010095,1]
+            ]
+        },
+        {
+            "follow_name": "Eyougame",
+            "icon_name": "icon_e",
+            "desc": "Like our <font color=0xccff00>Eyougame</font> Page, and you be getting an Eyougame Giftpack! (Send a screenshot of it to our Facebook inbox to redeem an Eyougame Giftpack)",
+            "reward_list": [
+                [2,0,300],
+                [100,32010120,5],
+			    [100,37020001,2],
+			    [100,32010002,2],
+			    [100,32010095,1]
+            ]
+        },
+        {
+            "follow_name": "Instagram",
+            "icon_name": "icon_i",
+            "desc": "Follow Official Instagram account: <font color=0xccff00>eyougame_official</font> to get Follower Giftpack (Send a screenshot of your subscription to our customer service to get the giftpack)",
+            "reward_list": [
+                [2,0,300],
+                [100,32010120,5],
+			    [100,37020001,2],
+			    [100,32010002,2],
+			    [100,32010095,1]
+            ]
+        },
+        {
+            "follow_name": "YouTube",
+            "icon_name": "icon_y",
+            "desc": "Follow Official YouTube channel: <font color=0xccff00>Eyougame</font> to get Subscriber Giftpack (Send a screenshot of your subscription to our customer service to get the giftpack)",
+            "reward_list": [
+                [2,0,300],
+                [100,32010120,5],
+			    [100,37020001,2],
+			    [100,32010002,2],
+			    [100,32010095,1]
+            ]
+        }
+    ]
+}

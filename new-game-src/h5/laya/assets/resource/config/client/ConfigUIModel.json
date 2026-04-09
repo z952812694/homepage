@@ -1,0 +1,93 @@
+{
+    "-1": {
+        "id": 0,
+        "intro": "容错",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "0": {
+        "id": 0,
+        "intro": "人物",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "1": {
+        "id": 1,
+        "intro": "飞骑",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "2": {
+        "id": 2,
+        "intro": "坐骑",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "3": {
+        "id": 3,
+        "intro": "翅膀",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "4": {
+        "id": 4,
+        "intro": "武器",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "5": {
+        "id": 5,
+        "intro": "神器",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "6": {
+        "id": 6,
+        "intro": "圣器",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "7": {
+        "id": 7,
+        "intro": "精灵",
+        "idle": true,
+        "run": true,
+        "idle2": true
+    },
+    "8": {
+        "id": 8,
+        "intro": "伙伴",
+        "idle": true,
+        "run": true,
+        "idle2": false
+    },
+    "9": {
+        "id": 9,
+        "intro": "宝宝",
+        "idle": true,
+        "run": true,
+        "idle2": false
+    },
+    "10": {
+        "id": 10,
+        "intro": "降神",
+        "idle": true,
+        "run": true,
+        "idle2": false
+    },
+    "11": {
+        "id": 11,
+        "intro": "妖灵",
+        "idle": true,
+        "run": true,
+        "idle2": false
+    }
+}

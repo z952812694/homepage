@@ -1,0 +1,13 @@
+Config = Config or {}
+            Config.Equipstoneinlay  = {
+            [1] = {equip_pos = 1,stone_type = [[ [1,99] ]]},
+[2] = {equip_pos = 2,stone_type = [[ [2,99] ]]},
+[3] = {equip_pos = 3,stone_type = [[ [1,99] ]]},
+[4] = {equip_pos = 4,stone_type = [[ [2,99] ]]},
+[5] = {equip_pos = 5,stone_type = [[ [1,99] ]]},
+[6] = {equip_pos = 6,stone_type = [[ [2,99] ]]},
+[7] = {equip_pos = 7,stone_type = [[ [1,99] ]]},
+[8] = {equip_pos = 8,stone_type = [[ [2,99] ]]},
+[9] = {equip_pos = 9,stone_type = [[ [1,99] ]]},
+[10] = {equip_pos = 10,stone_type = [[ [2,99] ]]},
+}

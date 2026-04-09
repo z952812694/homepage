@@ -1,0 +1,9 @@
+=================================================
+FastCopy(ver3.61) start at 2019/03/04 17:20:31
+
+<Source>  .\bin-release\web\1.0.0
+<DestDir> ..\cdn
+<Command> Diff (Size/Date)
+-------------------------------------------------
+Initialize Error
+

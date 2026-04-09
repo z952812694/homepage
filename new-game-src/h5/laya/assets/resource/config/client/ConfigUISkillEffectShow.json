@@ -1,0 +1,32 @@
+{
+		"模块":{
+			"技能ID":"特效名称"
+		},
+		"partner":{
+			"5201001":"ui_effect_zhandou_01",
+			"5202001":"ui_effect_zhandou_02",
+			"5203001":"ui_effect_zhandou_03",
+			"5204001":"ui_effect_zhandou_04",
+			"5205001":"ui_effect_zhandou_05",
+			"5206001":"ui_effect_zhandou_06",
+			"5207001":"ui_effect_zhandou_07",
+			"5208001":"ui_effect_zhandou_08",
+			"5209001":"ui_effect_zhandou_09",
+			"5210001":"ui_effect_zhandou_10",
+			"5211001":"ui_effect_zhandou_11",
+			"5212001":"ui_effect_zhandou_12"
+		},
+		"god":{
+			"3001":"ui_effect_zhandou_13",
+			"3002":"ui_effect_zhandou_14",
+			"3003":"ui_effect_zhandou_15",
+			"4001":"ui_effect_zhandou_16",
+			"4002":"ui_effect_zhandou_17",
+			"4003":"ui_effect_zhandou_18",
+			"4004":"ui_effect_zhandou_19",
+			"5001":"ui_effect_zhandou_20",
+			"5002":"ui_effect_zhandou_21",
+			"5003":"ui_effect_zhandou_22"
+		}
+	   
+}

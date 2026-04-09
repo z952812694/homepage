@@ -1,0 +1,21 @@
+Config = Config or {}
+            Config.Equipstonelv  = {
+            [14010001] = {goods_id = 14010001,lv = 1,rating = 860,attr = [[ [{1,120},{3,20}] ]],pre_lv_stone = 0,next_lv_stone = 14010002,need_num = 3},
+[14010002] = {goods_id = 14010002,lv = 2,rating = 1740,attr = [[ [{1,250},{3,40}] ]],pre_lv_stone = 14010001,next_lv_stone = 14010003,need_num = 3},
+[14010003] = {goods_id = 14010003,lv = 3,rating = 3200,attr = [[ [{1,500},{3,80}] ]],pre_lv_stone = 14010002,next_lv_stone = 14010004,need_num = 3},
+[14010004] = {goods_id = 14010004,lv = 4,rating = 5740,attr = [[ [{1,1000},{3,160}] ]],pre_lv_stone = 14010003,next_lv_stone = 14010005,need_num = 3},
+[14010005] = {goods_id = 14010005,lv = 5,rating = 10020,attr = [[ [{1,2000},{3,320}] ]],pre_lv_stone = 14010004,next_lv_stone = 14010006,need_num = 3},
+[14010006] = {goods_id = 14010006,lv = 6,rating = 17280,attr = [[ [{1,3000},{3,640}] ]],pre_lv_stone = 14010005,next_lv_stone = 14010007,need_num = 3},
+[14010007] = {goods_id = 14010007,lv = 7,rating = 29640,attr = [[ [{1,4500},{3,1280}] ]],pre_lv_stone = 14010006,next_lv_stone = 14010008,need_num = 3},
+[14010008] = {goods_id = 14010008,lv = 8,rating = 50660,attr = [[ [{1,6750},{3,2560}] ]],pre_lv_stone = 14010007,next_lv_stone = 14010009,need_num = 3},
+[14010009] = {goods_id = 14010009,lv = 9,rating = 86400,attr = [[ [{1,10125},{3,5120}] ]],pre_lv_stone = 14010008,next_lv_stone = 0,need_num = 3},
+[14020001] = {goods_id = 14020001,lv = 1,rating = 860,attr = [[ [{2,2400},{4,20}] ]],pre_lv_stone = 0,next_lv_stone = 14020002,need_num = 3},
+[14020002] = {goods_id = 14020002,lv = 2,rating = 1740,attr = [[ [{2,5000},{4,40}] ]],pre_lv_stone = 14020001,next_lv_stone = 14020003,need_num = 3},
+[14020003] = {goods_id = 14020003,lv = 3,rating = 3200,attr = [[ [{2,10000},{4,80}] ]],pre_lv_stone = 14020002,next_lv_stone = 14020004,need_num = 3},
+[14020004] = {goods_id = 14020004,lv = 4,rating = 5740,attr = [[ [{2,20000},{4,160}] ]],pre_lv_stone = 14020003,next_lv_stone = 14020005,need_num = 3},
+[14020005] = {goods_id = 14020005,lv = 5,rating = 10020,attr = [[ [{2,40000},{4,320}] ]],pre_lv_stone = 14020004,next_lv_stone = 14020006,need_num = 3},
+[14020006] = {goods_id = 14020006,lv = 6,rating = 17280,attr = [[ [{2,60000},{4,640}] ]],pre_lv_stone = 14020005,next_lv_stone = 14020007,need_num = 3},
+[14020007] = {goods_id = 14020007,lv = 7,rating = 29640,attr = [[ [{2,90000},{4,1280}] ]],pre_lv_stone = 14020006,next_lv_stone = 14020008,need_num = 3},
+[14020008] = {goods_id = 14020008,lv = 8,rating = 50660,attr = [[ [{2,135000},{4,2560}] ]],pre_lv_stone = 14020007,next_lv_stone = 14020009,need_num = 3},
+[14020009] = {goods_id = 14020009,lv = 9,rating = 86400,attr = [[ [{2,202500},{4,5120}] ]],pre_lv_stone = 14020008,next_lv_stone = 0,need_num = 3},
+}

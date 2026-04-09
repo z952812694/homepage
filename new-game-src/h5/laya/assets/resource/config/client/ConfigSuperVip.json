@@ -1,0 +1,1215 @@
+{
+    "open_lv": 80,
+    "平台标识": {
+        "head": "头 像 路 径",
+        "tips": "提示文本",
+        "contact": "联系方式",
+        "desc": [
+            "描述1",
+            "描述2",
+            "描述3"
+        ],
+        "recharge": "大于勾玉数量显示",
+        "reward": "展示奖励配置"
+    },
+    "yy_sh921_lj_ios_P0006838": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007543930",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理 </font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_qq_ios_P0006365": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_jygm_P0007716": {
+        "head": "uicjVIP_0107.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3004084083",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务,游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+        "yy_sh921_qqxy_ios_P0008532": {
+        "head": "uicjVIP_0107.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:800197000",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务,游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+        "yy_sh921_qqxy_P0008531": {
+        "head": "uicjVIP_0107.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:800197000",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务,游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_jygm_ios_P0007715": {
+        "head": "uicjVIP_0107.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3004084083",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务,游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_qq_PM001461": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+     "yy_sh921_lj_qq_ios_PM001470": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_qq_P0006366": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_qq_P0007292": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+        "yy_sh921_lj_qq_ios_P0007291": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+        "yy_sh921_lj_momeng_PM001472": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:528128683",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>完善您的资料即可获得认证大礼包",
+            "<font color=#639c12>3.生日福利：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>玩家生日当天，联系客服可领取生日大礼包"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                14010005,
+                1
+            ],
+            [
+                0,
+                12010004,
+                1
+            ],
+            [
+                0,
+                35,
+                288
+            ],
+            [
+                0,
+                16020002,
+                5
+            ],
+            [
+                0,
+                17020002,
+                5
+            ]
+        ]
+    },
+	    "yy_sh921_lj_lyxf_PM001758": {
+        "head": "uicjVIP_0105.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:800183994",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包壕礼不停送",
+            "<font color=#639c12>3.节日礼物：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战64W+，加Q即送",
+            "<font color=#639c12>5.处理游戏问题：</font>人性化引导协助，优先知晓优先一手资料"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                0,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+	    "yy_sh921_native_beiming_PM002084": {
+        "head": "uicjVIP_0105.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007928266",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包壕礼不停送",
+            "<font color=#639c12>3.节日礼物：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战64W+，加Q即送",
+            "<font color=#639c12>5.处理游戏问题：</font>人性化引导协助，优先知晓优先一手资料"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                0,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+	    "yy_sh921_lj_bmlyhw_PM002075": {
+        "head": "uicjVIP_0105.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007928266",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包壕礼不停送",
+            "<font color=#639c12>3.节日礼物：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战64W+，加Q即送",
+            "<font color=#639c12>5.处理游戏问题：</font>人性化引导协助，优先知晓优先一手资料"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                0,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+	    "yy_sh921_native_beiming_PM002071": {
+        "head": "uicjVIP_0105.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007928266",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包壕礼不停送",
+            "<font color=#639c12>3.节日礼物：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战64W+，加Q即送",
+            "<font color=#639c12>5.处理游戏问题：</font>人性化引导协助，优先知晓优先一手资料"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                0,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+	    "yy_sh921_lj_bmly_PM001988": {
+        "head": "uicjVIP_0105.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007928266",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包壕礼不停送",
+            "<font color=#639c12>3.节日礼物：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战64W+，加Q即送",
+            "<font color=#639c12>5.处理游戏问题：</font>人性化引导协助，优先知晓优先一手资料"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                0,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+        "yy_sh921_lj_bm_PM001815": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007928266",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，优先解答您的疑问",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包壕礼不停送",
+            "<font color=#639c12>3.节日礼物：</font>国庆、中秋等盛大节日当天可领取节日大礼包",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战64W+，加Q即送",
+            "<font color=#639c12>5.处理游戏问题：</font>人性化引导协助，优先知晓优先一手资料"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                0,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_PM000429": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007543930",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+     "yy_sh921_lj_youshang_PM001587": {
+        "head": "uicjVIP_0104.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:2707194265",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+     "yy_sh921_native_youshang_PM001587": {
+        "head": "uicjVIP_0104.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:2707194265",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_57_PM001257": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007597191",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_P0004130": {
+         "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007543930",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_ios_P0008630": {
+         "head": "uicjVIP_0100.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:1658440676",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_ios_P0004143": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007543930",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_PM000876": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007543930",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服贴心服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_juzi_PM001393": {
+        "head": "uicjVIP_0101.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007427576",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_xunlei_PM001432": {
+        "head": "uicjVIP_0102.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:1950807282",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_ios_P0005854": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007545208",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_P0005855": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007545208",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_myczj_P0006222": {
+        "head": "uicjVIP_0100.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:1658440676",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_wx_myczj_ios_P0006223": {
+        "head": "uicjVIP_0100.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:1658440676",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_51_PM001489": {
+        "head": "uicjVIP_0103.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:800002075",
+        "desc": [
+            "1.游戏问题<font color=#f80a0a>优先处理</font>",
+            "2.免费领取<font color=#f80a0a>专属大礼包</font>",
+            "3.活动咨询<font color=#f80a0a>优先知晓</font>"
+        ],
+        "recharge": 5000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_myczj_PM001200": {
+        "head": "uicjVIP_0100.jpg",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:1658440676",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    },
+    "yy_sh921_lj_PM001069": {
+        "head": "uicjVIP_099.png",
+        "tips": "<font color=#639c12>凭兑换码在福利-兑换礼包处领取奖励</font>",
+        "contact": "QQ:3007545208",
+        "desc": [
+            "<font color=#639c12>1.专属通道：</font>美女客服一对一服务，游戏问题<font color=#f80a0a>优先处理</font>",
+            "<font color=#639c12>2.专属礼包：</font>充值奖励礼包<font color=#f80a0a>壕礼不停送</font>",
+            "<font color=#639c12>3.生日福利：</font>生日当天发送专属<font color=#f80a0a>寿星大礼包</font>",
+            "<font color=#639c12>4.认证礼包：</font>极品羽翼满级加战<font color=#cb8807>64W+</font>，<font color=#f80a0a>加Q即送</font>"
+        ],
+        "recharge": 10000,
+        "reward": [
+            [
+                100,
+                18030002,
+                1
+            ],
+            [
+                0,
+                18010002,
+                2
+            ],
+            [
+                0,
+                20010002,
+                2
+            ],
+            [
+                0,
+                16010002,
+                2
+            ]
+        ]
+    }
+}

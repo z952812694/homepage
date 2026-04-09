@@ -1,0 +1,25 @@
+{
+    "ShowSkill": [
+        100401,
+        200401,
+        101401,
+        201401
+    ],
+    "AwakenTask": {
+        "101040": {
+            "model": "artifact"
+        },
+        "100180": {
+            "model": "partner"
+        },
+        "100660": {
+            "model": "wing"
+        },
+        "100320": {
+            "model": "horse"
+        },
+        "101340": {
+            "model": "weapon"
+        }
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "default_gubao": {
+        "desc": "古宝——激活",
+        "change_position": {
+            "y": -5,
+            "x": 0.6
+        },
+        "change_scale": 0.1,
+        "change_rotate": 0
+    },
+    "1": {
+        "change_position": {
+            "y": 1,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "2": {
+        "change_position": {
+            "y": 2.5,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "3": {
+        "change_position": {
+            "y": 0.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "4": {
+        "change_position": {
+            "y": 1,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "5": {
+        "change_position": {
+            "y": 0.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "6": {
+        "change_position": {
+            "y": 0.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "7": {
+        "change_position": {
+            "y": 1.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "8": {
+        "change_position": {
+            "y": 1.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "9": {
+        "change_position": {
+            "y": 1,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "10": {
+        "change_position": {
+            "y": 1.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "11": {
+        "change_position": {
+            "y": 1.75,
+            "x": 0
+        },
+        "change_scale": 0.2,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "12": {
+        "change_position": {
+            "y": 1.5,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "13": {
+        "change_position": {
+            "y": 1.5,
+            "x": -0.5
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "14": {
+        "change_position": {
+            "y": 1.25,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "15": {
+        "change_position": {
+            "y": 1.25,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "16": {
+        "change_position": {
+            "y": 1.5,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "17": {
+        "change_position": {
+            "y": 1.25,
+            "x": 0.25
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "18": {
+        "change_position": {
+            "y": 1,
+            "x": -0.25
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "19": {
+        "change_position": {
+            "y": 1.75,
+            "x": 0
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    },
+    "20": {
+        "change_position": {
+            "y": 1,
+            "x": -0.5
+        },
+        "change_scale": 0.3,
+        "change_rotate": 0,
+        "action_list": [
+            "idle"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{   
+    "1": {
+        "category_name": "核心技能：<font color=#ffe400>神之恩赐</font>",
+        "skill_icon": "480111",
+        "desc": "受到天神的祝福眷顾，使玩家每次攻击时都有概率<font color=#639c12>附加神力</font>在自己身上，<font color=#639c12>增加攻击提高爆发</font>"
+    },
+    "2": {
+        "category_name": "核心技能：<font color=#ffe400>鲜血护盾</font>",
+        "skill_icon": "480121",
+        "desc": "受到古老的黑魔法影响，攻击时都有概率使对手陷入<font color=#639c12>流血致残</font>状态，对其造成<font color=#639c12>持续伤害</font>"
+    }
+}

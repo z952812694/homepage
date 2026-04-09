@@ -1,0 +1,120 @@
+{
+    "DailyFirstMainView":{
+    "1":[
+			{
+				"open_day" :[1,1],
+				"show_tag" : "ui_First_013",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_01",
+				"tomorrow_tex" : "明日可获<font color='#3cad66'>2星星核</font><br><font color='#ef4848'>pvp伤害+10%</font>"
+			},
+			{
+				"open_day" :[2,2],
+				"show_tag" : "ui_First_013",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_01",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>2星星核</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;&nbsp;pvp伤害+10%</font>"
+			},
+			{
+				"open_day" :[3,3],
+				"show_tag" : "ui_First_014",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_02",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>3星星核</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;会心伤害+10%</font>"
+			},
+			{
+				"open_day" :[4,4],
+				"show_tag" : "ui_First_015",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_03",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>4星星核</font><br><font color='#ef4848'>&nbsp;&nbsp;可降低10%伤害</font>"
+			},
+			{
+				"open_day" :[5,5],
+				"show_tag" : "ui_First_016",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_04",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>5星星核</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;暴击伤害+10%</font>"
+			},
+			{
+				"open_day" :[6,6],
+				"show_tag" : "ui_First_017",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_05",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>6星星核</font><br><font color='#ef4848'>&nbsp;8%解除负面状态</font>"
+			},
+			{
+				"open_day" :[7,7],
+				"show_tag" : "ui_First_018",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_dragon_ball_06",
+				"tomorrow_tex" : "明日可获<font color='#3cad66'>随机星核</font><br><font color='#ef4848'>轻松激活极品属性</font>"
+			},
+			{
+				"open_day" :[8,999],
+				"show_tag" : "ui_First_020",
+				"show_tag2" : "ui_First_011_2",
+				"show_img" : "ui_dragon_balls",
+				"tomorrow_tex" : "&nbsp;&nbsp;&nbsp;&nbsp;<font color='#3cad66'>集齐七颗星核</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;战力飙升</font>"
+			}
+        ],
+    "2":[
+			{
+				"open_day" :[1,1],
+				"show_tag" : "ui_Second_013",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_01",
+				"tomorrow_tex" : "明日可获<font color='#3cad66'>高级药剂</font><br><font color='#ef4848'>战力提升快人一步</font>"
+			},
+			{
+				"open_day" :[2,2],
+				"show_tag" : "ui_Second_013",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_01",
+				"tomorrow_tex" : "&nbsp;&nbsp;明日可获<font color='#3cad66'>资源礼包</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;&nbsp;冲榜升战两不误</font>"
+			},
+			{
+				"open_day" :[3,3],
+				"show_tag" : "ui_Second_014",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_02",
+				"tomorrow_tex" : "&nbsp;&nbsp;明日可获<font color='#3cad66'>专属门票</font><br><font color='#ef4848'>&nbsp;&nbsp;免费享受专属大妖</font>"
+			},
+			{
+				"open_day" :[4,4],
+				"show_tag" : "ui_Second_015",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_03",
+				"tomorrow_tex" : "&nbsp;&nbsp;明日可获<font color='#3cad66'>神纹符印</font><br><font color='#ef4848'>&nbsp;&nbsp;最高可得红色神纹</font>"
+			},
+			{
+				"open_day" :[5,5],
+				"show_tag" : "ui_Second_016",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_04",
+				"tomorrow_tex" : "&nbsp;&nbsp;明日可获<font color='#3cad66'>背饰魔晶</font><br><font color='#ef4848'>&nbsp;&nbsp;背饰战力轻松提升</font>"
+			},
+			{
+				"open_day" :[6,6],
+				"show_tag" : "ui_Second_017",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_05",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>宝石礼包</font><br><font color='#ef4848'>&nbsp;快速提升宝石星数</font>"
+			},
+			{
+				"open_day" :[7,7],
+				"show_tag" : "ui_Second_018",
+				"show_tag2" : "ui_First_011",
+				"show_img" : "ui_new_06",
+				"tomorrow_tex" : "&nbsp;明日可获<font color='#3cad66'>时尚礼包</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;&nbsp;解锁极品外观</font>"
+			},
+			{
+				"open_day" :[8,999],
+				"show_tag" : "ui_Second_019",
+				"show_tag2" : "ui_First_011_2",
+				"show_img" : "ui_new_07",
+				"tomorrow_tex" : "&nbsp;&nbsp;<font color='#3cad66'>更多极品外观</font><br><font color='#ef4848'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;等你解锁</font>"
+			}
+        ]
+    }
+}
