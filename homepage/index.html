@@ -1,0 +1,597 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>九州谕</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="full-screen" content="true" />
+    <meta name="screen-orientation" content="auto" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="360-fullscreen" content="true" />
+    <meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache">
+    <meta HTTP-EQUIV="Expires" CONTENT="0">
+    <style>
+        html, body {
+            touch-action: none;
+            height: 100%;
+            padding: 0;
+            border: 0;
+            margin: 0px;
+        }
+
+    </style>
+</head>
+<body style="overflow-x:hidden;overflow-y:hidden;" onselectstart="return false;" unselectable="on">
+<div id="egret-main-player" , style="margin: auto;width: 100%;height: 100%;" class="egret-player" data-entry-class="Main" data-orientation="auto" data-scale-mode="fixedWidth" data-frame-rate="60"
+data-content-width="720" data-content-height="1280" data-show-paint-rect="true" data-multi-fingered="2" data-show-fps="false"
+data-show-log="false" data-show-fps-style="x:0,y:200,size:12,textColor:0xffffff,bgAlpha:0.5">
+</div>
+<div id="full_screen_bg_div" class="full_screen_bg_div" style="position:absolute;top:0px;left:0px;z-index:-1;">
+<img id="full_screen_bg" style="position:absolute;top:0px;left:0px;z-index:-1;"/>
+</div>
+<div id="loadingDiv" class="loadingDiv" style="position:absolute;top:0px;left:0px;">
+<font id="text_obj" style="color:#ffffff;font-size:20px;width:100%;text-align:center;font-family:SimHei,Arial;bottom:15.5%;position:absolute;"></font>
+<font id="text_obj2" style="color:#ffffff;font-size:20px;width:100%;text-align:center;font-family:SimHei,Arial;bottom:9.5%;position:absolute;"></font>
+<img id="bg" width="100%" height="100%" />
+<img src="resource/game/login/other/first_loading_bg.png?v=1" width="80%" height="1.484375%" style="left:10%;bottom:17.71875%;position:absolute;" />
+<img src="resource/game/login/other/first_loading_bg.png?v=1" width="80%" height="1.484375%" style="left:10%;bottom:11.71875%;position:absolute;" />
+<img id="progImg" class="progImg" src="resource/game/login/other/first_loading_img.png?v=1" width="0%" height="1.171875%"
+    style="left:10.2%;bottom:17.875%;position:absolute" />
+<img id="progImg2" class="progImg2" src="resource/game/login/other/first_loading_img.png?v=1" width="0%" height="1.171875%"
+    style="left:10.2%;bottom:11.875%;position:absolute" />
+</div>
+<div id="version_text" class="version_text" style="position:absolute;top:0px;left:0px;">
+<font id="version_text" style="color:#000000;font-size:16px;width:100%;font-family:SimHei,Arial;position:absolute;top:0%;left:0%;"></font>
+</div>
+ <!-- // <script src="https://cdn.bootcss.com/vConsole/3.2.0/vconsole.min.js"></script><script>var vConsole = new VConsole()</script>  -->
+<script>
+    "use strict";
+
+    var getOption = function (key) {
+        if (window.location) {
+            var search = location.search;
+            if (search == "") {
+                return "";
+            }
+            search = search.slice(1);
+            var searchArr = search.split("&");
+            var length_1 = searchArr.length;
+            for (var i = 0; i < length_1; i++) {
+                var str = searchArr[i];
+                var arr = str.split("=");
+                if (arr[0] == key) {
+                    return arr[1];
+                }
+            }
+        }
+        return "";
+    }
+    var ua = navigator.userAgent.toLowerCase();
+    var is_mobile = (ua.indexOf('mobile') != -1 || ua.indexOf('android') != -1 || ua.indexOf("iphone") != -1)//(ua.indexOf("iphone") == -1 && (ua.indexOf('mobile') != -1 || ua.indexOf('android') != -1)); //iphone手机适配特殊处理
+    
+    window["print_load_res_url"] = getOption("print_load_res_url")
+    var plat_name = getOption("gsource")
+    var login_bg = getOption("login_bg")
+    var show_log = getOption("log")
+    //IE浏览器下，对console的输出方法有兼容问题
+    // if (!!window.ActiveXObject || "ActiveXObject" in window){
+    if (plat_name && !show_log) {
+        console.log = function (message) {
+
+        }
+        console.warn = function (message) {
+
+        }
+        // console.error = function (message) {
+
+        // }
+    }else if(show_log && is_mobile){
+        var script = document.createElement("script");
+        script.async = false;
+        script.src = "https://cdn.bootcss.com/vConsole/3.2.0/vconsole.min.js";
+        script.addEventListener('load', function () {
+            var vConsole = new VConsole()
+        }, false);
+        document.body.appendChild(script);
+    }
+    var cache_url = window.location.href.toString()
+    let list = cache_url.split("?")
+    if (list && list[0]) {
+        cache_url = list[0]
+        list = cache_url.split("/")
+        list.pop()
+        cache_url = list.join("/")
+    } else {
+        cache_url = ""
+    }
+    console.warn('-----------------addEventListener load1', cache_url, window.location.href.toString());
+    if(plat_name)
+    {
+        window.addEventListener("load", function () {
+            console.warn('-----------------addEventListener load2', navigator.serviceWorker, navigator);
+            if (navigator.serviceWorker) {
+                navigator.serviceWorker.register(cache_url + '/service-worker.js').then(function (registration) {
+                    console.warn('Registration successful, scope is:', registration.scope);
+                }).catch(function (error) {
+                    console.warn('Service Worker registration failed, error:', error);
+                });
+            }
+        })
+    }
+    window.process = { env: { NODE_ENV: 'production' } };
+    document.body.addEventListener("focus", function () {
+        window.scrollTo(0, 0);
+    }, true);
+    document.body.addEventListener("blur", function () {
+        window.scrollTo(0, 0);
+    }, true);
+    var loadScript = function (cdn_path, list, callback) {
+        var loaded = 0;
+        var loadNext = function () {
+            loadSingleScript(cdn_path, list[loaded], function () {
+                loaded++;
+                if (loaded >= list.length) {
+                    callback();
+                }
+                else {
+                    loadNext();
+                }
+            })
+        };
+        loadNext();
+    };
+
+    var loadSingleScript = function (cdn_path, src, callback) {
+        var s = document.createElement('script');
+        s.async = false;
+        s.src = cdn_path + src;
+        if (src.indexOf("main.js") != -1 || src.indexOf("pro-library.js") != -1) s.src = s.src + "?v="+Math.random();
+        console.log("cdn_path + src = ", cdn_path + src);
+        s.addEventListener('load', function f() {
+            s.parentNode.removeChild(s);
+            s.removeEventListener('load', f, false);
+            callback();
+        }, false);
+        document.body.appendChild(s);
+    };
+    var has_set
+    if(window.localStorage)
+    {
+        has_set = window.localStorage.getItem("SET_TYPE1_STEP1_BURYING_POINT_COMPLETE")
+    }
+    if (plat_name && !has_set) {
+        if(window.localStorage)
+        {
+            window.localStorage.setItem("SET_TYPE1_STEP1_BURYING_POINT_COMPLETE", "1")
+        }
+        var xhr = new XMLHttpRequest();
+        var param = 'data=' + JSON.stringify({ "source": plat_name, "step": 1, "type": 1 })
+        var url = 'https://websqs.suyougame.cn/yys/put?auth=Ks9maj2hXa&' + param
+        xhr.open('POST', url, true);
+        xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=UTF-8");
+        xhr.addEventListener("load", function (data) {
+            console.log("load pose url=", url, data)
+        });
+        xhr.addEventListener("complete", function (data) {
+            console.log("complete pose url=", url, data)
+        });
+        xhr.send(null);
+    }
+
+    var text_obj = document.getElementById("text_obj");
+    var text_obj2 = document.getElementById("text_obj2");
+    var version_text = document.getElementById("version_text");
+    if (ua.indexOf("windows nt") != -1) {
+        text_obj.style.fontFamily = "Arial"
+        text_obj2.style.fontFamily = "Arial"
+        version_text.style.fontFamily = "Arial"
+    }
+    
+    if(navigator.platform == "MacIntel" && navigator.maxTouchPoints > 1){//ios 13 Request Desktop Website
+        window["Capabilities_os"] = "iOS";
+        is_mobile = true
+    }
+    if(ua.indexOf("iphone") != -1)
+    {
+        window["Capabilities_os"] = "iOS";
+    }
+    window["is_mobile"] = is_mobile;
+    var update_div = function (x_off) {
+        if (div) {
+            // console.log(document.body)
+            // console.log(div.getBoundingClientRect())
+            //跟unity canvas的extemd适配模式一样 取改变最大的一方作为缩放因子
+            var clientWidth = document.body.clientWidth//window.screen.width
+            var clientHeight = document.body.clientHeight//window.screen.height
+            if (!is_mobile) {
+                var full_screen_bg = document.getElementById("full_screen_bg");
+                if (full_screen_bg) {
+                    full_screen_bg.src = "resource/game/login/other/full_screen_bg1.jpg?v=3"
+                    var onScreenresize = function () {
+                        clientWidth = document.body.clientWidth
+                        clientHeight = document.body.clientHeight
+                        var bg_scaleX = 1280 / clientWidth;
+                        var bg_scaleY = 720 / clientHeight;
+                        var bg_max_scale = Math.min(bg_scaleX, bg_scaleY)
+                        var bg_width = 1280 / bg_max_scale
+                        var bg_height = 720 / bg_max_scale
+                        full_screen_bg.style.width = bg_width + 'px';
+                        full_screen_bg.style.height = bg_height + 'px';
+                        if (bg_max_scale == bg_scaleX) {
+                            var bg_h_scale = bg_height / clientHeight
+                            full_screen_bg.style.top = (1 - bg_h_scale) * 0.5 * 100 + "%"
+                        } else {
+                            var bg_w_scale = bg_width / clientWidth
+                            full_screen_bg.style.left = (1 - bg_w_scale) * 0.5 * 100 + "%"
+                        }
+                    }
+                    // console.log("full_screen_bg.style.top",full_screen_bg.style.top, full_screen_bg.style.left);
+                    window.onresize = function () {
+                        console.log("onresize")
+                        onScreenresize();
+                    }
+                    onScreenresize();
+                }
+            } else {
+                document.body.style.backgroundColor = "#000000";
+            }
+            // _last_client_width = clientWidth
+            // _last_client_height = clientHeight
+            console.log(clientWidth, clientHeight, document.body.style.backgroundColor)
+            var realy_width = 720
+            var realy_height = 1280
+            var bg = document.getElementById("bg");
+                       let func = Math.min
+            // if (true) {
+                realy_width = 870
+                realy_height = 1560
+                // scaleX =  realy_width / clientWidth;
+                if (!bg.src) {
+                    if(login_bg)
+                    {
+                        bg.src = "platform/res/login/"+ login_bg+".jpg"
+                    }else
+                    {
+                        bg.src = "resource/game/scene/dragonBones/denglu/denglu_bg.jpg?v=7"
+                    }
+                }
+            var scaleX = realy_width / clientWidth;
+            var scaleY = realy_height / clientHeight;
+            var max_scale = scaleY;//func(scaleX, scaleY)
+            if(is_mobile)
+            {
+                max_scale = func(scaleX, scaleY)
+            }
+            var width = realy_width / max_scale * 1.218
+            var height = realy_height / max_scale * 1.218
+            div.style.width = width + 'px';
+            div.style.height = height + 'px';
+            bg.style.height = height + 'px';
+            if (max_scale == scaleX) {
+                var h_scale = height / clientHeight
+                div.style.top = (1 - h_scale) * 0.5 * 100 + "%"
+                if (realy_width == 870) {
+                    var w_scale = width / clientWidth
+                    w_scale = (1 - w_scale) * 0.5 * 100
+                    div.style.left = w_scale + "%"
+                }
+            } else {
+                var w_scale = width / clientWidth
+                w_scale = (1 - w_scale) * 0.5 * 100
+                div.style.left = w_scale + "%"
+                if (realy_height == 1560) {
+                    var h_scale = height / clientHeight
+                    div.style.top = (1 - h_scale) * 0.5 * 100 + "%"
+                }
+            }
+            text_obj.style.fontSize = (20 / max_scale) + "px"
+            text_obj2.style.fontSize = (20 / max_scale) + "px"
+        }
+    }
+
+    var text_list = ["首次加载时间较长，不如先想想帅气的名字吧~", "神奈之里正在迅速构建，请耐心等候哦~", "你是不是有些迫不及待了呀？我在更努力的加载了~", "嗖嗖嗖——我看到神奈之里的大门了，哇~"];
+    var text_list2 = ["正在启动游戏...",
+        "加载sdk中...",
+        "解压和初始化SDK中...",
+        "加载游戏引擎中...",
+        "解压和初始化引擎代码中...",
+        "加载游戏版本文件中...",
+        "解压和初始化游戏版本文件中...",
+        "加载游戏主逻辑文件中...",
+        "解压和初始化游戏主逻辑中...",
+        "加载游戏必须资源中...",
+        "解压游戏必须资源中...",
+        "加载游戏配置中...",
+        "初始化游戏中...",
+        "登录游戏场景中...",
+        "加载中...",
+        "加载中...",
+        "加载中...",
+        "加载中...",
+        "加载中...",
+        "加载中...",
+        "加载中...",
+        "加载中..."]
+    var text_len = -1;
+    var text_len2 = 0;
+
+    var div = document.getElementById("loadingDiv");
+    update_div(17)
+    text_obj.textContent = "正在连接服务器~";
+    text_obj2.textContent = text_list2[text_len2];
+    var update_div_time = next_time + 100; //延迟100毫秒刷新 防止wing上初始布局有问题
+    var next_time = new Date().getTime();
+    var next_time2 = next_time;
+    next_time += 1000;
+    next_time2 += 4000;
+    window["timeSi"] = setInterval("update();", 30);
+    var step = 1;
+    var step2 = 1;
+    var curr_time = null;
+    var speed = 0.15
+    var speed2 = speed * text_list2.length
+    var bar = document.getElementById("progImg");
+    var bar2 = document.getElementById("progImg2");
+    function update() {
+        step += speed;
+        step2 += speed2;
+        setBarWidth(step);
+        setBarWidth2(step2);
+        curr_time = new Date().getTime();
+        if (update_div_time && curr_time >= update_div_time) {
+            update_div_time = null
+            update_div(0)
+        }
+
+        if (curr_time >= next_time) {
+            ++text_len;
+            if (text_len >= text_list.length) {
+                text_len = 0;
+            }
+            next_time = next_time + 4000;
+            text_obj.textContent = text_list[text_len];
+        }
+
+    }
+
+    let removeLoadPage = function() {
+        var d = document.getElementById("loadingDiv");
+        if (d) {
+            document.body.removeChild(d);
+        }
+        if (window["timeSi"] > 0) {
+            clearInterval(window["timeSi"]);
+        }
+    }
+
+
+
+    let setBarWidth = function(p) {
+        if (bar) {
+            if (p > 79) {
+                p = 79;
+                // removeLoadPage()
+                // window.location.reload()
+            }
+            var w = p;
+            // console.log(document.body.clientWidth, document.body.clientHeight)
+            bar.style.width = w + '%';
+            // bar.style.height = '15px';
+        }
+    }
+    let setBarWidth2 = function(p) {
+        if (bar2) {
+            if (p > 80) {
+                p = 80;
+            }
+            var w = p;
+            // console.log(window.screen.height, window.screen.width)
+            // console.log(document.body.clientWidth, document.body.clientHeight)
+            bar2.style.width = w + '%';
+
+            if (p >= 79) {
+                ++text_len2;
+                if (text_len2 < text_list2.length) {
+                    step2 = 0;
+                } else {
+                    text_len2 = text_list2.length - 1
+                }
+            }
+            text_obj2.textContent = text_list2[text_len2] + '[' + Math.floor(p / 80 * 100) + '%]';
+            // bar2.style.height = '15px';
+        }
+    }
+
+    // //http请求加载json
+    let HttpRequest = function(url, call_func, need_json_format, type) {
+        var v_xhr = new XMLHttpRequest();
+        v_xhr.open('GET', url, true);
+        v_xhr.responseType = type
+        v_xhr.addEventListener("load", function () {
+            var json_obj = v_xhr.response;
+            if (need_json_format) {
+                json_obj = JSON.parse(json_obj);
+            }
+            if (call_func) {
+                call_func(json_obj)
+            }
+            // console.log("json_obj =", json_obj)
+        });
+        v_xhr.send(null);
+    }
+    let LoadthinkingdataCallback = function()
+    {
+        var config = {
+            appId: '5a4e187bdea6470381baff4d5e3d6cee',
+            serverUrl: 'https://ta.sydevlop.cn/ '
+        };
+
+        console.log("数数库加载成功！！！")
+        // 将 SDK 实例赋给全局变量 ta，或者其他您指定的变量
+        window.thinkingdata = thinkingdata;
+
+        // 用配置对象初始化 SDK
+        thinkingdata.init(config);
+
+        // 之后您就可以使用 ta 来上报事件了
+        // thinkingdata.track('test_event');
+    }
+
+    function loadLib(url) {
+        var script = document.createElement("script");
+        script.async = false;
+        script.src = url;
+        script.addEventListener('load', function () {
+                        script.parentNode.removeChild(script);
+                        if(url.indexOf("thinkingdata") >= 0)
+                        {
+                            LoadthinkingdataCallback()
+                        }
+                    }, false);
+        document.body.appendChild(script);
+    }
+    let loadConfigComplete = function(cfg_obj) {
+        var cdn_res_path = ""
+        if(cfg_obj)
+        {
+            cdn_res_path = cfg_obj.ResUrl || ""
+        }
+        HttpRequest(cdn_res_path + 'resource/game_manul_version.json?v=' + Math.random(), function (json_obj) {
+            if (json_obj) {
+                version_text.textContent = 'version:' + json_obj.main_version + '.' + json_obj.hot_update_version
+                window["engine_version"] = json_obj.engine_version
+                window["main_version"] = json_obj.main_version
+                window["hot_update_version"] = json_obj.hot_update_version
+
+                window["resource_version"] = json_obj.resource_version
+                window["js_version"] = json_obj.js_version
+                window["uiconfig_version"] = json_obj.uiconfig_version
+
+                var engine_ver = window["engine_version"] || 1
+                var is_debug = false
+                var curr_url = window.location.href.toString();
+                if (curr_url) {
+                    var param_list = curr_url.split(":");
+                    if (param_list && param_list[0]) {
+                        if(param_list[0] == "file" || curr_url.indexOf("localhost") >= 0)
+                        {
+                            is_debug = true
+                        }
+                    }
+                }
+                window["run_in_es5"] = false
+                try {
+                    eval('function foo(bar, ...rest) { return 1; };');
+                    console.log("-----------------run in es6------------------")
+                } catch (error) {
+                    console.log("-----------------run in es5------------------")
+                    window["run_in_es5"] = true
+                }
+        
+           
+                window["subPackage_loaded"] = false
+                if(is_debug)
+                {
+                    window["subPackage_loaded"] = true
+                    loadLib("index.js?v="+Math.random()); //调试版leb必须调用index.js才生效
+                }else
+                {
+                    var loadReleaseLib = function(url, callback) {
+                        var script = document.createElement("script");
+                        script.async = false;
+                        script.src = url;
+                        script.addEventListener('load', function () {
+                            script.parentNode.removeChild(script);
+                            // if(!window["run_in_es5"])
+                            //     script.removeEventListener('load', arguments.caller, false);
+                            if(callback)
+                            {
+                                callback();
+                            }
+                        }, false);
+                        document.body.appendChild(script);
+                    }
+                    var loadBundleCallback = function()
+                    {
+                        // if(plat_name)//外服才需要接入ta数数
+                        if(1)
+                        {
+                            loadReleaseLib("libs/min/thinkingdata.umd.min.js?v=" + engine_ver, function ()
+                            {
+                                LoadthinkingdataCallback()
+                            });
+                        }
+                    }
+                    var main_ver = window["js_version"] || 1
+                    if(window["run_in_es5"])
+                    {
+                        loadReleaseLib("libs/laya.core.js?v="+engine_ver+1, null);
+                        loadReleaseLib("libs/laya.ui.js?v="+engine_ver+1, null);
+                        loadReleaseLib("libs/laya.d3.js?v="+engine_ver+1, null);
+                        loadReleaseLib("libs/laya.html.js?v="+engine_ver+1, null);
+                        loadReleaseLib("libs/laya.device.js?v="+engine_ver+1, null);
+                        loadReleaseLib("libs/jszip.js?v=1"+1, null);
+                        loadReleaseLib("libs/polyfill.js?v=1", null);
+                        loadReleaseLib("js/bundle_es5.js?v=" + main_ver, function ()
+                        {
+                            loadBundleCallback();
+                            setTimeout(() => {
+                                loadReleaseLib("js/subPackage_es5.js?v=" + main_ver, function ()
+                                {
+                                    window["subPackage_loaded"] = true
+                                });
+                            }, 1000); 
+                        }); 
+                    }else
+                    {
+                        loadReleaseLib("libs/min/laya.core.min.js?v="+engine_ver, null);
+                        loadReleaseLib("libs/min/laya.ui.min.js?v="+engine_ver, null);
+                        loadReleaseLib("libs/min/laya.d3.min.js?v="+engine_ver, null);
+                        loadReleaseLib("libs/min/laya.html.min.js?v="+engine_ver, null);
+                        loadReleaseLib("libs/min/laya.device.min.js?v="+engine_ver, null);
+                        loadReleaseLib("libs/min/jszip.min.js?v=1", null);
+                        loadReleaseLib("js/bundle.js?v=" + main_ver, function ()
+                        {
+                            loadBundleCallback();
+                            setTimeout(() => {
+                                loadReleaseLib("js/subPackage.js?v=" + main_ver, function ()
+                                {
+                                    window["subPackage_loaded"] = true
+                                });
+                            }, 1000); 
+                        }); 
+                    }
+                }
+            }
+        }, true, '');
+    }
+
+    let load_default_config = function() {
+        let load_default_config_call_back = function(data) {
+            if (data) {
+                window["PreloadClientConfig"] = data
+                loadConfigComplete(data)
+            }
+        }
+        HttpRequest("resource/config/client/ClientConfig.json?v=" + Math.random(), load_default_config_call_back, true, '');
+    }
+    if (plat_name) {
+        let load_plat_config_call_back = function(data) {
+            if (data) {
+                window["PreloadClientConfig"] = data
+                loadConfigComplete(data)
+            } else {
+                load_default_config()
+            }
+        }
+        var url = 'platform/config_' + plat_name + '.cfg?v='
+        HttpRequest(url + Math.random(), load_plat_config_call_back, true, '');
+    } else {
+        load_default_config()
+    }
+</script>
+</body>
+</html>
